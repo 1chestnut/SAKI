@@ -1,0 +1,42 @@
+{
+  "01_ESC50": {
+    "name": "ESC-50",
+    "n": 2000,
+    "factorial_source": "25_final_experiment_alpha03_Nr5/test/01_ESC50",
+    "selector_source": "26_relation_selection_AAKV_control/01_ESC50",
+    "raw_source": "25g_RawTriple_FS_control/01_ESC50",
+    "n_classes": 50
+  },
+  "02_UrbanSound8K": {
+    "name": "UrbanSound8K",
+    "n": 8732,
+    "factorial_source": "25_final_experiment_alpha03_Nr5/test/02_UrbanSound8K",
+    "selector_source": "26_relation_selection_AAKV_control/02_UrbanSound8K",
+    "raw_source": "25g_RawTriple_FS_control/02_UrbanSound8K",
+    "n_classes": 10
+  },
+  "03_FSD50K": {
+    "name": "FSD50K",
+    "n": 10231,
+    "factorial_source": "31_corrected_aakv_cache/factorial/test/03_FSD50K",
+    "selector_source": "31_corrected_aakv_cache/selector_control/03_FSD50K",
+    "raw_source": "25g_RawTriple_FS_control/03_FSD50K",
+    "n_classes": 200
+  },
+  "05_AudioSet": {
+    "name": "AudioSet",
+    "n": 17233,
+    "factorial_source": "31_corrected_aakv_cache/factorial/test/05_AudioSet",
+    "selector_source": "31_corrected_aakv_cache/selector_control/05_AudioSet",
+    "raw_source": "25g_RawTriple_FS_control/05_AudioSet",
+    "n_classes": 527
+  },
+  "06_TUT2017": {
+    "name": "TUT2017",
+    "n": 6300,
+    "factorial_source": "28_TUT2017_full6300_rerun/main/test/06_TUT2017",
+    "selector_source": "28_TUT2017_full6300_rerun/selector/06_TUT2017",
+    "raw_source": "28_TUT2017_full6300_rerun/raw/06_TUT2017",
+    "n_classes": 15
+  }
+}

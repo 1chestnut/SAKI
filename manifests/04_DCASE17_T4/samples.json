@@ -1,0 +1,3463 @@
+[
+  {
+    "sample_index": 0,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-5QrBL6MzLg_60.000_70.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 3434434548
+  },
+  {
+    "sample_index": 1,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-E0shPRxAbo_30.000_40.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 190243634
+  },
+  {
+    "sample_index": 2,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-GCwoyCnYsY_0.000_10.000.wav",
+    "true_indices": [
+      14
+    ],
+    "seed": 1984338641
+  },
+  {
+    "sample_index": 3,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Gbohom8C4Q_30.000_40.000.wav",
+    "true_indices": [
+      14,
+      16,
+      13
+    ],
+    "seed": 3432618807
+  },
+  {
+    "sample_index": 4,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Qfk_Q2ctBs_30.000_40.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 2383492044
+  },
+  {
+    "sample_index": 5,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Wd1pV7UjWg_60.000_70.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 4162683001
+  },
+  {
+    "sample_index": 6,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Zq22n4OewA_30.000_40.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 3863015374
+  },
+  {
+    "sample_index": 7,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-jj2tyuf6-A_80.000_90.000.wav",
+    "true_indices": [
+      14,
+      16,
+      2
+    ],
+    "seed": 1524496124
+  },
+  {
+    "sample_index": 8,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-nGBPqlRNg4_30.000_40.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 1050190881
+  },
+  {
+    "sample_index": 9,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-u9BxBNcrw4_30.000_40.000.wav",
+    "true_indices": [
+      14
+    ],
+    "seed": 3437329047
+  },
+  {
+    "sample_index": 10,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-zqW9xCZd80_260.000_270.000.wav",
+    "true_indices": [
+      14
+    ],
+    "seed": 1821141532
+  },
+  {
+    "sample_index": 11,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0HqeYIREv8M_30.000_40.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 1240625851
+  },
+  {
+    "sample_index": 12,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0IpYF91Fdt0_80.000_90.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 3996961334
+  },
+  {
+    "sample_index": 13,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0NaZejdABG0_90.000_100.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 134956936
+  },
+  {
+    "sample_index": 14,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0RurXUfKyow_4.000_14.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 1814398863
+  },
+  {
+    "sample_index": 15,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0_HnD-rW3lI_170.000_180.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 4287396399
+  },
+  {
+    "sample_index": 16,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y10i60V1RZkQ_210.000_220.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 3184173639
+  },
+  {
+    "sample_index": 17,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1FJY5X1iY9I_170.000_180.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 1017476216
+  },
+  {
+    "sample_index": 18,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1S5WKCcf-wU_40.000_50.000.wav",
+    "true_indices": [
+      14
+    ],
+    "seed": 2744998959
+  },
+  {
+    "sample_index": 19,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1U0Ty6CW6AM_40.000_50.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 268495583
+  },
+  {
+    "sample_index": 20,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1hQLr88iCvg_30.000_40.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 3328500527
+  },
+  {
+    "sample_index": 21,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1iUXERALOOs_190.000_200.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 94596611
+  },
+  {
+    "sample_index": 22,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1oJAVJPX0YY_20.000_30.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 3881909462
+  },
+  {
+    "sample_index": 23,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y26dNsDuIt9Q_340.000_350.000.wav",
+    "true_indices": [
+      14,
+      16,
+      13
+    ],
+    "seed": 1256187856
+  },
+  {
+    "sample_index": 24,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y2RpOd9MJjyQ_10.000_20.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 2403239838
+  },
+  {
+    "sample_index": 25,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y2aBV6AZt5nk_570.000_580.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 523156357
+  },
+  {
+    "sample_index": 26,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-8baTnilyjs_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 3615245364
+  },
+  {
+    "sample_index": 27,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-jG26jT3fP8_230.000_240.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 2168504054
+  },
+  {
+    "sample_index": 28,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-v7cUxke-f4_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 3821157277
+  },
+  {
+    "sample_index": 29,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-yeWlsEpcpA_15.000_25.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 2120910191
+  },
+  {
+    "sample_index": 30,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y04KOunVOkSA_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 1113570377
+  },
+  {
+    "sample_index": 31,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y08y2LHhxmsM_400.000_410.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 2552969428
+  },
+  {
+    "sample_index": 32,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0G73yqtBwgE_11.000_21.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 2633568957
+  },
+  {
+    "sample_index": 33,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0UPY7ws-VFs_10.000_20.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 1206328966
+  },
+  {
+    "sample_index": 34,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1iRgwn7p0DA_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 2649428632
+  },
+  {
+    "sample_index": 35,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1myTsHAIvYc_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 2486050416
+  },
+  {
+    "sample_index": 36,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1z0XoG6GEv4_420.000_430.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 3663525644
+  },
+  {
+    "sample_index": 37,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y2KmSuPb9gwA_24.000_34.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 3144550847
+  },
+  {
+    "sample_index": 38,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y2Vy5NCEkg2I_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 2955848766
+  },
+  {
+    "sample_index": 39,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y3YaLkgUMhAA_110.000_120.000.wav",
+    "true_indices": [
+      16,
+      7,
+      15
+    ],
+    "seed": 2012450223
+  },
+  {
+    "sample_index": 40,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y3ntFslTK6hM_90.000_100.000.wav",
+    "true_indices": [
+      16,
+      13
+    ],
+    "seed": 3373321513
+  },
+  {
+    "sample_index": 41,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y3rGOv4evODE_20.000_30.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 3258223835
+  },
+  {
+    "sample_index": 42,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y42U7xIucU68_20.000_30.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 1159922543
+  },
+  {
+    "sample_index": 43,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y46r7mO2k6zY_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 712727039
+  },
+  {
+    "sample_index": 44,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y4NTjS5pFfSc_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 3835852416
+  },
+  {
+    "sample_index": 45,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y4bvfOnX7BIE_30.000_40.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 4152939552
+  },
+  {
+    "sample_index": 46,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y4l78f9VZ9uE_30.000_40.000.wav",
+    "true_indices": [
+      16,
+      7
+    ],
+    "seed": 3818243663
+  },
+  {
+    "sample_index": 47,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-ajCLjpfGKI_83.000_93.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 1736360547
+  },
+  {
+    "sample_index": 48,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-hLSc9aPOms_13.000_23.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 1535662486
+  },
+  {
+    "sample_index": 49,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0C3kqtF76t8_50.000_60.000.wav",
+    "true_indices": [
+      4,
+      15
+    ],
+    "seed": 2164307788
+  },
+  {
+    "sample_index": 50,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0Hz4R_m0hmI_80.000_90.000.wav",
+    "true_indices": [
+      4,
+      3
+    ],
+    "seed": 1921781726
+  },
+  {
+    "sample_index": 51,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0ZPafgZftWk_80.000_90.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 365662026
+  },
+  {
+    "sample_index": 52,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0npLQ4LzD0c_40.000_50.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 4221134414
+  },
+  {
+    "sample_index": 53,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y3HxQ83IMyw4_70.000_80.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 3939203933
+  },
+  {
+    "sample_index": 54,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y3z05luLEc_Q_0.000_10.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 287912595
+  },
+  {
+    "sample_index": 55,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y4A1Ar1TIXIY_30.000_40.000.wav",
+    "true_indices": [
+      4,
+      9
+    ],
+    "seed": 4256276473
+  },
+  {
+    "sample_index": 56,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y4Kpklmj-ze0_53.000_63.000.wav",
+    "true_indices": [
+      4,
+      3
+    ],
+    "seed": 3462738644
+  },
+  {
+    "sample_index": 57,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y5P6YYsMaIH4_30.000_40.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 2812801493
+  },
+  {
+    "sample_index": 58,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y5tzTahLHylw_70.000_80.000.wav",
+    "true_indices": [
+      4,
+      3
+    ],
+    "seed": 1256706375
+  },
+  {
+    "sample_index": 59,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y7NJ5TbNEIvA_250.000_260.000.wav",
+    "true_indices": [
+      4,
+      3
+    ],
+    "seed": 2824136680
+  },
+  {
+    "sample_index": 60,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y7ee54nr6jG8_30.000_40.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 1041758149
+  },
+  {
+    "sample_index": 61,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y8OajsyPSNt8_40.000_50.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 4043547594
+  },
+  {
+    "sample_index": 62,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y9fCibkUT_gQ_30.000_40.000.wav",
+    "true_indices": [
+      4,
+      3,
+      5
+    ],
+    "seed": 3679685784
+  },
+  {
+    "sample_index": 63,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y9fzeD7CeI7Y_110.000_120.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 910281220
+  },
+  {
+    "sample_index": 64,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y9jYv9WuyknA_130.000_140.000.wav",
+    "true_indices": [
+      4,
+      3
+    ],
+    "seed": 2524222629
+  },
+  {
+    "sample_index": 65,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/YA-GNszKtjJc_93.000_103.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 3642736523
+  },
+  {
+    "sample_index": 66,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/YA437a4Y_xag_230.000_240.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 3435971428
+  },
+  {
+    "sample_index": 67,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/YAPMPW2YI-Zk_20.000_30.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 450556557
+  },
+  {
+    "sample_index": 68,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/YAR-KmtlXg4Y_70.000_80.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 935179471
+  },
+  {
+    "sample_index": 69,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6d-zxMvC5E_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 1962494711
+  },
+  {
+    "sample_index": 70,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-8OITuFZha8_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 2443932181
+  },
+  {
+    "sample_index": 71,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-8n2NqDFRko_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 391793625
+  },
+  {
+    "sample_index": 72,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AIrHVeCgtM_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 67322379
+  },
+  {
+    "sample_index": 73,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AVzYvKHwPg_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 1650434040
+  },
+  {
+    "sample_index": 74,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AXDeY-N2_M_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 980785998
+  },
+  {
+    "sample_index": 75,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-B1uzsLG0Dk_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 3330844794
+  },
+  {
+    "sample_index": 76,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Em3OpyaefM_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 2244156209
+  },
+  {
+    "sample_index": 77,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-FWkB2IDMhc_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 3720307622
+  },
+  {
+    "sample_index": 78,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-SP7KWmTRUU_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 4264825582
+  },
+  {
+    "sample_index": 79,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-h4or05bj_I_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 846181947
+  },
+  {
+    "sample_index": 80,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-oV6dQu5tZo_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 3415566554
+  },
+  {
+    "sample_index": 81,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-r8mfjRiHrU_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 1202779668
+  },
+  {
+    "sample_index": 82,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-x70B12Mb-8_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 2848178140
+  },
+  {
+    "sample_index": 83,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-xYsfYZOI-Y_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 426684885
+  },
+  {
+    "sample_index": 84,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y03xMfqt4fZI_24.000_34.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 559461801
+  },
+  {
+    "sample_index": 85,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0E4AqW9dmdk_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      3
+    ],
+    "seed": 1973302416
+  },
+  {
+    "sample_index": 86,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0FQo-2xRJ0E_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 625384715
+  },
+  {
+    "sample_index": 87,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0HmiH-wKLB4_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 1138367185
+  },
+  {
+    "sample_index": 88,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0KskqFt3DoY_15.000_25.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 4091769761
+  },
+  {
+    "sample_index": 89,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0OiPtV9sd_w_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 3080641123
+  },
+  {
+    "sample_index": 90,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0P-YGHC5cBU_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 737922948
+  },
+  {
+    "sample_index": 91,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0QKet-tdquc_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 4099433835
+  },
+  {
+    "sample_index": 92,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-5px8DVPl8A_28.000_38.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 1630496905
+  },
+  {
+    "sample_index": 93,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-D08wyQwDPQ_10.000_20.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 1562318315
+  },
+  {
+    "sample_index": 94,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-F1_Gh78vJ0_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 3737437688
+  },
+  {
+    "sample_index": 95,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-FZQIkX44Pk_10.000_20.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 3041547524
+  },
+  {
+    "sample_index": 96,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-FsvS99nWTc_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 626084488
+  },
+  {
+    "sample_index": 97,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Holdef_BZ0_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 511455341
+  },
+  {
+    "sample_index": 98,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Jq9HNSs_ns_14.000_24.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 2314153700
+  },
+  {
+    "sample_index": 99,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-KlN_AXMM0Q_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 4182188812
+  },
+  {
+    "sample_index": 100,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-OGFiXvmldM_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 2958911021
+  },
+  {
+    "sample_index": 101,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-RFpDUZhN-g_13.000_23.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 1196223215
+  },
+  {
+    "sample_index": 102,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-XUfeRTw3b4_0.000_6.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 365472096
+  },
+  {
+    "sample_index": 103,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-XoATxJ-Qcg_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 95882416
+  },
+  {
+    "sample_index": 104,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-e5PokL6Cyo_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 2957905784
+  },
+  {
+    "sample_index": 105,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-fNyOf9zIU0_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 3557954398
+  },
+  {
+    "sample_index": 106,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-fhpkRyZL90_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 2885172106
+  },
+  {
+    "sample_index": 107,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-k2nMcxAjWE_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 4194818670
+  },
+  {
+    "sample_index": 108,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-k80ibA-fyw_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 73580503
+  },
+  {
+    "sample_index": 109,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-lBcEVa_NKw_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 3244547182
+  },
+  {
+    "sample_index": 110,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-mQyAYU_Bd4_50.000_60.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 1671005989
+  },
+  {
+    "sample_index": 111,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-ngrinYHF4c_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 3769779026
+  },
+  {
+    "sample_index": 112,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-nqm_RJ2xj8_40.000_50.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 1214324350
+  },
+  {
+    "sample_index": 113,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-oAw5iTeT1g_40.000_50.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 3629798519
+  },
+  {
+    "sample_index": 114,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-p2EMzpTE38_4.000_14.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 566015919
+  },
+  {
+    "sample_index": 115,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0DIFwkUpjQ_50.000_60.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 1754186612
+  },
+  {
+    "sample_index": 116,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-53qltVyjpc_180.000_190.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 2226300014
+  },
+  {
+    "sample_index": 117,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-5y4jb9eUWs_110.000_120.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 384455275
+  },
+  {
+    "sample_index": 118,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-81kolkG8M0_0.000_8.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3211367933
+  },
+  {
+    "sample_index": 119,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9dwTSq6JZg_70.000_80.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 4033075580
+  },
+  {
+    "sample_index": 120,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9oKZsjjf_0_20.000_30.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3544328799
+  },
+  {
+    "sample_index": 121,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AFGfu5zOzQ_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3229658966
+  },
+  {
+    "sample_index": 122,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-DHGwygUsQc_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 2436775359
+  },
+  {
+    "sample_index": 123,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-DkuTmIs7_Q_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 317266397
+  },
+  {
+    "sample_index": 124,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-E1E17R7UBA_260.000_270.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 236100786
+  },
+  {
+    "sample_index": 125,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-McJLXNN3-o_50.000_60.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 372142990
+  },
+  {
+    "sample_index": 126,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-O5vrHFRzcY_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 2912141502
+  },
+  {
+    "sample_index": 127,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Qd_dXTbgK0_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 2215444093
+  },
+  {
+    "sample_index": 128,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-cd-Zn8qFxU_90.000_100.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 1565311482
+  },
+  {
+    "sample_index": 129,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-esP4loyvjM_60.000_70.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 1838166743
+  },
+  {
+    "sample_index": 130,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-iB3a71aPew_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3102687114
+  },
+  {
+    "sample_index": 131,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-mxMaMJCXL8_180.000_190.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3456270686
+  },
+  {
+    "sample_index": 132,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-nYGTw9Sypg_20.000_30.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3549257911
+  },
+  {
+    "sample_index": 133,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-oS19KshdlM_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 2554739820
+  },
+  {
+    "sample_index": 134,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-s6uxc77NWo_40.000_50.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 48309893
+  },
+  {
+    "sample_index": 135,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-saCvPTdQ7s_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 1375178
+  },
+  {
+    "sample_index": 136,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-sb-knLiDic_20.000_30.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3455885583
+  },
+  {
+    "sample_index": 137,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-7HVWUwyMig_30.000_40.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 2095349351
+  },
+  {
+    "sample_index": 138,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9pUUT-6o8U_30.000_40.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 150021741
+  },
+  {
+    "sample_index": 139,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Ei2LE71Dfg_20.000_30.000.wav",
+    "true_indices": [
+      0,
+      15
+    ],
+    "seed": 1385984638
+  },
+  {
+    "sample_index": 140,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-LGTb-xyjzA_11.000_21.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 2333600007
+  },
+  {
+    "sample_index": 141,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Y1qiiugnk8_30.000_40.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 2831960996
+  },
+  {
+    "sample_index": 142,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-YsrLG2K1TE_30.000_40.000.wav",
+    "true_indices": [
+      0,
+      9
+    ],
+    "seed": 2078212268
+  },
+  {
+    "sample_index": 143,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-ZeMV790MXE_10.000_20.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 3958250160
+  },
+  {
+    "sample_index": 144,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-d-T8Y9-TOg_17.000_27.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 834978621
+  },
+  {
+    "sample_index": 145,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-fCSO8SVWZU_6.000_16.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 779963470
+  },
+  {
+    "sample_index": 146,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-fGFQTGd2nA_10.000_20.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 1365393672
+  },
+  {
+    "sample_index": 147,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-hA1yMrEXz0_10.000_20.000.wav",
+    "true_indices": [
+      0,
+      7,
+      9
+    ],
+    "seed": 3025343707
+  },
+  {
+    "sample_index": 148,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-w-9yF465IY_30.000_40.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 3319083487
+  },
+  {
+    "sample_index": 149,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-xz75wUCln8_50.000_60.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 2354936695
+  },
+  {
+    "sample_index": 150,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-yPSgCn9AWo_30.000_40.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 3267280471
+  },
+  {
+    "sample_index": 151,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-z8jsgl3iHE_30.000_40.000.wav",
+    "true_indices": [
+      0,
+      7
+    ],
+    "seed": 301897174
+  },
+  {
+    "sample_index": 152,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y06RreMb5qbE_0.000_10.000.wav",
+    "true_indices": [
+      0,
+      9,
+      3
+    ],
+    "seed": 3758078103
+  },
+  {
+    "sample_index": 153,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0EPK7Pv_lbE_30.000_40.000.wav",
+    "true_indices": [
+      0,
+      9
+    ],
+    "seed": 3400865500
+  },
+  {
+    "sample_index": 154,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0Eem_FuIto_15.000_25.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 2070069912
+  },
+  {
+    "sample_index": 155,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2sT5oBBWWY_30.000_40.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 1775639704
+  },
+  {
+    "sample_index": 156,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-45cKZA7Jww_30.000_40.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 804356376
+  },
+  {
+    "sample_index": 157,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6qhtwdfGOA_23.000_33.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 4013094234
+  },
+  {
+    "sample_index": 158,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-8uyNBFbdFc_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 1464046812
+  },
+  {
+    "sample_index": 159,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-PRrNx6_MD0_16.000_26.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 3983826705
+  },
+  {
+    "sample_index": 160,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-QBo1W2w8II_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 565068658
+  },
+  {
+    "sample_index": 161,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-QX-ddNtUvE_24.000_34.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 522025787
+  },
+  {
+    "sample_index": 162,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-RlUu1el2G4_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 592400276
+  },
+  {
+    "sample_index": 163,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-SkO97C81Ms_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 3378026577
+  },
+  {
+    "sample_index": 164,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-T8QHPXfIC4_13.000_23.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 2982371579
+  },
+  {
+    "sample_index": 165,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-USiTjZoh88_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 127767017
+  },
+  {
+    "sample_index": 166,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-X0vNLwH1C0_30.000_40.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 494066105
+  },
+  {
+    "sample_index": 167,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-ZtZOcg3s7M_30.000_40.000.wav",
+    "true_indices": [
+      7,
+      9
+    ],
+    "seed": 3932750871
+  },
+  {
+    "sample_index": 168,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-cOjJ0Nvtlw_23.000_33.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 7789029
+  },
+  {
+    "sample_index": 169,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-cbYvBBXE6A_12.000_22.000.wav",
+    "true_indices": [
+      7,
+      3,
+      15
+    ],
+    "seed": 1562298500
+  },
+  {
+    "sample_index": 170,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-eYUCWGQ_wU_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 4229865370
+  },
+  {
+    "sample_index": 171,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-hplTh4SGvs_90.000_100.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 963423524
+  },
+  {
+    "sample_index": 172,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-nPhg6Eu4b4_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 4136133118
+  },
+  {
+    "sample_index": 173,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-oCvKmNbhl0_30.000_40.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 1731448460
+  },
+  {
+    "sample_index": 174,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-pvaJ4DwtRg_3.000_13.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 3816916099
+  },
+  {
+    "sample_index": 175,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-qKRKDTbt4c_30.000_40.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 4067916837
+  },
+  {
+    "sample_index": 176,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-sJn3uUxpH8_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 3479644415
+  },
+  {
+    "sample_index": 177,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-sfn1NDHWJI_30.000_40.000.wav",
+    "true_indices": [
+      7
+    ],
+    "seed": 3017173496
+  },
+  {
+    "sample_index": 178,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-09rxiqNNEs_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2922412029
+  },
+  {
+    "sample_index": 179,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3qh-WFUV2U_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1009156607
+  },
+  {
+    "sample_index": 180,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-4JG_Ag99hY_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1728537816
+  },
+  {
+    "sample_index": 181,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-60NmEaP0is_0.000_10.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1223841088
+  },
+  {
+    "sample_index": 182,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6cTEqIcics_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2141501664
+  },
+  {
+    "sample_index": 183,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6iVBmb5PZU_40.000_50.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1241578932
+  },
+  {
+    "sample_index": 184,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6qp8NjWffE_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 720293305
+  },
+  {
+    "sample_index": 185,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-75iY1j3MeY_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2031394678
+  },
+  {
+    "sample_index": 186,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-E3Yju3lrRo_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2623382441
+  },
+  {
+    "sample_index": 187,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-FHSBdx5A3g_40.000_50.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1778352292
+  },
+  {
+    "sample_index": 188,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-JhSzxTdcwY_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1919216911
+  },
+  {
+    "sample_index": 189,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-OtNDK_Hxp8_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2423246617
+  },
+  {
+    "sample_index": 190,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-c7XoYM-SSY_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1414872295
+  },
+  {
+    "sample_index": 191,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-j8EeIX9ynk_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 527267880
+  },
+  {
+    "sample_index": 192,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-t478yabOQw_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2197925647
+  },
+  {
+    "sample_index": 193,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-uIyMR9luvg_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2886382625
+  },
+  {
+    "sample_index": 194,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-zGAb18JxmI_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1635374668
+  },
+  {
+    "sample_index": 195,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y03NLMEMi8-I_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1878111008
+  },
+  {
+    "sample_index": 196,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0552YhBdeXo_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 3937413180
+  },
+  {
+    "sample_index": 197,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y06TM6z3NvuY_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1790195650
+  },
+  {
+    "sample_index": 198,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0CUi0oGUzjU_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 3815382230
+  },
+  {
+    "sample_index": 199,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0GpUFFJNFH8_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 4078378772
+  },
+  {
+    "sample_index": 200,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0HvYkBXQ44A_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 4107472065
+  },
+  {
+    "sample_index": 201,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0I6Mlp27_gM_30.000_40.000.wav",
+    "true_indices": [
+      6,
+      7,
+      9
+    ],
+    "seed": 1479831831
+  },
+  {
+    "sample_index": 202,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0JKcTVpby0I_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2699555976
+  },
+  {
+    "sample_index": 203,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0PhU-PIsUMw_40.000_50.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 1045812761
+  },
+  {
+    "sample_index": 204,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-122tCXtFhU_30.000_40.000.wav",
+    "true_indices": [
+      9,
+      3
+    ],
+    "seed": 919164329
+  },
+  {
+    "sample_index": 205,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2GlU3e0nTU_170.000_180.000.wav",
+    "true_indices": [
+      9,
+      15,
+      3
+    ],
+    "seed": 753030590
+  },
+  {
+    "sample_index": 206,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6WqJCSmkCw_70.000_80.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 4279380419
+  },
+  {
+    "sample_index": 207,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AF7wp3ezww_140.000_150.000.wav",
+    "true_indices": [
+      9,
+      3
+    ],
+    "seed": 2146078785
+  },
+  {
+    "sample_index": 208,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AFASmp1fpk_6.000_16.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 4093818806
+  },
+  {
+    "sample_index": 209,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-F2lk9A8B8M_30.000_40.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 1648452367
+  },
+  {
+    "sample_index": 210,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Pg4vVPs4bE_30.000_40.000.wav",
+    "true_indices": [
+      9,
+      3
+    ],
+    "seed": 1164296349
+  },
+  {
+    "sample_index": 211,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-UCf_-3yzWU_290.000_300.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 1829439827
+  },
+  {
+    "sample_index": 212,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-VULyMtKazE_0.000_7.000.wav",
+    "true_indices": [
+      9,
+      3
+    ],
+    "seed": 3758998460
+  },
+  {
+    "sample_index": 213,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-XRiLbb3Syo_2.000_12.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 4244604426
+  },
+  {
+    "sample_index": 214,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-XrpzGb6xCU_190.000_200.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 4204007181
+  },
+  {
+    "sample_index": 215,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-az6BooRLxw_40.000_50.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 4022715950
+  },
+  {
+    "sample_index": 216,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-dBTGdL4RFs_30.000_40.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 623082574
+  },
+  {
+    "sample_index": 217,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-gKNRXbpAKs_30.000_40.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 1765393150
+  },
+  {
+    "sample_index": 218,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-lWs7_49gss_30.000_40.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 2561332481
+  },
+  {
+    "sample_index": 219,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-lhnhB4rbGw_3.000_13.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 1507007038
+  },
+  {
+    "sample_index": 220,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-rkJeBBmiTQ_60.000_70.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 101972428
+  },
+  {
+    "sample_index": 221,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-rs7FPxzc6w_8.000_18.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 3577122187
+  },
+  {
+    "sample_index": 222,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-20uudT97E0_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 590865672
+  },
+  {
+    "sample_index": 223,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-4pUrlMafww_1.000_11.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 4151665912
+  },
+  {
+    "sample_index": 224,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-MuIRudOtxw_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 1381660724
+  },
+  {
+    "sample_index": 225,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-WfQBr42ymw_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 3563771164
+  },
+  {
+    "sample_index": 226,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-g_AcRVFfXU_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 425154251
+  },
+  {
+    "sample_index": 227,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-gb5uvwsRpI_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 1078724338
+  },
+  {
+    "sample_index": 228,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-pwgypWE-J8_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 3310863565
+  },
+  {
+    "sample_index": 229,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-vHJU1wDRsY_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 3065596059
+  },
+  {
+    "sample_index": 230,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0-RnTXpp8Q0_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 2074734589
+  },
+  {
+    "sample_index": 231,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0Ees8KFCUXM_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 3502737208
+  },
+  {
+    "sample_index": 232,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0EymGuYWkFk_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 4218595500
+  },
+  {
+    "sample_index": 233,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0Nw1OyTsaAo_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 2618934213
+  },
+  {
+    "sample_index": 234,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0YnOMAls83g_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 1904820347
+  },
+  {
+    "sample_index": 235,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0_gyUQkLCY8_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 1948732742
+  },
+  {
+    "sample_index": 236,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0_hnDV2SHBI_7.000_17.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 3581716261
+  },
+  {
+    "sample_index": 237,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0hC044mDsWA_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 3925080890
+  },
+  {
+    "sample_index": 238,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0kQANiakiH0_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 4131873714
+  },
+  {
+    "sample_index": 239,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0rVBXpbgO8s_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 884668524
+  },
+  {
+    "sample_index": 240,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y---lTs1dxhU_30.000_40.000.wav",
+    "true_indices": [
+      3,
+      5
+    ],
+    "seed": 566946878
+  },
+  {
+    "sample_index": 241,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--330hg-Ocw_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 4284862782
+  },
+  {
+    "sample_index": 242,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--8puiAGLhs_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 2277910114
+  },
+  {
+    "sample_index": 243,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--F70LWypIg_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 2930515601
+  },
+  {
+    "sample_index": 244,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--P4wuph3Mc_0.000_8.000.wav",
+    "true_indices": [
+      3,
+      5
+    ],
+    "seed": 764306810
+  },
+  {
+    "sample_index": 245,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--QvRbvnbUE_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 732584949
+  },
+  {
+    "sample_index": 246,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--SeOZy3Yik_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 2686420257
+  },
+  {
+    "sample_index": 247,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--Zz7BgxSUg_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 586110570
+  },
+  {
+    "sample_index": 248,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--e0Vu_ruTc_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 1433859567
+  },
+  {
+    "sample_index": 249,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--iFD6IyQW8_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 1627820710
+  },
+  {
+    "sample_index": 250,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--jGnLqFsQ4_24.000_34.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 3029423603
+  },
+  {
+    "sample_index": 251,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--jc0NAxK8M_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 3714885340
+  },
+  {
+    "sample_index": 252,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--yaQA8d1dI_6.000_16.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 3213475785
+  },
+  {
+    "sample_index": 253,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--zLzL0sq3M_30.000_40.000.wav",
+    "true_indices": [
+      3,
+      5
+    ],
+    "seed": 1126670023
+  },
+  {
+    "sample_index": 254,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0-jXXldDOU_10.000_20.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 4047323538
+  },
+  {
+    "sample_index": 255,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-03ld83JliM_29.000_39.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 3597661745
+  },
+  {
+    "sample_index": 256,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0Bkyt8iZ1I_8.000_18.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 254785875
+  },
+  {
+    "sample_index": 257,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0CIk-OOp7Y_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 568274314
+  },
+  {
+    "sample_index": 258,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0CRb8H4hzY_4.000_14.000.wav",
+    "true_indices": [
+      3,
+      5
+    ],
+    "seed": 1404503941
+  },
+  {
+    "sample_index": 259,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0CY5NWBHyY_20.000_30.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 255679501
+  },
+  {
+    "sample_index": 260,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0HsrVfb5vc_20.000_30.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 206367127
+  },
+  {
+    "sample_index": 261,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0I89-H0AFo_26.000_36.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 2518133593
+  },
+  {
+    "sample_index": 262,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0P6VDQ1YDs_80.000_90.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 3042965476
+  },
+  {
+    "sample_index": 263,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0PrEsytvc0_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 1743737046
+  },
+  {
+    "sample_index": 264,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0RqnaXZu_E_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 1489229963
+  },
+  {
+    "sample_index": 265,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--zbPxnl27o_20.000_30.000.wav",
+    "true_indices": [
+      5
+    ],
+    "seed": 1553045055
+  },
+  {
+    "sample_index": 266,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0MnD7jBvkE_0.000_4.000.wav",
+    "true_indices": [
+      5
+    ],
+    "seed": 3352879824
+  },
+  {
+    "sample_index": 267,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0U3c4PN8sc_30.000_40.000.wav",
+    "true_indices": [
+      5
+    ],
+    "seed": 2466383930
+  },
+  {
+    "sample_index": 268,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-10fWp7Pqs4_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 1975150027
+  },
+  {
+    "sample_index": 269,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-14BFlDzjS4_6.000_16.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 765065549
+  },
+  {
+    "sample_index": 270,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-15nPYi2v1g_30.000_40.000.wav",
+    "true_indices": [
+      5
+    ],
+    "seed": 2490278383
+  },
+  {
+    "sample_index": 271,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1BrkFLHD74_19.000_29.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 2638798604
+  },
+  {
+    "sample_index": 272,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1HlfoHZCEE_6.000_16.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 3058312787
+  },
+  {
+    "sample_index": 273,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1McjOPUzbo_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 1275945826
+  },
+  {
+    "sample_index": 274,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1sGSNmgiPs_4.000_14.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 1279820245
+  },
+  {
+    "sample_index": 275,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2-luek6dI8_30.000_40.000.wav",
+    "true_indices": [
+      5
+    ],
+    "seed": 2160422083
+  },
+  {
+    "sample_index": 276,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-25LkbSjEos_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 2289157616
+  },
+  {
+    "sample_index": 277,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2LJWaL2PuA_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 1261366068
+  },
+  {
+    "sample_index": 278,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2ZbvsBSZmY_2.000_12.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 563060551
+  },
+  {
+    "sample_index": 279,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2cz2qQDmr4_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 2680692284
+  },
+  {
+    "sample_index": 280,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3929cmVE20_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 4206431683
+  },
+  {
+    "sample_index": 281,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3M-k4nIYIM_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 2649216297
+  },
+  {
+    "sample_index": 282,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3MNphBfq_0_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 1030703385
+  },
+  {
+    "sample_index": 283,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3_RSVYKkkk_30.000_40.000.wav",
+    "true_indices": [
+      5,
+      3
+    ],
+    "seed": 498493400
+  },
+  {
+    "sample_index": 284,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3exNVlj92w_30.000_40.000.wav",
+    "true_indices": [
+      5
+    ],
+    "seed": 3090773382
+  },
+  {
+    "sample_index": 285,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--0w1YA1Hm4_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 1763736757
+  },
+  {
+    "sample_index": 286,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-5GcZwBvBdI_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 1515121108
+  },
+  {
+    "sample_index": 287,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-7B4pbkIEas_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 382616413
+  },
+  {
+    "sample_index": 288,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-8YTu7ZGA2w_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2975395214
+  },
+  {
+    "sample_index": 289,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-93IM29_8rs_14.000_24.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 3260474774
+  },
+  {
+    "sample_index": 290,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9J9xs7LM9Y_25.000_35.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2667370087
+  },
+  {
+    "sample_index": 291,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AY_lZLYJR8_8.000_18.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2861305282
+  },
+  {
+    "sample_index": 292,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-BxfsWlPUPY_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 1926445446
+  },
+  {
+    "sample_index": 293,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-CgCr8Eknm0_14.000_24.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 792088828
+  },
+  {
+    "sample_index": 294,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-CnsvTDIXdE_20.000_30.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 222823799
+  },
+  {
+    "sample_index": 295,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-CpMlnGhxEU_0.000_9.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 1761394681
+  },
+  {
+    "sample_index": 296,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-DP_cv0x_Ng_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 227586230
+  },
+  {
+    "sample_index": 297,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-FEXRjcryZE_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2097161403
+  },
+  {
+    "sample_index": 298,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Fp2-w-iLiE_20.000_30.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 745787566
+  },
+  {
+    "sample_index": 299,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Ga9sSkpngg_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 3255253199
+  },
+  {
+    "sample_index": 300,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-H8V23dZoLo_0.000_10.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 1245756220
+  },
+  {
+    "sample_index": 301,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-HeQfwKbFzg_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2458143010
+  },
+  {
+    "sample_index": 302,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-HzzEuFBiDU_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 3871443732
+  },
+  {
+    "sample_index": 303,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-I4INTpMKT4_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 1746234849
+  },
+  {
+    "sample_index": 304,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-II-7qJxKPc_21.000_31.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 78831668
+  },
+  {
+    "sample_index": 305,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-LnpzyfTkF8_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 381799832
+  },
+  {
+    "sample_index": 306,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-OgRshQfsi8_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2924338808
+  },
+  {
+    "sample_index": 307,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-P53lJ1ViWk_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2575055339
+  },
+  {
+    "sample_index": 308,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-PvNUvEov4Q_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 695695174
+  },
+  {
+    "sample_index": 309,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--12UOziMF0_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3789482704
+  },
+  {
+    "sample_index": 310,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--73E04RpiQ_0.000_9.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 4206800443
+  },
+  {
+    "sample_index": 311,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--J947HxQVM_0.000_9.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3168827201
+  },
+  {
+    "sample_index": 312,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--ivFZu-hlc_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 853550692
+  },
+  {
+    "sample_index": 313,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0B_CYyG5Dg_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 624024961
+  },
+  {
+    "sample_index": 314,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0JqTq_4jaE_40.000_50.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 248307027
+  },
+  {
+    "sample_index": 315,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0awng26xQ8_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 1950098406
+  },
+  {
+    "sample_index": 316,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0dq1Vg9rd8_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3650714442
+  },
+  {
+    "sample_index": 317,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1B3CzpiW1M_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3594459959
+  },
+  {
+    "sample_index": 318,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1Q21cZhHDE_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 255977006
+  },
+  {
+    "sample_index": 319,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1ZXXnBXJ6c_8.000_18.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3722662159
+  },
+  {
+    "sample_index": 320,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1s0DWApvT8_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3489849496
+  },
+  {
+    "sample_index": 321,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1s84_2Vn4g_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3311619656
+  },
+  {
+    "sample_index": 322,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2EscdO0l-A_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3956074748
+  },
+  {
+    "sample_index": 323,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2NBZUCcvm0_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 1689660422
+  },
+  {
+    "sample_index": 324,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2vmprMUw10_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 2120892880
+  },
+  {
+    "sample_index": 325,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-2x4TB8VWvE_18.000_28.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 4097337014
+  },
+  {
+    "sample_index": 326,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-39q4y0tt-g_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3004535361
+  },
+  {
+    "sample_index": 327,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3NcUIyJtFY_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 3160317222
+  },
+  {
+    "sample_index": 328,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3gSkrDKNSA_27.000_37.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 343063178
+  },
+  {
+    "sample_index": 329,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--p-rk_HBuU_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 1806497188
+  },
+  {
+    "sample_index": 330,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1WK72M4xeg_220.000_230.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 1673630836
+  },
+  {
+    "sample_index": 331,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1XfuJcdvfg_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 3153390264
+  },
+  {
+    "sample_index": 332,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3XWBAmjmaQ_11.000_21.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 142031995
+  },
+  {
+    "sample_index": 333,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-4-87UgJcUw_70.000_80.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2250794417
+  },
+  {
+    "sample_index": 334,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-4D3Gkyisyc_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 3962318553
+  },
+  {
+    "sample_index": 335,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6Yfati1N10_80.000_90.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 1286993263
+  },
+  {
+    "sample_index": 336,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-7rZwMK6uSs_70.000_80.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 3437750042
+  },
+  {
+    "sample_index": 337,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-85f5DKKfSo_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 42128531
+  },
+  {
+    "sample_index": 338,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9Smdrt5zwk_40.000_50.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2055896071
+  },
+  {
+    "sample_index": 339,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9gZLVDKpnE_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2205522596
+  },
+  {
+    "sample_index": 340,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-BGebo8V4XY_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2388185878
+  },
+  {
+    "sample_index": 341,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-DdiduB5B_w_190.000_200.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2965651115
+  },
+  {
+    "sample_index": 342,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-HIPq7T3eFI_11.000_21.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2572617560
+  },
+  {
+    "sample_index": 343,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-H_3oEkKe0M_50.000_60.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 699780356
+  },
+  {
+    "sample_index": 344,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-IMRE_psvtI_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2747724399
+  },
+  {
+    "sample_index": 345,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Ie4LSPDEF4_6.000_16.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 451040571
+  },
+  {
+    "sample_index": 346,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-J0F29UCZiA_70.000_80.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 675979281
+  },
+  {
+    "sample_index": 347,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-KFCJ7ydu2E_0.000_10.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 4197795811
+  },
+  {
+    "sample_index": 348,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-P7iW3WzNfc_400.000_410.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 903374356
+  },
+  {
+    "sample_index": 349,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-QMAKXzIGx4_10.000_20.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 3638862832
+  },
+  {
+    "sample_index": 350,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-S-5z2vYtxw_10.000_20.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2713193996
+  },
+  {
+    "sample_index": 351,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-SlL0NZh51w_30.000_40.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2517259972
+  },
+  {
+    "sample_index": 352,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-VO-C9C0uqY_1.000_11.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 3831151895
+  },
+  {
+    "sample_index": 353,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1VsFy0eVJs_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 3073165482
+  },
+  {
+    "sample_index": 354,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3FIglJti0s_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 2889626071
+  },
+  {
+    "sample_index": 355,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6KOEEiAf9s_19.000_29.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 1049521555
+  },
+  {
+    "sample_index": 356,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9S5Z-uciLo_70.000_80.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 1516659786
+  },
+  {
+    "sample_index": 357,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-JpQivta6MQ_20.000_30.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 2190493204
+  },
+  {
+    "sample_index": 358,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-K9oTZj3mVQ_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 1898794566
+  },
+  {
+    "sample_index": 359,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-NrFtZ_xxFU_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 3016500835
+  },
+  {
+    "sample_index": 360,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-PYRamK58Ss_0.000_10.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 2355679727
+  },
+  {
+    "sample_index": 361,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Pjylzex7oc_350.000_360.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 3776998300
+  },
+  {
+    "sample_index": 362,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-QHuZGmIy_I_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 3015066719
+  },
+  {
+    "sample_index": 363,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-RXKRoRPWXg_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 1962151514
+  },
+  {
+    "sample_index": 364,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-VH414svzI0_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 3498403493
+  },
+  {
+    "sample_index": 365,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-XcC-UlbcRA_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 2096142883
+  },
+  {
+    "sample_index": 366,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-ZKZkMHe3cY_70.000_80.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 2703101551
+  },
+  {
+    "sample_index": 367,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-abVemAm9HM_430.000_440.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 1729600339
+  },
+  {
+    "sample_index": 368,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--9VR_F7CtY_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 3806915156
+  },
+  {
+    "sample_index": 369,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--v1WjOJv-w_150.000_160.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 1582946518
+  },
+  {
+    "sample_index": 370,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y--xDffQ9Mwo_30.000_40.000.wav",
+    "true_indices": [
+      3,
+      5
+    ],
+    "seed": 2386878216
+  },
+  {
+    "sample_index": 371,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0B-egfXU7E_30.000_40.000.wav",
+    "true_indices": [
+      3
+    ],
+    "seed": 3497050209
+  },
+  {
+    "sample_index": 372,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0Yynyhm1AY_14.000_24.000.wav",
+    "true_indices": [
+      3,
+      5
+    ],
+    "seed": 3979891443
+  },
+  {
+    "sample_index": 373,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-0_vEaaXndY_11.000_21.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2693187646
+  },
+  {
+    "sample_index": 374,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-14RXdkqYuI_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 2502525621
+  },
+  {
+    "sample_index": 375,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-19pq3HJoBM_30.000_40.000.wav",
+    "true_indices": [
+      5
+    ],
+    "seed": 3517747970
+  },
+  {
+    "sample_index": 376,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-1U98XBTyB4_30.000_40.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 3478370659
+  },
+  {
+    "sample_index": 377,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-26ansJluVo_30.000_40.000.wav",
+    "true_indices": [
+      15
+    ],
+    "seed": 2549655521
+  },
+  {
+    "sample_index": 378,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-3bGlOhRkAo_140.000_150.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 4189667919
+  },
+  {
+    "sample_index": 379,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-4B435WQvag_20.000_30.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 2356366955
+  },
+  {
+    "sample_index": 380,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-5digoPWn6U_8.000_18.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2547321365
+  },
+  {
+    "sample_index": 381,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-60XojQWWoc_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 4206482497
+  },
+  {
+    "sample_index": 382,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6A2L1U9b5Y_54.000_64.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 1023347207
+  },
+  {
+    "sample_index": 383,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-6qSMlbJJ58_30.000_40.000.wav",
+    "true_indices": [
+      10
+    ],
+    "seed": 1782669757
+  },
+  {
+    "sample_index": 384,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-7R0ybQQAHg_60.000_70.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 95669003
+  },
+  {
+    "sample_index": 385,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-7_o_GhpZpM_12.000_22.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 3910665763
+  },
+  {
+    "sample_index": 386,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-9GhPxGkpio_26.000_36.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 3286941168
+  },
+  {
+    "sample_index": 387,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-AdQBgtN_4E_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 122017769
+  },
+  {
+    "sample_index": 388,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-BM_EAszxBg_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 3291299319
+  },
+  {
+    "sample_index": 389,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-E1aIXhB4YU_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 191283673
+  },
+  {
+    "sample_index": 390,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-GLk6G9U09A_30.000_40.000.wav",
+    "true_indices": [
+      2
+    ],
+    "seed": 2842247316
+  },
+  {
+    "sample_index": 391,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-HmuMoykRqA_500.000_510.000.wav",
+    "true_indices": [
+      8
+    ],
+    "seed": 2636833161
+  },
+  {
+    "sample_index": 392,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Jsu4dbuO4A_30.000_40.000.wav",
+    "true_indices": [
+      7,
+      15
+    ],
+    "seed": 195343889
+  },
+  {
+    "sample_index": 393,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-P_XDJt4p_s_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 3603583049
+  },
+  {
+    "sample_index": 394,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-Plh9jAN_Eo_0.000_2.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 2373511944
+  },
+  {
+    "sample_index": 395,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-WFdYxE-PYI_30.000_40.000.wav",
+    "true_indices": [
+      13
+    ],
+    "seed": 212737621
+  },
+  {
+    "sample_index": 396,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-YMXgDKKAwU_30.000_40.000.wav",
+    "true_indices": [
+      6
+    ],
+    "seed": 2388202628
+  },
+  {
+    "sample_index": 397,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-YOjIgYspsY_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 2246089703
+  },
+  {
+    "sample_index": 398,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-aVZ-H92M_s_0.000_4.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 131352994
+  },
+  {
+    "sample_index": 399,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-fo3m0hiZbg_30.000_40.000.wav",
+    "true_indices": [
+      1
+    ],
+    "seed": 2487206818
+  },
+  {
+    "sample_index": 400,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-haSUR_IUto_30.000_40.000.wav",
+    "true_indices": [
+      9
+    ],
+    "seed": 1438607846
+  },
+  {
+    "sample_index": 401,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-kr4SUjnm88_29.000_39.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 790634944
+  },
+  {
+    "sample_index": 402,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-l-DEfDAvNA_30.000_40.000.wav",
+    "true_indices": [
+      9,
+      5
+    ],
+    "seed": 4253344195
+  },
+  {
+    "sample_index": 403,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-lZapwtvwlg_0.000_10.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 3791093200
+  },
+  {
+    "sample_index": 404,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-lyPnABQhCI_30.000_40.000.wav",
+    "true_indices": [
+      0
+    ],
+    "seed": 4066662724
+  },
+  {
+    "sample_index": 405,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-pzasCR0kpc_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 3404588013
+  },
+  {
+    "sample_index": 406,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-sCrXS2kJlA_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 832061757
+  },
+  {
+    "sample_index": 407,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-sUgHKZQKYc_30.000_40.000.wav",
+    "true_indices": [
+      11
+    ],
+    "seed": 2843691201
+  },
+  {
+    "sample_index": 408,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-tSwRvqaKWg_90.000_100.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 544282817
+  },
+  {
+    "sample_index": 409,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-uMiGr6xvRA_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 401238895
+  },
+  {
+    "sample_index": 410,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-x_jV34hVq4_30.000_40.000.wav",
+    "true_indices": [
+      12
+    ],
+    "seed": 4256694375
+  },
+  {
+    "sample_index": 411,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y-zxrdL6MlKI_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 2800162978
+  },
+  {
+    "sample_index": 412,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y02w3vd_GgF0_390.000_400.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 1494057990
+  },
+  {
+    "sample_index": 413,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y0VnoYVqd-yo_30.000_40.000.wav",
+    "true_indices": [
+      10,
+      15
+    ],
+    "seed": 1713173416
+  },
+  {
+    "sample_index": 414,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y1iWFlLpixKU_5.000_15.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 2989014762
+  },
+  {
+    "sample_index": 415,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y2U4wSdl10to_200.000_210.000.wav",
+    "true_indices": [
+      14,
+      13
+    ],
+    "seed": 1338919025
+  },
+  {
+    "sample_index": 416,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y2jOzX06bzuA_16.000_26.000.wav",
+    "true_indices": [
+      16
+    ],
+    "seed": 1294209692
+  },
+  {
+    "sample_index": 417,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y35EOmSMTQ6I_30.000_40.000.wav",
+    "true_indices": [
+      16,
+      6
+    ],
+    "seed": 3024006672
+  },
+  {
+    "sample_index": 418,
+    "audio_path": "${DATA_ROOT}/DCASE17-T4/audio/Y4h01lBkTVQY_18.000_28.000.wav",
+    "true_indices": [
+      4
+    ],
+    "seed": 3835133833
+  }
+]

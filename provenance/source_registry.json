@@ -1,0 +1,394 @@
+[
+  {
+    "destination": "manifests/01_ESC50/classes.json",
+    "source_id": "paper_snapshot/manifests/01_ESC50/classes.json",
+    "source_sha256": "3944da020e960684146e1b98e45086ae870eae0eea8ab2993c1e31ddfd2d8616",
+    "release_sha256": "b7bd2d93e8085c93ae25f33178b2f86990aa8e7dfc33ff554616e8765a729b59",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/01_ESC50/relations.json",
+    "source_id": "paper_snapshot/manifests/01_ESC50/relations.json",
+    "source_sha256": "a1f8a9381910ad402b926ef7ac7cbc0abcfe13c975db1b2c099f5771689271d2",
+    "release_sha256": "6fd3561892837ccfcd656dafa506be6e08d7fd38a82b4f6958f1f0c8cbee98b9",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/01_ESC50/samples.json",
+    "source_id": "paper_snapshot/manifests/01_ESC50/samples.json",
+    "source_sha256": "3c2cdfeba6ebe5dd6bd7f91fb50c287c656e66378a314dceca6e992d314fd98c",
+    "release_sha256": "846d8fb9af2ce37970322c66892fd049bd0899b58c95ae7016a30e9581e255d6",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/02_UrbanSound8K/classes.json",
+    "source_id": "paper_snapshot/manifests/02_UrbanSound8K/classes.json",
+    "source_sha256": "dfd09dee8ec4cd0543dbe079b92ec5df1e96ef18e6cd932040bb0146ef4531f0",
+    "release_sha256": "c02c8017c44e309fff556301b9e3dccfd53f2ae366d2cd2484a8d80478bea201",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/02_UrbanSound8K/relations.json",
+    "source_id": "paper_snapshot/manifests/02_UrbanSound8K/relations.json",
+    "source_sha256": "a1f8a9381910ad402b926ef7ac7cbc0abcfe13c975db1b2c099f5771689271d2",
+    "release_sha256": "6fd3561892837ccfcd656dafa506be6e08d7fd38a82b4f6958f1f0c8cbee98b9",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/02_UrbanSound8K/samples.json",
+    "source_id": "paper_snapshot/manifests/02_UrbanSound8K/samples.json",
+    "source_sha256": "2e917681228213c4c0d43475a7e2fc9ac5fc988f795c9d1586fd2a48a5a2bc22",
+    "release_sha256": "968b98e50e49b7c4cd328628bf02538940befd31dce0a1505fc27648dac2ca5e",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/03_FSD50K/classes.json",
+    "source_id": "paper_snapshot/manifests/03_FSD50K/classes.json",
+    "source_sha256": "a172ca09fc542202c49285db9f92f5a456ade1d45659404289ebe942d8c7ca84",
+    "release_sha256": "91b3fa8337a61f84d9a5308a4f6250c23aab35c36ae02d54a4ac3468043490ba",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/03_FSD50K/relations.json",
+    "source_id": "paper_snapshot/manifests/03_FSD50K/relations.json",
+    "source_sha256": "a1f8a9381910ad402b926ef7ac7cbc0abcfe13c975db1b2c099f5771689271d2",
+    "release_sha256": "6fd3561892837ccfcd656dafa506be6e08d7fd38a82b4f6958f1f0c8cbee98b9",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/03_FSD50K/samples.json",
+    "source_id": "paper_snapshot/manifests/03_FSD50K/samples.json",
+    "source_sha256": "b82b0f16278fb773d0ab6ce34f0e34665b46efbb86d132ee89b67db09b1fa70b",
+    "release_sha256": "84a47351980c208fc2d83fc47b80cd80dbebeb388255f8ebbc125a08a0488415",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/05_AudioSet/classes.json",
+    "source_id": "paper_snapshot/manifests/05_AudioSet/classes.json",
+    "source_sha256": "4b1d62bc36855a053d516caabf1d5c97904148778176f34bd6b1356de92f2399",
+    "release_sha256": "982dc48db80d4ef2dd4b9b2ea1332c8619f6d11028d9072aeb4cdbf7c9ad8f11",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/05_AudioSet/relations.json",
+    "source_id": "paper_snapshot/manifests/05_AudioSet/relations.json",
+    "source_sha256": "a1f8a9381910ad402b926ef7ac7cbc0abcfe13c975db1b2c099f5771689271d2",
+    "release_sha256": "6fd3561892837ccfcd656dafa506be6e08d7fd38a82b4f6958f1f0c8cbee98b9",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/05_AudioSet/samples.json",
+    "source_id": "paper_snapshot/manifests/05_AudioSet/samples.json",
+    "source_sha256": "8c2ced77e7d95b2cfbc5df873a78afb593333f49fbbcbec359d4194505279442",
+    "release_sha256": "6bd48e6b168ef702714b97dfa15122847fc2ce76c70c9626d6139ac551454d80",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/06_TUT2017/classes.json",
+    "source_id": "paper_snapshot/manifests/06_TUT2017/classes.json",
+    "source_sha256": "d615cf2e11baf6de37e832bfbf5d25e05865afadcc5713293561a3a1959e879a",
+    "release_sha256": "9dd3bd7f9b1f84e025bc5aac17481ea59c96da93a3b14e0f9218acb989409102",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/06_TUT2017/relations.json",
+    "source_id": "paper_snapshot/manifests/06_TUT2017/relations.json",
+    "source_sha256": "a1f8a9381910ad402b926ef7ac7cbc0abcfe13c975db1b2c099f5771689271d2",
+    "release_sha256": "6fd3561892837ccfcd656dafa506be6e08d7fd38a82b4f6958f1f0c8cbee98b9",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "manifests/06_TUT2017/samples.json",
+    "source_id": "paper_snapshot/manifests/06_TUT2017/samples.json",
+    "source_sha256": "175caca55a3a16a1f3c33b93e2ace394ae79c3b76fe7dbee0e7fef196fa1d71e",
+    "release_sha256": "94db7ef390db021cea9c62b93be174519aadec640d2cfa2fe1211c7991c1a1e3",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/development_grid.csv",
+    "source_id": "paper_snapshot/rebuilt/development_grid.csv",
+    "source_sha256": "b1cc53851af5afd140bf921c9a69c79bd72dd80b85c0fd3af5e815b8d3d9c0d3",
+    "release_sha256": "12f6b00ef4a4cce63850c8b915f609c26cb8bff33bd30d9ac2b737e1979607c5",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/paired_statistics.csv",
+    "source_id": "paper_snapshot/rebuilt/paired_statistics.csv",
+    "source_sha256": "9ac8c9b61e036bf69fdc57d5c6671b90b90485670aa52cab3102f79c6ff3766e",
+    "release_sha256": "b397db9a4500196aeb488451232dca084368da6c439f7ad1df5dd6b93b5a1058",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/relation_frequency.csv",
+    "source_id": "paper_snapshot/rebuilt/relation_frequency.csv",
+    "source_sha256": "878b759c7bc6ad000687a73ce5797294a59540fd054a8f728428bbf1737a4f5d",
+    "release_sha256": "7e1fef00a63f7eb7734f626277c4c7e7bc2e2853539013396e46bcb4be8249a5",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/selector_behavior.csv",
+    "source_id": "paper_snapshot/rebuilt/selector_behavior.csv",
+    "source_sha256": "57f0349f15b0ad18d383e800656dd2b0b9685148dc790d14d1ea943cefc1ddb6",
+    "release_sha256": "8a6049bbacbca53e7fd85e8ea8cf5c49a94aa1db213a85d2fce736ee34098085",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/table1_main.csv",
+    "source_id": "paper_snapshot/rebuilt/table1_main.csv",
+    "source_sha256": "992e433dd6b84fa14af132229dc31e5075619ef3644126e23aada3bf7decac5d",
+    "release_sha256": "98146cc09a83fc9195a830c380a0db9119ee322c1657bcfad47ca7de1b82feb2",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/table2_ablation.csv",
+    "source_id": "paper_snapshot/rebuilt/table2_ablation.csv",
+    "source_sha256": "483f210ba71cc7fe1a2130b19e0542bc05d0bed671e3654e0fe03e36edef4e82",
+    "release_sha256": "2e00e40275717ae397d6a0375b33378b4fb27987a565f27940c2225bffc7aae1",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/table3_selector_all_seeds.csv",
+    "source_id": "paper_snapshot/rebuilt/table3_selector_all_seeds.csv",
+    "source_sha256": "c81d22d512dc14078f55a17172b3887a3d42dd8e6e462c6a320f790f7455fff6",
+    "release_sha256": "5fbe31bb452ce1aaa7fdd0835aa637241ea848b1e0cdc9d12707ecccf9bf247a",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/table3_selector_summary.csv",
+    "source_id": "paper_snapshot/rebuilt/table3_selector_summary.csv",
+    "source_sha256": "195d8540e88b1c75005f4d92a0537bc620825988d7ebe1151a5c888b42fedecf",
+    "release_sha256": "83b6b42ae33d36c31ba06e5b3841ed7ea1ae32882746021cd10202299aeb938c",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/table4_verbalization.csv",
+    "source_id": "paper_snapshot/rebuilt/table4_verbalization.csv",
+    "source_sha256": "5d21e64215d7f79465b4e9f0659f579a383e0950d065f2ef10f1ea8828c342ca",
+    "release_sha256": "f25d9080e3837cee5ce55308cbfbeef724dd7225afaf4b7c6e8bdae06aec1841",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/table_crosscheck.json",
+    "source_id": "paper_snapshot/rebuilt/table_crosscheck.json",
+    "source_sha256": "ae0b1bffd150659d6b059207137a9b2d5d4162c79653b70337171c286c219f20",
+    "release_sha256": "fee6f31c092112b8b8590d224f540ae9aded8e06e3942b030ce1d940989196c4",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "reference_results/verification.json",
+    "source_id": "paper_snapshot/rebuilt/verification.json",
+    "source_sha256": "a2974b90d5c846ff0b30c1df77bf29784f45217270bcc62d1c9d301164d84d22",
+    "release_sha256": "4444752cc002a142f3132c352a028f138eac3b0b44b16a158f373da3c4afbfaa",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "provenance/cache_text_comparison.json",
+    "source_id": "paper_snapshot/provenance/cache_text_comparison.json",
+    "source_sha256": "ca6f0a5aa4b85e48b7f14c540398a5dbcd62c834f71708df44cccf02b66e1a99",
+    "release_sha256": "161411137b98c171f7a56b0c415b51ed139cad92bd410663c3833f8089b6351e",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "provenance/datasets.json",
+    "source_id": "paper_snapshot/provenance/datasets.json",
+    "source_sha256": "5ef228b19103a76389c85609aa64eb7be2e970ab282dea828ed90a1be7574a3f",
+    "release_sha256": "1f90997e5c0cee769b04d5c685831f4e6bcbecf7295fcb94e29b4c2d0cf181fa",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "provenance/python_packages.json",
+    "source_id": "paper_snapshot/provenance/python_packages.json",
+    "source_sha256": "07c49d164e47af37c90430c73e6b10f661e6bb459937304c3ad38e219ca99529",
+    "release_sha256": "48d839a5e12cbf897b9d67273c590601f7b645bbc899aa4a1f7bac1c2ab6ddb3",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "provenance/runtime.json",
+    "source_id": "paper_snapshot/provenance/runtime.json",
+    "source_sha256": "eea75175fef319b09664a2e92cd57cdff2a9734d6ad333a570d3eafa61da8b08",
+    "release_sha256": "29f4706d854cad62ae81bebc903faa5fd7d0b101e30e26a748eabb6d927958fc",
+    "operation": "path-redacted JSON/text; seeds and numerical fields unchanged"
+  },
+  {
+    "destination": "experiments/source_runs/main_esc_urban.py",
+    "source_id": "paper_snapshot/code/archive/25_final_experiment_alpha03_Nr5/code/task25_run.py",
+    "source_sha256": "8fcda75f5385c333cf076ea007c3868c16e527c3aa67bcc5e34b057d9adccf66",
+    "release_sha256": "63d4d210fb5f17461232d532129c2510cd7d358332f96429bf28eba67208685f",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/main_fsd_audioset_corrected.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/run_factorial.py",
+    "source_sha256": "b87780746d73f6596f60973af20b9cb53b2c69b4a0836be0c69d63e71b8a4779",
+    "release_sha256": "fd6ff6a7bdad34e996384cb5f7ca485e67791507f7dd862eac833bede978f2bd",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/main_tut6300.py",
+    "source_id": "paper_snapshot/code/archive/28_TUT2017_full6300_rerun/code/run_main_experiment.py",
+    "source_sha256": "2324df69c6cb49e400d140ee26796bd4a9045885224fe93971e06dc31df692cf",
+    "release_sha256": "69b4ea8f5d628a1bfd4036eef83aae028c226d2b67ae3564e6b6f30b396fb3df",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/selector_esc_urban.py",
+    "source_id": "paper_snapshot/code/archive/26_relation_selection_AAKV_control/code/task26_relation_selection.py",
+    "source_sha256": "472c279bb78181cc339eb1360322df73042851c499adf2036b78345885489b05",
+    "release_sha256": "9e053675923638c52e0330a4ea2bdc58addff077d0d4cefbd213cdd1c49fdfe1",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/selector_fsd_audioset_corrected.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/run_selector_control.py",
+    "source_sha256": "764f776a586e554db574fe3a2546943c7902fccd7926e0b15cfcbfa05598f399",
+    "release_sha256": "cd7cea896a0093de326d7772124705f706f349c78ee0d3fe0a4952c0c91e212a",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/selector_tut6300.py",
+    "source_id": "paper_snapshot/code/archive/28_TUT2017_full6300_rerun/code/run_selector.py",
+    "source_sha256": "87d05e65fd5258dd51b874612ee9562e0f3599427a8d1f4962f85b58240de195",
+    "release_sha256": "c3b8f31a11f4203928ef4c7659f1fb43685761d4cdceda56a7e496ca27927be1",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/raw_triple_esc_urban_fsd_audioset.py",
+    "source_id": "paper_snapshot/code/archive/previous_package/03_AAKV_table/code/run_full_RawTriple.py",
+    "source_sha256": "b8c87d70984b09f587dddc994e86707b1a2b092239a8b9fa2cb0634b85ce2eb5",
+    "release_sha256": "3f1112d5217471011e0e91f2166b58daa8667527ac7e03d432df0e21c84c3888",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/raw_triple_tut6300.py",
+    "source_id": "paper_snapshot/code/archive/28_TUT2017_full6300_rerun/code/run_raw.py",
+    "source_sha256": "fadbb3a07e2c45730ea2da0c05198a91f5ed26e9f8dc4665b0352f627e7c3d3f",
+    "release_sha256": "87b1445ce7ecf22dd7436de5f7d54b1d471bee0d6ff229d5ea165ccb4b020924",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/development_corrected.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/run_dcase.py",
+    "source_sha256": "f58c31ab9b8245bd73d62870c281a570e1bb8096e78d0edd3c94ce6dd1293e7b",
+    "release_sha256": "c549f8216fe54c5a598e48a4d9ed1e2f20c7dc3d8b3785ef7a66cd621a5c1b64",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/aakv_corrected_generate.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/generate.py",
+    "source_sha256": "ff13b64a92de6fe991d0d12df58f327c6c01ea7b79597fae63c707c3133d8bea",
+    "release_sha256": "dc2ff87d9db7b8d168e2b566b6847426b44a2e915b06dfa078e9702f7e2eda59",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/aakv_corrected_merge.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/merge.py",
+    "source_sha256": "153deaa5c9deb09f94a56c497c966165a1bc54ca864f30cbd6d0bc4330388c48",
+    "release_sha256": "20ff336f37184756a8a1c388d97a33607f9bbeeb417c64a41dfc45761a2c0bdb",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/aakv_corrected_prepare.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/prepare.py",
+    "source_sha256": "8d76531971725a1cb670a37c00a051acf918fbf63da6c6df33c22e704bd27e7e",
+    "release_sha256": "2fb6e7f33000410bf2e307de8cf5747e76ddd74a2d9dde5d9b2dd8fa55ad338d",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/selector_behavior.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/selector_behavior.py",
+    "source_sha256": "9010774c335f184dd27f6c7235ac4424f536342100bb62eb998bcd16f033f44b",
+    "release_sha256": "a054d8253468f66d02038abe2be13288ac6f01de0491b1230962fedc33fd00e6",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/statistics.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/recompute_statistics.py",
+    "source_sha256": "ca9a932cae08149ae8bceec75d2b73437a2bcf20cd77be14481f1d93aa2a3f6c",
+    "release_sha256": "0e6034301900845b3ee7cd0d7a82b810bd89f7799700d7cb1fd18a897bac15d0",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/source_runs/efficiency_serial_corrected.py",
+    "source_id": "efficiency_final/code/measure_strict31.py",
+    "source_sha256": "a3738e825eff11a85411cdd783e18c075b88a5039b33b93d71cffc314d2e225d",
+    "release_sha256": "f53ff5b13cf2b15ae99580dcdc913d3623116ea6c70834d4aa6a90a3023d484c",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "saki/scoring.py",
+    "source_id": "paper_snapshot/code/archive/31_corrected_aakv_cache/run_factorial.py",
+    "source_sha256": "b87780746d73f6596f60973af20b9cb53b2c69b4a0836be0c69d63e71b8a4779",
+    "release_sha256": "b20fea7069087e61868ca9947bf04eb93567c9e84e7176c54e7a61820408f55f",
+    "operation": "verbatim selected functions/constants, with standalone imports"
+  },
+  {
+    "destination": "saki/aakv.py",
+    "source_id": "aakv_original.py",
+    "source_sha256": "4f221a3cfbe1c3ee8c4746a93bf8e3e4c6cabc2fc3d621cdcf6d3c7080d5edc0",
+    "release_sha256": "9f99428f42ebfe79136c6104ad8fed41e9718a0dae42e5de9913b03607eadc7b",
+    "operation": "verbatim selected functions/constants, with standalone imports"
+  },
+  {
+    "destination": "saki/retrieval.py",
+    "source_id": "paper_snapshot/code/archive/18a_relation_oracle_audit/run_relation_oracle.py",
+    "source_sha256": "cf828316ebc7cdbc0d5b2d8424e6ec5389512a3bd3795805cbe0a51f1340154f",
+    "release_sha256": "3e7623ce6597d61badab549620455f51c08552ff7668864796a6c0175d97a7c1",
+    "operation": "verbatim selected functions/constants, with standalone imports"
+  },
+  {
+    "destination": "experiments/dataset_loaders/01_ESC50/runtime.py",
+    "source_id": "paper_snapshot/code/archive/runtime/01_ESC50/iknow_runtime.py",
+    "source_sha256": "1e2c551b4333b294a399388d28e7415dbab498a0aee9f580042a30f6ed609c7f",
+    "release_sha256": "96935f92489028cf2d0ea9a9e885729abc1f5a3e15fad74b1e5ba5345acd9d42",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/dataset_loaders/02_UrbanSound8K/runtime.py",
+    "source_id": "paper_snapshot/code/archive/runtime/02_UrbanSound8K/iknow_runtime.py",
+    "source_sha256": "0343c2a557ecf3e0c7621d04b60c95c9135f724d2d9a2f4573fced418c4383ef",
+    "release_sha256": "2a42bd8a257965425d5b8b402952ab200d91d50b58d7c6825f45eeb3e088e396",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/dataset_loaders/03_FSD50K/runtime.py",
+    "source_id": "paper_snapshot/code/archive/runtime/03_FSD50K/iknow_runtime.py",
+    "source_sha256": "ba4beed27b4ec8de54c96e9a73f4033546fee4cc33dfd3374d3ca8df46e52797",
+    "release_sha256": "82a67116dfe2cf11ba674098c8b89790ed9350a425818574d8f80b08c960094d",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/dataset_loaders/04_DCASE17_T4/runtime.py",
+    "source_id": "paper_snapshot/code/archive/runtime/04_DCASE17_T4/iknow_runtime.py",
+    "source_sha256": "3ef44c2226fb57f830c7fd9595a42f93cfe22610208742435ee6c1dcbf027999",
+    "release_sha256": "a33bfdd578725931a881f252062f3d89e99ce18eae2b63192fe7a27b7438e2df",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/dataset_loaders/05_AudioSet/runtime.py",
+    "source_id": "paper_snapshot/code/archive/runtime/05_AudioSet/iknow_runtime.py",
+    "source_sha256": "6b8d9de6086953cd0f906509b59b2c40c9333e935804862d41c36fd8130cae5e",
+    "release_sha256": "091dcf281160bb53e8a0ddfef359ae46ca51e125ba76c0579c46030af4cd0fef",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "experiments/dataset_loaders/06_TUT2017/runtime.py",
+    "source_id": "paper_snapshot/code/archive/runtime/06_TUT2017/iknow_runtime.py",
+    "source_sha256": "e847bd73dcd10ddcd1a44c0c05a4a6eed8d4bacb0ec566c05f238af0297b39dd",
+    "release_sha256": "d21ba600ffecc50517d160e103e54a1b0d3472f92550e94d821ec11a6060c27a",
+    "operation": "AST-preserving transformation of absolute path constants; imports portable path resolver"
+  },
+  {
+    "destination": "code/verify_release.py",
+    "source_id": "paper_snapshot/code/verify_release.py",
+    "source_sha256": "cc81303891124a10ab7880a9a639a8961ec1d9eb963d722d06a1d9ef334872e0",
+    "release_sha256": "cc81303891124a10ab7880a9a639a8961ec1d9eb963d722d06a1d9ef334872e0",
+    "operation": "byte-identical"
+  },
+  {
+    "destination": "experiments/source_runs/development_core.py",
+    "source_id": "development_core_original.py",
+    "source_sha256": "bd7d919507831dce61a1b92eeb628c5adfcc4ae6f048e55bb8d2c33b44928004",
+    "release_sha256": "182a1b903699db5497413d63a4f0966d6f0260d98e061949a7d9409970ba3f0e",
+    "operation": "AST-preserving path-constant transformation"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "K": 5,
+  "M": 3,
+  "aggregation_scale": 100.0,
+  "alpha": 0.3,
+  "N_r": 5,
+  "candidate_relations": 47,
+  "random_top5_seeds": [
+    42,
+    43,
+    44
+  ],
+  "development_samples": 419,
+  "model": "MS-CLAP 2023",
+  "graph_embedding_model": "RotatE",
+  "text_model": "Qwen2.5-7B-Instruct",
+  "one_hop": true,
+  "TopP": null,
+  "mean": "unweighted mean over five datasets"
+}

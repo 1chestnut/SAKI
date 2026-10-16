@@ -1,0 +1,84 @@
+{
+  "datasets": {
+    "01_ESC50": {
+      "N": 2000,
+      "score_shape": [
+        2000,
+        9,
+        50
+      ],
+      "score_dtype": "float32",
+      "rank_outside_score_tie_bounds": 0,
+      "score_tie_rows": 0,
+      "metrics_match": true,
+      "manifests_aligned": true,
+      "TF_equals_FrozenRq_samplewise": true,
+      "final_equals_Selector_samplewise": true
+    },
+    "02_UrbanSound8K": {
+      "N": 8732,
+      "score_shape": [
+        8732,
+        9,
+        10
+      ],
+      "score_dtype": "float32",
+      "rank_outside_score_tie_bounds": 0,
+      "score_tie_rows": 0,
+      "metrics_match": true,
+      "manifests_aligned": true,
+      "TF_equals_FrozenRq_samplewise": true,
+      "final_equals_Selector_samplewise": true
+    },
+    "03_FSD50K": {
+      "N": 10231,
+      "score_shape": [
+        10231,
+        9,
+        200
+      ],
+      "score_dtype": "float32",
+      "rank_outside_score_tie_bounds": 0,
+      "score_tie_rows": 0,
+      "metrics_match": true,
+      "manifests_aligned": true,
+      "TF_equals_FrozenRq_samplewise": true,
+      "final_equals_Selector_samplewise": true
+    },
+    "05_AudioSet": {
+      "N": 17233,
+      "score_shape": [
+        17233,
+        9,
+        527
+      ],
+      "score_dtype": "float32",
+      "rank_outside_score_tie_bounds": 0,
+      "score_tie_rows": 0,
+      "metrics_match": true,
+      "manifests_aligned": true,
+      "TF_equals_FrozenRq_samplewise": true,
+      "final_equals_Selector_samplewise": true
+    },
+    "06_TUT2017": {
+      "N": 6300,
+      "score_shape": [
+        6300,
+        9,
+        15
+      ],
+      "score_dtype": "float32",
+      "rank_outside_score_tie_bounds": 0,
+      "score_tie_rows": 0,
+      "metrics_match": true,
+      "manifests_aligned": true,
+      "TF_equals_FrozenRq_samplewise": true,
+      "final_equals_Selector_samplewise": true
+    }
+  },
+  "development_N": 419,
+  "development_selected": "TFS_alpha0.3_Nr5",
+  "bootstrap_recomputed": true,
+  "issues": [],
+  "scope": "Stored scores/ranks and frozen final outputs; not a fresh model inference run."
+}

@@ -1,0 +1,14 @@
+{
+  "reference": "author-confirmed English CAS manuscript, 10.9/v1",
+  "files": {
+    "01_introduction_main4.tex": "28a9521a7f05e1f1effe6fa6ff289735fde90584899456f12294815a35c62130",
+    "02_related_work_main4.tex": "53af1b831a0e2ec231b973ebad19d97bc79edfb7b422f3c18e43cbd9fa5df217",
+    "03_method_main4.tex": "7b961ba8a6e948cd58292b97bc0f14d7a048a235f6ae928f072d718b080f5f5a",
+    "04_experiments_main4.tex": "ccd87b7d2c33c8434a53f8c254328942eb1339bb784f0ce49af6e5bd41415f80",
+    "06_conclusion_main4.tex": "2359d0e21fee231ac122063a635064cbd0f977132f114089a0ba5dab91128d98",
+    "07_appendix_main4.tex": "4d2238aecdfcc5074a72b7bfd925420e2468002ee77cc65449c0e799790b4bfc",
+    "main.tex": "c6c0bc5711f2cc09f0f2eed1846ebfa5102f20b4fb02d5aa37a67f93fc30c9a3",
+    "xstring.tex": "5cfb52e795a80a1e8f06280a8f968046a6fa05d5dae2313933d36b8e6eaf8c35"
+  },
+  "pdf_sha256": "75e12abd72c95b65ebec97be9a56e57c1314886b3aaff31994954affe2c88e16"
+}

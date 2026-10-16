@@ -1,0 +1,27 @@
+{
+  "01_ESC50": {
+    "frozen_triples": 487,
+    "missing_in_corrected_all_cache": [],
+    "different_text": []
+  },
+  "02_UrbanSound8K": {
+    "frozen_triples": 151,
+    "missing_in_corrected_all_cache": [],
+    "different_text": []
+  },
+  "03_FSD50K": {
+    "frozen_triples": 958,
+    "missing_in_corrected_all_cache": [],
+    "different_text": []
+  },
+  "05_AudioSet": {
+    "frozen_triples": 2179,
+    "missing_in_corrected_all_cache": [],
+    "different_text": []
+  },
+  "06_TUT2017": {
+    "frozen_triples": 133,
+    "missing_in_corrected_all_cache": [],
+    "different_text": []
+  }
+}

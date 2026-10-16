@@ -1,0 +1,6 @@
+{
+  "python": "3.10.19 | packaged by conda-forge | (main, Jan 26 2026, 23:45:08) [GCC 14.3.0]",
+  "torch": "2.4.0+cu121",
+  "cuda": "12.1",
+  "numpy": "1.26.4"
+}

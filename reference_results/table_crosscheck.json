@@ -1,0 +1,16 @@
+{
+  "passed": [
+    "Table1_main_results.csv",
+    "Table2_factorial_ablation.csv",
+    "Table4_verbalization (source file panel B only; panel A is legacy and excluded)",
+    "Table3_relation_selection including random-seed sample SD",
+    "Paired Bootstrap (10000 resamples), McNemar and five-test Holm adjustment",
+    "Appendix selector behavior"
+  ],
+  "legacy_excluded": [
+    "Source Table3 panel A (old protocol and old TUT N)"
+  ],
+  "not_remeasured": [
+    "Table6 computational cost after corrected AAKV cache"
+  ]
+}
