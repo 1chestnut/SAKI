@@ -9,6 +9,10 @@ runtime_layout/
 data/
 models/
 outputs/
+reference_results/
+results/
+logs/
+figures/source_*.csv
 *.pt
 *.pth
 *.npz

@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite the associated manuscript when using this research code. Publication identifiers will be added after assignment."
-title: "Sample-Adaptive Relational Knowledge Integration for Zero-Shot Audio Classification"
+title: "Sample-Adaptive Knowledge Integration for Zero-Shot Audio Classification"
 type: software
 authors:
   - family-names: Zhang

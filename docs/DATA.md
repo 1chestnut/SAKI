@@ -1,51 +1,55 @@
-# Data, models and exact experimental samples
+# Data and pretrained model sources
 
-Raw audio is not redistributed. Use the original access routes and terms:
-
-| Resource | Original access route | Paper use |
+| Resource | Source | Paper use |
 |---|---|---|
-| ESC-50 | https://github.com/karolpiczak/ESC-50 | 2,000 clips; all 50 candidate classes |
+| ESC-50 | https://github.com/karolpiczak/ESC-50 | 2,000 clips; 50 classes |
 | UrbanSound8K | https://urbansounddataset.weebly.com/urbansound8k.html | 8,732 clips; 10 classes |
-| FSD50K | https://zenodo.org/records/4060432 | 10,231 official evaluation clips; 200 classes |
-| AudioSet | https://research.google.com/audioset/download.html | 17,233 accessible, decodable evaluation clips; 527 classes |
+| FSD50K | https://zenodo.org/records/4060432 | 10,231 evaluation clips; 200 classes |
+| AudioSet | https://research.google.com/audioset/download.html | 17,233 accessible evaluation clips; 527 classes |
 | TUT2017 | https://dcase.community/challenge2017/download | 4,680 development + 1,620 evaluation clips; 15 classes |
-| DCASE17-T4 | https://dcase.community/challenge2017/download | 419 accessible development clips; 17 classes |
-| MS-CLAP | https://github.com/microsoft/CLAP | 2023 weights; fixed parameters |
-| AKG / RotatE source project | https://github.com/michelolzam/iknow-audio | exact mapping/retrieval resources captured in the artifact bundle |
+| DCASE17-T4 | https://dcase.community/challenge2017/download | 419 development clips; 17 classes |
+| MS-CLAP | https://github.com/microsoft/CLAP | 2023 checkpoint |
+| AKG / RotatE | https://github.com/michelolzam/iknow-audio | graph, entity mapping, and trained graph model |
 | Qwen2.5-7B-Instruct | https://huggingface.co/Qwen/Qwen2.5-7B-Instruct | offline AAKV generation |
 
-A dataset URL does not define our evaluation subset. Use the supplied manifests,
-not all files currently downloadable. Do not silently replace unavailable files.
-For AudioSet and DCASE17-T4, the selected original clips may become unavailable;
-record any missing IDs and do not report a smaller rerun as the same protocol.
+## Manifests and preprocessing
 
-## Manifest fields
+Supplied manifests define sample identity, order, labels, class order, and
+stored audio crop seeds. Preserve these seeds when moving audio to a new path.
+The dataset loaders resample to 44.1 kHz and use seven-second MS-CLAP segments:
+short clips are repeated; long clips use the stored seed for cropping.
+Raw audio and third-party model weights are obtained from their providers.
 
-- `sample_index`: zero-based position in the frozen evaluation order.
-- `audio_path`: portable `${DATA_ROOT}/...` resource-relative path.
-- `true_indices`: all positive class indices; empty targets are not admitted.
-- `seed`: recorded sample-specific seed for audio cropping. Preserve this value.
-- `classes.json`: exact class order, including multiword/comma-containing labels.
-- `relations.json`: the fixed candidate-relation list.
+## Offline preparation
 
-Historical crop seeds were derived from the original path. The original private
-paths have been removed, but the resulting seeds are preserved. Rehashing a new
-machine's file path would change long-clip crops and is not an exact reproduction.
+Obtain the original AKG, class-to-entity mapping, RotatE checkpoint, and matching
+entity/relation ID mappings. The function saki.retrieval.build_static_cache
+retrieves M=3 tails per query, filters candidate-class tails, deduplicates
+normalized names, and encodes the direct prompts.
 
-Audio is resampled to 44.1 kHz and passed to the paper's seven-second MS-CLAP
-preprocessing. Short clips are repeated; long clips use the seeded segment.
-Dataset-specific loading logic is preserved in `experiments/dataset_loaders`.
-The inference adapter uses the frozen manifest, rather than recreating sample
-order by scanning a download directory.
+For every retained tail, construct a JSON triple with head, relation, and tail.
+Use the candidate class name as head. code/generate_aakv.py generates AAKV
+sound descriptions with the exact checks, one repair, and deterministic fallback.
 
-## Frozen graph and text resources
+Encode original class texts using MS-CLAP 2023 and normalize their embeddings.
+Preserve the original class texts and candidate order when comparing runs.
+Dataset-specific source implementations retain the original preparation context.
 
-`SAKI_artifacts/resources` contains the exact frozen mapping, retrieval cache,
-AAKV texts and class/text embeddings used by the selected runs. Original generation
-correction records are retained separately. Final AAKV texts were merged from
-verified prior texts and exact-head corrections; regenerating all texts is a new
-cache, not automatically the paper cache.
+## Input layout for code/predict.py
 
-CLAP, Qwen, RotatE and third-party graph resources retain their original terms.
-Third-party-derived evidence and embeddings require a redistribution review
-before a public deposit. A license for our code does not grant rights to those files.
+- manifests/<dataset>/samples.json: the supplied sample manifest.
+- resources/<dataset>/static_relation_cache.pt: retrieval output containing
+  labels, relations, and tails.
+- resources/<dataset>/text_embeddings.pt: a dictionary whose labels tensor
+  contains normalized original class-text embeddings in class order.
+- resources/aakv/aakv_all.json: a texts dictionary mapping tab-separated
+  class-name/relation/tail keys to AAKV sound descriptions.
+
+code/generate_aakv.py writes this texts dictionary format. Merge datasets only
+when duplicate triple keys have identical descriptions. The inference adapter
+reads prepared resources, re-encodes AAKV texts, and processes audio. It does not
+read archived predictions or metric tables; test labels are not selection inputs.
+
+Frozen caches are not included in this code-only release. Regenerated caches
+may differ from the paper inputs. The datasets, models, and graph resources
+retain their providers' access and usage terms.

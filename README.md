@@ -1,101 +1,81 @@
-# SAKI: paper-result implementation
+# SAKI
 
-Sample-Adaptive Relational Knowledge Integration for Zero-Shot Audio Classification.
+**Sample-Adaptive Knowledge Integration for Zero-Shot Audio Classification**
 
-This repository is prepared against the author-confirmed English CAS manuscript,
-not against the most recently modified experimental branch. It contains the
-executed source-run implementations, exact extracted scoring/AAKV functions,
-sample manifests, configuration and CPU result-reconstruction tools.
+Core code for sample-level relation selection, Audio-Aligned Knowledge
+Verbalization (AAKV), and Hierarchical Fusion.
 
-## What is frozen
+## Paper implementation
 
-| Dataset | Test clips | Classification source | Relation-control source |
-|---|---:|---|---|
-| ESC-50 | 2,000 | Task 25 | Task 26 |
-| UrbanSound8K | 8,732 | Task 25 | Task 26 |
-| FSD50K | 10,231 | Task 31, corrected AAKV cache | Task 31 |
-| AudioSet | 17,233 | Task 31, corrected AAKV cache | Task 31 |
-| TUT2017 | 6,300 | Task 28, complete rerun | Task 28 |
+Scoring and AAKV functions are extracted from the confirmed result-producing
+implementations. FSD50K and AudioSet use the corrected Task-31 pipeline;
+TUT2017 uses the complete 6,300-clip Task-28 run. ESC-50 and UrbanSound8K
+use Task 25. See [the implementation map](docs/RESULT_MAP.md).
 
-DCASE17-T4 (419 accessible development clips) selects alpha=0.3 and N_r=5.
-K=5, M=3 and aggregation scale=100. Random Top-5 reports the mean of seeds
-42, 43 and 44. All other experimental choices follow their captured protocols.
-The computational-cost table uses the corrected-cache serial measurement dated
-2026-10-08: CLAP 21.42, iKnow-dagger 21.95 and SAKI 55.80 ms/sample.
-The older Task-29 and concurrent timing trials are not reference results.
+Settings: K=5 original top-K classes, M=3 retrieved tails, aggregation scale=100,
+fixed original-CLAP weight alpha=0.3, and N_r=5 selected relations out of 47.
+The DCASE17-T4 development manifest has 419 clips. Random Top-5 uses seeds
+42, 43, and 44.
 
-## Installation
+## Installation and checks
 
-For CPU result reconstruction:
-
-```bash
-python -m pip install -e .
-```
-
-For model execution, use the captured Linux/CUDA environment in
-`provenance/python_packages.json` and install the inference dependencies:
+Use Python 3.10:
 
 ```bash
 python -m pip install -e ".[inference,test]"
+python -m pytest tests -q
+python code/check_data.py
 ```
 
-The paper used PyTorch 2.4.0, CUDA 12.1, MS-CLAP 1.3.4, Transformers 4.57.6,
-and PyKEEN 1.11.1. An installation command is not a claim that every platform
-has been tested.
+The paper environment uses PyTorch 2.4.0, CUDA 12.1, MS-CLAP 1.3.4,
+Transformers 4.57.6, and PyKEEN 1.11.1.
 
-## Reconstruct the reported results without rerunning models
+## Core files
 
-Keep the separately supplied `SAKI_artifacts` directory next to this repository:
+- saki/scoring.py: aggregation, fusion, top-1 voting, top-2 score gaps,
+  relation priority, and tail deduplication.
+- saki/inference.py: relation selection and final class scoring.
+- saki/aakv.py: generation instructions, checks, and constrained repair.
+- saki/retrieval.py: RotatE tail retrieval, filtering, and text encoding.
+- code/generate_aakv.py: offline sound description generation.
+- code/predict.py: online inference from audio and prepared graph/text inputs.
+- experiments/source_runs/: actual dataset-specific paper implementations.
+- experiments/dataset_loaders/: loading and audio preprocessing.
+- manifests/: sample IDs, labels, class/relation order, and stored crop seeds.
+- configs/paper.json: fixed settings.
+- tests/: focused tests of scoring and relation selection.
+
+Only original top-K classes with evidence receive knowledge enhancement.
+Each relation predicts over all candidate classes. Consensus-supporting
+relations precede other relations; top-2 score gaps order each group.
+The original-CLAP fusion weight is fixed across samples.
+
+## Data and execution
+
+Download data and pretrained models from [their original sources](docs/DATA.md).
+The repository includes evaluation manifests but does not redistribute audio.
+Offline graph and text resources must be prepared locally as described there.
 
 ```bash
-python code/reproduce.py --artifacts ../SAKI_artifacts --bootstrap
+python code/generate_aakv.py --triples /path/to/triples.json --model /path/to/Qwen2.5-7B-Instruct --output /path/to/aakv.json
+python code/predict.py --artifacts /path/to/prepared_inputs --dataset 01_ESC50 --audio-root /path/to/data --weights /path/to/CLAP_weights_2023.pth --output outputs/esc50_saki.json --device cuda
 ```
 
-This verifies exact sample/label alignment, archived scores and ranks, all
-component branches, relation controls, development selection, 10,000-resample
-paired bootstrap intervals, McNemar/Holm results and the final timing means.
-Outputs are written to `SAKI_artifacts/rebuilt`, not over the frozen predictions.
+The --artifacts argument names prepared input resources, not prediction results.
+No reported result files are needed by the prediction command. The portable
+audio entry point has not been rerun end to end on a clean GPU environment;
+the preserved dataset-specific programs produced the paper results.
 
-## Run SAKI on the frozen evaluation manifest
+## Public release scope
 
-Obtain the raw audio and MS-CLAP 2023 checkpoint under their original terms.
-The artifact bundle supplies the exact retrieval/text resources used by the paper.
+This repository contains code, fixed configuration, manifests, and resource
+instructions. Experimental result tables, predictions, logs, plotting data,
+raw audio, pretrained weights, and frozen graph/text caches are not distributed
+in the current tree. Previous public commits remain in Git history.
 
-```bash
-python code/predict.py --artifacts ../SAKI_artifacts --dataset 01_ESC50 \
-  --audio-root /path/to/data --weights /path/to/CLAP_weights_2023.pth \
-  --output outputs/esc50_saki.json --device cuda --limit 10
-```
+Regenerating retrieval/AAKV caches may produce different inputs. The repository
+alone does not include all resources needed to reproduce the exact paper numbers.
+Third-party resources retain their original terms. A software license has not
+yet been selected; see THIRD_PARTY_NOTICES.md.
 
-Omit `--limit` for the full manifest. Do not call a prefix test a full evaluation.
-The portable adapter uses the exact extracted paper-scoring functions. A fresh
-full GPU run of this adapter on a clean environment has not yet been completed;
-the preserved source-run programs remain the provenance of the published results.
-
-## Files
-
-- `saki/`: exact scoring, relation selection, retrieval and AAKV mechanisms.
-- `experiments/source_runs/`: result-producing implementations, with private
-  path constants replaced by environment-configured paths; source hashes retained.
-- `experiments/dataset_loaders/`: dataset-specific loaders and preprocessing context.
-- `manifests/`: sample identity/order, labels, stored crop seeds and candidate order.
-- `configs/paper.json`: paper-frozen settings; alpha is not sample-adaptive.
-- `reference_results/`: canonical unrounded result tables and verification records.
-- `code/`: CPU reconstruction, inference adapter, AAKV generation and validation.
-- `docs/`: data sources, reproduction scope, result-to-code map and release checks.
-
-## Repository and resource availability
-
-Code repository: https://github.com/1chestnut/SAKI
-
-This code snapshot corresponds to the paper-result verification described above.
-The separate `SAKI_artifacts` bundle is not included in this GitHub repository;
-a public artifact download location has not yet been assigned. Commands requiring
-that bundle cannot be completed from this repository alone. No archive DOI has
-been assigned. Raw audio, model weights, credentials and remote job-control scripts
-are excluded.
-
-A software license has not yet been selected. Third-party code attribution and
-redistribution of graph-derived texts and caches require a separate review;
-the local artifact bundle is not a declaration of redistribution permission.
-See `docs/RELEASE_CHECKLIST.md` for the remaining reproducibility and release steps.
+Repository: https://github.com/1chestnut/SAKI
