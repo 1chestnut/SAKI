@@ -1,0 +1,4959 @@
+{
+  "schema_version": 1,
+  "relations": [
+    "has parent",
+    "is sound of",
+    "transcribed as",
+    "overlaps with"
+  ],
+  "texts": [
+    "Accordion, instrument",
+    "The sound of Accordion is instrument.",
+    "Accordion, strumming",
+    "The sound of Accordion is transcribed as strumming.",
+    "Accordion, orchestra",
+    "The sound of Accordion overlaps with orchestra.",
+    "Accordion, parade",
+    "The sound of Accordion overlaps with parade.",
+    "Acoustic guitar, playing guitar",
+    "The sound of Acoustic guitar has parent playing guitar.",
+    "Acoustic guitar, banjo",
+    "The sound of Acoustic guitar is like a banjo.",
+    "Acoustic guitar, strumming",
+    "The sound of Acoustic guitar transcribed as strumming.",
+    "Acoustic guitar, playing music",
+    "The sound of Acoustic guitar transcribed as playing music.",
+    "Acoustic guitar, guitar jam",
+    "The sound of Acoustic guitar overlaps with guitar jam.",
+    "Acoustic guitar, guitar tuning",
+    "The sound of Acoustic guitar overlaps with guitar tuning.",
+    "Acoustic guitar, jazz music",
+    "The sound of Acoustic guitar overlaps with jazz music.",
+    "Aircraft, vehicle engine",
+    "The sound of Aircraft is vehicle engine.",
+    "Aircraft, chainsaw",
+    "The sound of Aircraft transcribed as chainsaw.",
+    "Aircraft, food availability",
+    "The sound of Aircraft transcribed as food availability.",
+    "Aircraft, construction",
+    "The sound of Aircraft transcribed as construction.",
+    "Aircraft, engine noise",
+    "The sound of Aircraft overlaps with engine noise.",
+    "Aircraft, traffic noise",
+    "The sound of Aircraft overlaps with traffic noise.",
+    "Alarm, door wood creak",
+    "The sound of Alarm has a parent sound of door wood creak.",
+    "Alarm, a wind instrument played by indigenous australians",
+    "The sound of Alarm has a parent which is a wind instrument played by indigenous australians.",
+    "Alarm, warning signal",
+    "The sound of Alarm transcribed as warning signal.",
+    "Alarm, warning",
+    "The sound of Alarm transcribed as warning.",
+    "Alarm, high",
+    "The sound of Alarm overlaps with high.",
+    "Alarm, phone ringing",
+    "The sound of Alarm overlaps with phone ringing.",
+    "Animal, snorting",
+    "The sound of Animal has parent snorting.",
+    "Animal, wild animal",
+    "The sound of Animal has parent wild animal.",
+    "Animal, sheep",
+    "The sound of Animal sheep is sound of sheep.",
+    "Animal, pig",
+    "The sound of Animal pig is oink.",
+    "Animal, horse",
+    "The sound of Animal horse.",
+    "Animal, bird vocalization call or song",
+    "The sound of Animal is transcribed as bird vocalization call or song.",
+    "Animal, black capped chickadee calling",
+    "The sound of Animal is transcribed as black capped chickadee calling.",
+    "Animal, chirping",
+    "The sound of Animal overlaps with chirping.",
+    "Applause, concert",
+    "The sound of Applause is the sound of concert.",
+    "Applause, concert hall",
+    "The sound of Applause overlaps with concert hall.",
+    "Bark, joy",
+    "The sound of Bark has a parent sound of joy.",
+    "Bark, tractor in crop field during harvest",
+    "The sound of Bark has parent tractor in crop field during harvest.",
+    "Bark, firecracker",
+    "The sound of Bark has a parent sound similar to firecracker.",
+    "Bark, fire alarm",
+    "The sound of Bark is fire alarm.",
+    "Bark, change bell ringing",
+    "The sound of Bark is change bell ringing.",
+    "Bark, high",
+    "The sound of Bark transcribed as high.",
+    "Bark, watercraft paddle",
+    "The sound of Bark transcribed as watercraft paddle.",
+    "Bark, engine knocking",
+    "The sound of Bark overlaps with engine knocking.",
+    "Bark, indian classical music performance",
+    "The sound of Bark overlaps with Indian classical music performance.",
+    "Bass drum, rhythm",
+    "The sound of Bass drum has the relation overlaps with with rhythm.",
+    "Bass guitar, band",
+    "The sound of Bass guitar is in the band.",
+    "Bass guitar, instrument",
+    "The sound of Bass guitar is instrument.",
+    "Bass guitar, playing music",
+    "The sound of Bass guitar transcribed as playing music.",
+    "Bass guitar, strumming",
+    "The sound of Bass guitar transcribed as strumming.",
+    "Bathtub (filling or washing), water domestic",
+    "The sound of Bathtub (filling or washing) has parent water domestic.",
+    "Bathtub (filling or washing), bathroom sounds",
+    "The sound of Bathtub (filling or washing) has parent bathroom sounds.",
+    "Bathtub (filling or washing), domestic sounds",
+    "The sound of Bathtub (filling or washing) has parent domestic sounds.",
+    "Bathtub (filling or washing), residence",
+    "The sound of Bathtub (filling or washing) is of residence.",
+    "Bathtub (filling or washing), whirring",
+    "The sound of Bathtub (filling or washing) transcribed as whirring.",
+    "Bathtub (filling or washing), ding-dong",
+    "The sound of Bathtub (filling or washing) transcribed as ding-dong.",
+    "Bathtub (filling or washing), flushing",
+    "The sound of Bathtub (filling or washing) overlaps with flushing.",
+    "Bathtub (filling or washing), closing",
+    "The sound of Bathtub (filling or washing) overlaps with closing.",
+    "Bathtub (filling or washing), water splashing",
+    "The sound of Bathtub (filling or washing) overlaps with water splashing.",
+    "Bell, things",
+    "The sound of Bell has parent things.",
+    "Bell, sound of things",
+    "The sound of Bell has parent sound of things.",
+    "Bell, ding-dong",
+    "The sound of Bell transcribed as ding-dong.",
+    "Bell, ringing",
+    "The sound of Bell overlaps with ringing.",
+    "Bell, school bell",
+    "The sound of Bell overlaps with school bell.",
+    "Bicycle, non-motorized land vehicle",
+    "The sound of Bicycle has parent non-motorized land vehicle.",
+    "Bicycle, road vehicle",
+    "The sound of Bicycle has parent road vehicle.",
+    "Bicycle, grinding on rail",
+    "The sound of Bicycle transcribed as grinding on rail.",
+    "Bicycle, audio equipment malfunction",
+    "The sound of Bicycle transcribed as audio equipment malfunction.",
+    "Bicycle, grinding on bowl",
+    "The sound of Bicycle transcribed as grinding on bowl.",
+    "Bicycle, tire screeching",
+    "The sound of Bicycle overlaps with tire screeching.",
+    "Bicycle, motorcycle noise",
+    "The sound of Bicycle overlaps with motorcycle noise.",
+    "Bicycle, traffic noise",
+    "The sound of Bicycle overlaps with traffic noise.",
+    "Bicycle bell, alarm signal",
+    "The sound of Bicycle bell has parent alarm signal.",
+    "Bicycle bell, bell ringing",
+    "The sound of Bicycle bell has parent bell ringing.",
+    "Bicycle bell, exhaust",
+    "The sound of Bicycle bell is not exhaust.",
+    "Bicycle bell, tires",
+    "The sound of Bicycle bell is tires.",
+    "Bicycle bell, ding",
+    "The sound of Bicycle bell transcribed as ding.",
+    "Bicycle bell, wheels on pavement",
+    "The sound of Bicycle bell transcribed as wheels on pavement.",
+    "Bicycle bell, ringing",
+    "The sound of Bicycle bell overlaps with ringing.",
+    "Bicycle bell, knocking",
+    "The sound of Bicycle bell overlaps with knocking.",
+    "Bird, wild animal",
+    "The sound of Bird has parent wild animal.",
+    "Bird, chirping",
+    "The sound of Bird is chirping.",
+    "Bird, bird vocalization call or song",
+    "The sound of Bird transcribed as bird vocalization call or song.",
+    "Bird, warbler chirping",
+    "The sound of Bird transcribed as warbler chirping.",
+    "Bird vocalization, bird call, bird song, wild animal",
+    "The sound of Bird vocalization, bird call, bird song has parent wild animal.",
+    "Bird vocalization, bird call, bird song, warbler chirping",
+    "The sound of Bird vocalization, bird call, bird song is warbler chirping.",
+    "Bird vocalization, bird call, bird song, bird vocalization call or song",
+    "The sound of Bird vocalization, bird call, bird song is bird vocalization call or song.",
+    "Bird vocalization, bird call, bird song, warble",
+    "The sound of Bird vocalization, bird call, bird song is transcribed as warble.",
+    "Bird vocalization, bird call, bird song, bird song",
+    "The sound of Bird vocalization, bird call, bird song overlaps with bird song.",
+    "Bird vocalization, bird call, bird song, bird warbling",
+    "The sound of Bird vocalization, bird call, bird song overlaps with bird warbling.",
+    "Bird vocalization, bird call, bird song, bird chirping",
+    "The sound of Bird vocalization, bird call, bird song overlaps with bird chirping.",
+    "Boom, non-machinery impact",
+    "The sound of Boom has a parent category of non-machinery impact.",
+    "Boom, gunshot",
+    "The sound of Boom has a parent relation to gunshot.",
+    "Boom, firework",
+    "The sound of Boom is the sound of firework.",
+    "Boom, firecracker",
+    "The sound of Boom is the sound of firecracker.",
+    "Boom, fusillade",
+    "The sound of Boom transcribed as fusillade.",
+    "Bowed string instrument, orchestra",
+    "The sound of Bowed string instrument is in orchestra.",
+    "Bowed string instrument, plucked string",
+    "The sound of Bowed string instrument is not plucked string.",
+    "Bowed string instrument, zither",
+    "The sound of Bowed string instrument transcribed as zither.",
+    "Bowed string instrument, ukulele",
+    "The sound of Bowed string instrument transcribed as ukulele.",
+    "Brass instrument, saxophone",
+    "The sound of Brass instrument transcribed as saxophone.",
+    "Brass instrument, melody",
+    "The sound of Brass instrument overlaps with melody.",
+    "Breathing, human non-speech sounds",
+    "The sound of Breathing has parent human non-speech sounds.",
+    "Breathing, human sounds",
+    "The sound of Breathing has parent human sounds.",
+    "Breathing, farm animal",
+    "The sound of Breathing is the sound of farm animal.",
+    "Breathing, yelling",
+    "The sound of Breathing is not yelling.",
+    "Breathing, concert",
+    "The sound of Breathing is transcribed as concert.",
+    "Breathing, theater",
+    "The sound of Breathing is transcribed as theater.",
+    "Breathing, friction brake",
+    "The sound of Breathing overlaps with friction brake.",
+    "Bus, large vehicle",
+    "The sound of Bus has parent large vehicle.",
+    "Bus, road vehicle",
+    "The sound of Bus has parent road vehicle.",
+    "Bus, bus brakes",
+    "The sound of Bus overlaps with bus brakes.",
+    "Bus, bus engine",
+    "The sound of Bus overlaps with bus engine.",
+    "Bus, traffic noise",
+    "The sound of Bus overlaps with traffic noise.",
+    "Buzz, mosquito",
+    "The sound of Buzz has parent mosquito.",
+    "Buzz, bee or wasp",
+    "The sound of Buzz has a parent bee or wasp.",
+    "Buzz, natural sounds",
+    "The sound of Buzz is natural sounds.",
+    "Buzz, barn swallow calling",
+    "The sound of Buzz is transcribed as barn swallow calling.",
+    "Buzz, typewriter cabinet",
+    "The sound of Buzz transcribed as typewriter cabinet.",
+    "Buzz, a fine mist of liquid or gas",
+    "The sound of Buzz transcribed as a fine mist of liquid or gas.",
+    "Buzz, whistle",
+    "The sound of Buzz overlaps with whistle.",
+    "Camera, sound of things",
+    "The sound of Camera has parent sound of things.",
+    "Camera, jackhammer",
+    "The sound of Camera is jackhammer.",
+    "Camera, whirring",
+    "The sound of Camera is transcribed as whirring.",
+    "Camera, barking",
+    "The sound of Camera transcribed as barking.",
+    "Camera, water splashing",
+    "The sound of Camera is transcribed as water splashing.",
+    "Camera, cashier counting money",
+    "The sound of Camera overlaps with cashier counting money.",
+    "Camera, cashier handling cash",
+    "The sound of Camera overlaps with cashier handling cash.",
+    "Car, road vehicle",
+    "The sound of Car has parent road vehicle.",
+    "Car, brakes",
+    "The sound of Car is brakes.",
+    "Car, car alarm",
+    "The sound of Car overlaps with car alarm.",
+    "Car, tire screeching",
+    "The sound of Car overlaps with tire screeching.",
+    "Car passing by, car engine",
+    "The sound of Car passing by has the car engine as its parent.",
+    "Car passing by, vehicle passing by",
+    "The sound of Car passing by has parent vehicle passing by.",
+    "Car passing by, road vehicle",
+    "The sound of Car passing by has parent road vehicle.",
+    "Car passing by, exhaust",
+    "The sound of Car passing by is exhaust.",
+    "Car passing by, tires",
+    "The sound of Car passing by is tires.",
+    "Car passing by, sound of things",
+    "The sound of Car passing by is transcribed as sound of things.",
+    "Car passing by, roaring",
+    "The sound of Car passing by is transcribed as roaring.",
+    "Car passing by, car engine starting",
+    "The sound of Car passing by overlaps with car engine starting.",
+    "Car passing by, car engine warming up",
+    "The sound of Car passing by overlaps with car engine warming up.",
+    "Cat, domestic animal",
+    "The sound of Cat has parent domestic animal.",
+    "Cat, meowing",
+    "The sound of Cat is meowing.",
+    "Cat, purring",
+    "The sound of Cat is purring.",
+    "Cat, dog whimpering",
+    "The sound of Cat transcribed as dog whimpering.",
+    "Cat, mouse scurrying",
+    "The sound of Cat overlaps with mouse scurrying.",
+    "Cat, barking",
+    "The sound of Cat overlaps with barking.",
+    "Chatter, talking",
+    "The sound of Chatter has parent talking.",
+    "Chatter, human sounds",
+    "The sound of Chatter is the sound of human sounds.",
+    "Chatter, announcement",
+    "The sound of Chatter transcribed as announcement.",
+    "Chatter, giggling",
+    "The sound of Chatter transcribed as giggling.",
+    "Cheering, event",
+    "The sound of Cheering has parent event.",
+    "Cheering, vibration",
+    "The sound of Cheering has a parent vibration.",
+    "Cheering, demolition",
+    "The sound of Cheering is demolition.",
+    "Cheering, human sounds",
+    "The sound of Cheering is the sound of human sounds.",
+    "Cheering, woodwind ensemble",
+    "The sound of Cheering transcribed as woodwind ensemble.",
+    "Cheering, accident",
+    "The sound of Cheering transcribed as accident.",
+    "Cheering, music competition",
+    "The sound of Cheering overlaps with music competition.",
+    "Cheering, lightning thunderclap",
+    "The sound of Cheering overlaps with lightning thunderclap.",
+    "Chicken, rooster, fowl animal",
+    "The sound of Chicken, rooster has parent fowl animal.",
+    "Chicken, rooster, farm animal",
+    "The sound of Chicken, rooster has parent farm animal.",
+    "Chicken, rooster, horse nicker",
+    "The sound of Chicken, rooster is not horse nicker.",
+    "Chicken, rooster, sheep",
+    "The sound of Chicken, rooster is not sheep.",
+    "Chicken, rooster, field",
+    "The sound of Chicken, rooster transcribed as field.",
+    "Chicken, rooster, duck quack",
+    "The sound of Chicken, rooster transcribed as duck quack.",
+    "Chicken, rooster, source-ambiguous",
+    "The sound of Chicken, rooster transcribed as source-ambiguous.",
+    "Chicken, rooster, turkey call",
+    "The sound of Chicken, rooster overlaps with turkey call.",
+    "Chime, sound of things",
+    "The sound of Chime has parent sound of things.",
+    "Chime, ding-dong",
+    "The sound of Chime transcribed as ding-dong.",
+    "Chime, elevator ding",
+    "The sound of Chime overlaps with elevator ding.",
+    "Chime, door opening",
+    "The sound of Chime overlaps with door opening.",
+    "Church bell, fire alarm",
+    "The sound of Church bell has parent fire alarm.",
+    "Church bell, church",
+    "The sound of Church bell is church.",
+    "Church bell, bird vocalization call or song",
+    "The sound of Church bell transcribed as bird vocalization call or song.",
+    "Church bell, bongos",
+    "The sound of Church bell transcribed as bongos.",
+    "Church bell, concert hall",
+    "The sound of Church bell overlaps with concert hall.",
+    "Church bell, alert tone",
+    "The sound of Church bell overlaps with alert tone.",
+    "Clapping, applause clapping",
+    "The sound of Clapping is applause clapping.",
+    "Clapping, concert",
+    "The sound of Clapping transcribed as concert.",
+    "Clock, door wood creak",
+    "The sound of Clock has parent door wood creak.",
+    "Clock, office",
+    "The sound of Clock is office.",
+    "Clock, house",
+    "The sound of Clock is house.",
+    "Clock, bellow",
+    "The sound of Clock transcribed as bellow.",
+    "Clock, bird vocalization call or song",
+    "The sound of Clock transcribed as bird vocalization call or song.",
+    "Clock, train station",
+    "The sound of Clock overlaps with train station.",
+    "Coin (dropping), coin dropping",
+    "The sound of Coin (dropping) has a parent sound of coin dropping.",
+    "Coin (dropping), door domestic",
+    "The sound of Coin (dropping) has a parent category of door domestic.",
+    "Coin (dropping), bang",
+    "The sound of Coin (dropping) has parent bang.",
+    "Coin (dropping), firework",
+    "The sound of Coin (dropping) is not firework.",
+    "Coin (dropping), warning signal",
+    "The sound of Coin (dropping) is warning signal.",
+    "Coin (dropping), impending hazard",
+    "The sound of Coin (dropping) is the sound of impending hazard.",
+    "Coin (dropping), footsteps",
+    "The sound of Coin (dropping) transcribed as footsteps.",
+    "Coin (dropping), chirping",
+    "The sound of Coin (dropping) transcribed as chirping.",
+    "Coin (dropping), whistling",
+    "The sound of Coin (dropping) overlaps with whistling.",
+    "Coin (dropping), galloping",
+    "The sound of Coin (dropping) overlaps with galloping.",
+    "Coin (dropping), running",
+    "The sound of Coin (dropping) overlaps with running.",
+    "Computer keyboard, ringing",
+    "The sound of Computer keyboard has parent ringing.",
+    "Computer keyboard, office park",
+    "The sound of Computer keyboard has parent office park.",
+    "Computer keyboard, inside public space",
+    "The sound of Computer keyboard is inside public space.",
+    "Computer keyboard, predator avoidance strategy",
+    "The sound of Computer keyboard is predator avoidance strategy.",
+    "Computer keyboard, thanksgiving dinner",
+    "The sound of Computer keyboard transcribed as thanksgiving dinner.",
+    "Computer keyboard, turkey hunting",
+    "The sound of Computer keyboard transcribed as turkey hunting.",
+    "Computer keyboard, walking",
+    "The sound of Computer keyboard overlaps with walking.",
+    "Computer keyboard, playing guitar",
+    "The sound of Computer keyboard overlaps with playing guitar.",
+    "Conversation, talking",
+    "The sound of Conversation has parent talking.",
+    "Conversation, human sounds",
+    "The sound of Conversation has parent human sounds.",
+    "Conversation, announcement",
+    "The sound of Conversation is transcribed as announcement.",
+    "Conversation, hip hop",
+    "The sound of Conversation overlaps with hip hop.",
+    "Cowbell, bongos",
+    "The sound of Cowbell transcribed as bongos.",
+    "Cowbell, timbales",
+    "The sound of Cowbell transcribed as timbales.",
+    "Cowbell, festival music",
+    "The sound of Cowbell overlaps with festival music.",
+    "Cowbell, ringing",
+    "The sound of Cowbell overlaps with ringing.",
+    "Crack, onomatopoeia",
+    "The sound of Crack has parent onomatopoeia.",
+    "Crack, source-ambiguous sounds",
+    "The sound of Crack has a parent category of source-ambiguous sounds.",
+    "Crack, source-ambiguous",
+    "The sound of Crack has a parent source-ambiguous.",
+    "Crack, earthquake",
+    "The sound of Crack is the sound of earthquake.",
+    "Crack, car engine",
+    "The sound of Crack is the sound of car engine.",
+    "Crack, scratch",
+    "The sound of Crack transcribed as scratch.",
+    "Crack, bang",
+    "The sound of Crack transcribed as bang.",
+    "Crack, construction noise",
+    "The sound of Crack overlaps with construction noise.",
+    "Crack, things",
+    "The sound of Crack overlaps with things.",
+    "Crackle, natural sounds",
+    "The sound of Crackle has parent natural sounds.",
+    "Crackle, radio",
+    "The sound of Crackle is the sound of radio.",
+    "Crackle, a musical performance with a large number of musicians playing instruments",
+    "The sound of Crackle is a musical performance with a large number of musicians playing instruments.",
+    "Crackle, watercraft paddle",
+    "The sound of Crackle transcribed as watercraft paddle.",
+    "Crackle, popcorn popping",
+    "The sound of Crackle overlaps with popcorn popping.",
+    "Crackle, street music",
+    "The sound of Crackle overlaps with street music.",
+    "Crash cymbal, bongos",
+    "The sound of Crash cymbal transcribed as bongos.",
+    "Crash cymbal, drums",
+    "The sound of Crash cymbal overlaps with drums.",
+    "Crash cymbal, beat",
+    "The sound of Crash cymbal overlaps with beat.",
+    "Cricket, wild animal",
+    "The sound of Cricket has parent wild animal.",
+    "Cricket, chirping",
+    "The sound of Cricket is chirping.",
+    "Cricket, lightning thunderclap",
+    "The sound of Cricket transcribed as lightning thunderclap.",
+    "Cricket, buzzing",
+    "The sound of Cricket overlaps with buzzing.",
+    "Crow, wild animal",
+    "The sound of Crow has parent wild animal.",
+    "Crow, chirping",
+    "The sound of Crow is chirping.",
+    "Crow, warbler chirping",
+    "The sound of Crow is warbler chirping.",
+    "Crow, mynah bird",
+    "The sound of Crow transcribed as mynah bird.",
+    "Crow, black capped chickadee calling",
+    "The sound of Crow transcribed as black capped chickadee calling.",
+    "Crow, bird song",
+    "The sound of Crow overlaps with bird song.",
+    "Crowd, human sounds",
+    "The sound of Crowd has parent human sounds.",
+    "Crowd, chanting",
+    "The sound of Crowd overlaps with chanting.",
+    "Crumpling, crinkling, deformable shell",
+    "The sound of Crumpling, crinkling has a parent deformable shell.",
+    "Crumpling, crinkling, source-ambiguous",
+    "The sound of Crumpling, crinkling has a parent source-ambiguous.",
+    "Crumpling, crinkling, generic impact sounds",
+    "The sound of Crumpling, crinkling has parent generic impact sounds.",
+    "Crumpling, crinkling, car engine",
+    "The sound of Crumpling, crinkling is car engine.",
+    "Crumpling, crinkling, hand clapping",
+    "The sound of Crumpling, crinkling transcribed as hand clapping.",
+    "Crumpling, crinkling, hazard",
+    "The sound of Crumpling, crinkling transcribed as hazard.",
+    "Crumpling, crinkling, music competition",
+    "The sound of Crumpling, crinkling transcribed as music competition.",
+    "Crumpling, crinkling, source-ambiguous sounds",
+    "The sound of Crumpling, crinkling overlaps with source-ambiguous sounds.",
+    "Crumpling, crinkling, ping pong",
+    "The sound of Crumpling, crinkling overlaps with ping pong.",
+    "Crushing, deformable shell",
+    "The sound of Crushing has a parent deformable shell.",
+    "Crushing, onomatopoeia",
+    "The sound of Crushing has parent onomatopoeia.",
+    "Crushing, source-ambiguous sounds",
+    "The sound of Crushing has a parent category of source-ambiguous sounds.",
+    "Crushing, earthquake",
+    "The sound of Crushing is the earthquake.",
+    "Crushing, metal on metal",
+    "The sound of Crushing metal on metal.",
+    "Crushing, high",
+    "The sound of Crushing transcribed as high.",
+    "Crushing, scratch",
+    "The sound of Crushing transcribed as scratch.",
+    "Crushing, train derailment",
+    "The sound of Crushing transcribed as train derailment.",
+    "Crushing, construction noise",
+    "The sound of Crushing overlaps with construction noise.",
+    "Cupboard open or close, domestic sounds",
+    "The sound of Cupboard open or close has parent domestic sounds.",
+    "Cupboard open or close, office sounds",
+    "The sound of Cupboard open or close has parent office sounds.",
+    "Cupboard open or close, kitchen sounds",
+    "The sound of Cupboard open or close has parent kitchen sounds.",
+    "Cupboard open or close, apartment",
+    "The sound of Cupboard open or close is the sound of apartment.",
+    "Cupboard open or close, opening",
+    "The sound of Cupboard open or close is sound of opening.",
+    "Cupboard open or close, residence",
+    "The sound of Cupboard open or close is of residence.",
+    "Cupboard open or close, wooden groan",
+    "The sound of Cupboard open or close transcribed as wooden groan.",
+    "Cupboard open or close, whirring",
+    "The sound of Cupboard open or close transcribed as whirring.",
+    "Cupboard open or close, wooden creak",
+    "The sound of Cupboard open or close transcribed as wooden creak.",
+    "Cupboard open or close, knocking",
+    "The sound of Cupboard open or close overlaps with knocking.",
+    "Cupboard open or close, closing",
+    "The sound of Cupboard open or close overlaps with closing.",
+    "Cupboard open or close, ringing",
+    "The sound of Cupboard open or close overlaps with ringing.",
+    "Cutlery, silverware, cutlery or dishes",
+    "The sound of Cutlery, silverware has parent cutlery or dishes.",
+    "Cutlery, silverware, kitchen sounds",
+    "The sound of Cutlery, silverware has parent kitchen sounds.",
+    "Cutlery, silverware, dishes or pots or pans",
+    "The sound of Cutlery, silverware has parent dishes or pots or pans.",
+    "Cutlery, silverware, door knock",
+    "The sound of Cutlery, silverware is door knock.",
+    "Cutlery, silverware, ding-dong",
+    "The sound of Cutlery, silverware is ding-dong.",
+    "Cutlery, silverware, refrigerator",
+    "The sound of Cutlery, silverware is refrigerator.",
+    "Cutlery, silverware, ringing",
+    "The sound of Cutlery, silverware transcribed as ringing.",
+    "Cutlery, silverware, sound of things",
+    "The sound of Cutlery, silverware transcribed as sound of things.",
+    "Cutlery, silverware, whirring",
+    "The sound of Cutlery, silverware transcribed as whirring.",
+    "Cutlery, silverware, water flowing",
+    "The sound of Cutlery, silverware overlaps with water flowing.",
+    "Cutlery, silverware, water splashing",
+    "The sound of Cutlery, silverware overlaps with water splashing.",
+    "Cutlery, silverware, washing dishes",
+    "The sound of Cutlery, silverware overlaps with washing dishes.",
+    "Cymbal, drumming",
+    "The sound of Cymbal overlaps with drumming.",
+    "Cymbal, rhythm",
+    "The sound of Cymbal has the relation overlaps with with rhythm.",
+    "Dishes, pots, pans, cutlery or dishes",
+    "The sound of Dishes, pots, pans has parent cutlery or dishes.",
+    "Dishes, pots, pans, kitchen sounds",
+    "The sound of Dishes, pots, pans has parent kitchen sounds.",
+    "Dishes, pots, pans, domestic sounds",
+    "The sound of Dishes, pots, pans has parent domestic sounds.",
+    "Dishes, pots, pans, refrigerator",
+    "The sound of Dishes, pots, pans is refrigerator.",
+    "Dishes, pots, pans, cooking",
+    "The sound of Dishes, pots, pans is cooking.",
+    "Dishes, pots, pans, whirring",
+    "The sound of Dishes, pots, pans transcribed as whirring.",
+    "Dishes, pots, pans, construction",
+    "The sound of Dishes, pots, pans transcribed as construction.",
+    "Dishes, pots, pans, water flowing",
+    "The sound of Dishes, pots, pans overlaps with water flowing.",
+    "Dishes, pots, pans, food preparation",
+    "The sound of Dishes, pots, pans overlaps with food preparation.",
+    "Dishes, pots, pans, water splashing",
+    "The sound of Dishes, pots, pans overlaps with water splashing.",
+    "Dog, domestic animal",
+    "The sound of Dog has parent domestic animal.",
+    "Dog, whining",
+    "The sound of Dog is whining.",
+    "Dog, barking",
+    "The sound of Dog is barking.",
+    "Dog, park",
+    "The sound of Dog transcribed as park.",
+    "Dog, howling",
+    "The sound of Dog overlaps with howling.",
+    "Door, sound of things",
+    "The sound of Door has parent sound of things.",
+    "Door, things",
+    "The sound of Door has parent things.",
+    "Door, opening",
+    "The sound of Door opening.",
+    "Door, closing",
+    "The sound of Door closing.",
+    "Door, ding-dong",
+    "The sound of Door transcribed as ding-dong.",
+    "Door, knocking",
+    "The sound of Door overlaps with knocking.",
+    "Doorbell, bell ringing",
+    "The sound of Doorbell has parent bell ringing.",
+    "Doorbell, domestic sounds",
+    "The sound of Doorbell has parent domestic sounds.",
+    "Doorbell, alarm signal",
+    "The sound of Doorbell has parent alarm signal.",
+    "Doorbell, ding-dong",
+    "The sound of Doorbell is transcribed as ding-dong.",
+    "Doorbell, knocking",
+    "The sound of Doorbell overlaps with knocking.",
+    "Doorbell, ringing",
+    "The sound of Doorbell overlaps with ringing.",
+    "Drawer open or close, kitchen sounds",
+    "The sound of Drawer open or close has parent kitchen sounds.",
+    "Drawer open or close, domestic sounds",
+    "The sound of Drawer open or close has parent domestic sounds.",
+    "Drawer open or close, cutlery or dishes",
+    "The sound of Drawer open or close has parent cutlery or dishes.",
+    "Drawer open or close, ding-dong",
+    "The sound of Drawer open or close is ding-dong.",
+    "Drawer open or close, door domestic",
+    "The sound of Drawer open or close is door domestic.",
+    "Drawer open or close, outside",
+    "The sound of Drawer open or close is transcribed as outside.",
+    "Drawer open or close, crash",
+    "The sound of Drawer open or close transcribed as crash.",
+    "Drawer open or close, home",
+    "The sound of Drawer open or close transcribed as home.",
+    "Drawer open or close, water flowing",
+    "The sound of Drawer open or close overlaps with water flowing.",
+    "Drawer open or close, clinking utensils",
+    "The sound of Drawer open or close overlaps with clinking utensils.",
+    "Drawer open or close, utensils clinking",
+    "The sound of Drawer open or close overlaps with utensils clinking.",
+    "Drip, door opening",
+    "The sound of Drip has parent door opening.",
+    "Drip, digestive tract",
+    "The sound of Drip has parent digestive tract.",
+    "Drip, opening",
+    "The sound of Drip has parent opening.",
+    "Drip, smartphone voice mail",
+    "The sound of Drip is smartphone voice mail.",
+    "Drip, stadium",
+    "The sound of Drip is the sound of stadium.",
+    "Drip, tractor in crop field during harvest",
+    "The sound of Drip is tractor in crop field during harvest.",
+    "Drip, refrigerator",
+    "The sound of Drip transcribed as refrigerator.",
+    "Drip, car engine vibration rattle noise",
+    "The sound of Drip transcribed as car engine vibration rattle noise.",
+    "Drip, police helicopter landing",
+    "The sound of Drip overlaps with police helicopter landing.",
+    "Drip, natural sounds",
+    "The sound of Drip overlaps with natural sounds.",
+    "Drum, instrument",
+    "The sound of Drum is instrument.",
+    "Drum, beat",
+    "The sound of Drum transcribed as beat.",
+    "Drum, crowd cheering",
+    "The sound of Drum overlaps with crowd cheering.",
+    "Drum, rhythm",
+    "The sound of Drum has the relation overlaps with with rhythm.",
+    "Drum kit, drumming",
+    "The sound of Drum kit transcribed as drumming.",
+    "Drum kit, drums",
+    "The sound of Drum kit overlaps with drums.",
+    "Electric guitar, playing guitar",
+    "The sound of Electric guitar has parent playing guitar.",
+    "Electric guitar, instrument",
+    "The sound of Electric guitar is instrument.",
+    "Electric guitar, ukulele",
+    "The sound of Electric guitar transcribed as ukulele.",
+    "Electric guitar, guitar jam",
+    "The sound of Electric guitar overlaps with guitar jam.",
+    "Electric guitar, jazz music",
+    "The sound of Electric guitar overlaps with jazz music.",
+    "Electric guitar, rock music",
+    "The sound of Electric guitar overlaps with rock music.",
+    "Engine, things",
+    "The sound of Engine has parent things.",
+    "Engine, street",
+    "The sound of Engine transcribed as street.",
+    "Engine, traffic noise",
+    "The sound of Engine overlaps with traffic noise.",
+    "Engine starting, vehicle engine",
+    "The sound of Engine starting has parent vehicle engine.",
+    "Engine starting, tires",
+    "The sound of Engine starting is tires.",
+    "Engine starting, motorcycle engine",
+    "The sound of Engine starting is motorcycle engine.",
+    "Engine starting, whirring",
+    "The sound of Engine starting is transcribed as whirring.",
+    "Engine starting, street",
+    "The sound of Engine starting is transcribed as street.",
+    "Engine starting, pitter-patter",
+    "The sound of Engine starting is transcribed as pitter-patter.",
+    "Engine starting, traffic noise",
+    "The sound of Engine starting overlaps with traffic noise.",
+    "Engine starting, motorcycle noise",
+    "The sound of Engine starting overlaps with motorcycle noise.",
+    "Explosion, things",
+    "The sound of Explosion has parent things.",
+    "Explosion, sound of things",
+    "The sound of Explosion has parent sound of things.",
+    "Explosion, gunshot",
+    "The sound of Explosion transcribed as gunshot.",
+    "Explosion, gunfire echoes",
+    "The sound of Explosion overlaps with gunfire echoes.",
+    "Fart, a sharp, short sound made by someone at the door",
+    "The sound of Fart has the relation has parent with a sharp, short sound made by someone at the door.",
+    "Fart, high",
+    "The sound of Fart has parent high.",
+    "Fart, a motorized vehicle designed for snow and ice travel",
+    "The sound of Fart has parent a motorized vehicle designed for snow and ice travel.",
+    "Fart, playing guitar",
+    "The sound of Fart is not playing guitar.",
+    "Fart, office",
+    "The sound of Fart transcribed as office.",
+    "Fart, apartment",
+    "The sound of Fart transcribed as apartment.",
+    "Fart, rooftop venue",
+    "The sound of Fart transcribed as rooftop venue.",
+    "Female singing, human sounds",
+    "The sound of Female singing has a parent category of human sounds.",
+    "Female singing, melody",
+    "The sound of Female singing is melody.",
+    "Female singing, channel environment and background",
+    "The sound of Female singing transcribed as channel environment and background.",
+    "Female singing, amusement park",
+    "The sound of Female singing is transcribed as amusement park.",
+    "Female singing, child singing",
+    "The sound of Female singing is transcribed as child singing.",
+    "Female singing, hip hop",
+    "The sound of Female singing overlaps with hip hop.",
+    "Fill (with liquid), liquid pouring",
+    "The sound of Fill (with liquid) has parent liquid pouring.",
+    "Fill (with liquid), water splashing",
+    "The sound of Fill (with liquid) has parent water splashing.",
+    "Fill (with liquid), jackhammer",
+    "The sound of Fill (with liquid) is not a jackhammer.",
+    "Fill (with liquid), sound of things",
+    "The sound of Fill (with liquid) is the sound of things.",
+    "Fill (with liquid), whirring",
+    "The sound of Fill (with liquid) transcribed as whirring.",
+    "Fill (with liquid), dishwasher",
+    "The sound of Fill (with liquid) transcribed as dishwasher.",
+    "Fill (with liquid), refrigerator",
+    "The sound of Fill (with liquid) transcribed as refrigerator.",
+    "Fill (with liquid), water flowing",
+    "The sound of Fill (with liquid) overlaps with water flowing.",
+    "Fill (with liquid), splashing water",
+    "The sound of Fill (with liquid) overlaps with splashing water.",
+    "Finger snapping, human non-speech sounds",
+    "The sound of Finger snapping has a parent category of human non-speech sounds.",
+    "Finger snapping, sheep",
+    "The sound of Finger snapping is sheep.",
+    "Finger snapping, footsteps",
+    "The sound of Finger snapping is footsteps.",
+    "Finger snapping, person",
+    "The sound of Finger snapping is the sound of person.",
+    "Finger snapping, park",
+    "The sound of Finger snapping is transcribed as park.",
+    "Finger snapping, human sounds",
+    "The sound of Finger snapping is transcribed as human sounds.",
+    "Finger snapping, school bell",
+    "The sound of Finger snapping overlaps with school bell.",
+    "Finger snapping, knocking",
+    "The sound of Finger snapping overlaps with knocking.",
+    "Fire, natural sounds",
+    "The sound of Fire has a parent category of natural sounds.",
+    "Fire, water drop",
+    "The sound of Fire has a parent sound similar to a water drop.",
+    "Fire, refrigerator",
+    "The sound of Fire transcribed as refrigerator.",
+    "Fire, hammering",
+    "The sound of Fire overlaps with hammering.",
+    "Fire, wildfire",
+    "The sound of Fire overlaps with the sound of wildfire.",
+    "Fireworks, non-machinery impact",
+    "The sound of Fireworks has parent non-machinery impact.",
+    "Fireworks, firecracker",
+    "The sound of Fireworks has a parent sound called firecracker.",
+    "Fireworks, firework",
+    "The sound of Fireworks is firework.",
+    "Fireworks, gunshot",
+    "The sound of Fireworks transcribed as gunshot.",
+    "Fireworks, celebration",
+    "The sound of Fireworks overlaps with celebration.",
+    "Fireworks, celebrations",
+    "The sound of Fireworks overlaps with celebrations.",
+    "Fireworks, festivals",
+    "The sound of Fireworks overlaps with festivals.",
+    "Frog, wild animal",
+    "The sound of Frog has parent wild animal.",
+    "Frog, pond",
+    "The sound of Frog is pond.",
+    "Frog, chirping",
+    "The sound of Frog is chirping.",
+    "Frog, river",
+    "The sound of Frog is river.",
+    "Frog, waves",
+    "The sound of Frog transcribed as waves.",
+    "Frog, field",
+    "The sound of Frog transcribed as field.",
+    "Frog, croaking",
+    "The sound of Frog overlaps with croaking.",
+    "Frog, bird song",
+    "The sound of Frog overlaps with bird song.",
+    "Frying (food), kitchen sounds",
+    "The sound of Frying (food) has parent kitchen sounds.",
+    "Frying (food), cooking",
+    "The sound of Frying (food) has parent cooking.",
+    "Frying (food), cutlery or dishes",
+    "The sound of Frying (food) has parent cutlery or dishes.",
+    "Frying (food), frying",
+    "The sound of Frying (food) is frying.",
+    "Frying (food), refrigerator",
+    "The sound of Frying (food) transcribed as refrigerator.",
+    "Frying (food), insect activity",
+    "The sound of Frying (food) transcribed as insect activity.",
+    "Frying (food), water splashing",
+    "The sound of Frying (food) overlaps with water splashing.",
+    "Frying (food), washing dishes",
+    "The sound of Frying (food) overlaps with washing dishes.",
+    "Frying (food), clinking utensils",
+    "The sound of Frying (food) overlaps with clinking utensils.",
+    "Gasp, human non-speech sounds",
+    "The sound of Gasp has parent human non-speech sounds.",
+    "Gasp, digestive",
+    "The sound of Gasp has a parent category of digestive.",
+    "Gasp, sheep",
+    "The sound of Gasp is the sound of sheep.",
+    "Gasp, horse",
+    "The sound of Gasp is the sound of horse.",
+    "Gasp, room acoustics",
+    "The sound of Gasp is transcribed as room acoustics.",
+    "Gasp, crunch",
+    "The sound of Gasp transcribed as crunch.",
+    "Gasp, construction noise",
+    "The sound of Gasp transcribed as construction noise.",
+    "Gasp, rodents rats mice",
+    "The sound of Gasp overlaps with rodents rats mice.",
+    "Gasp, wild animal",
+    "The sound of Gasp overlaps with wild animal.",
+    "Gasp, crocodile or aligator",
+    "The sound of Gasp overlaps with crocodile or aligator.",
+    "Glass, things",
+    "The sound of Glass has parent things.",
+    "Glass, sound of things",
+    "The sound of Glass has parent sound of things.",
+    "Glass, kitchen sounds",
+    "The sound of Glass is kitchen sounds.",
+    "Glass, tinkling glass",
+    "The sound of Glass transcribed as tinkling glass.",
+    "Glass, refrigerator",
+    "The sound of Glass transcribed as refrigerator.",
+    "Glass, food preparation",
+    "The sound of Glass overlaps with food preparation.",
+    "Glass, coffee maker gurgling",
+    "The sound of Glass overlaps with coffee maker gurgling.",
+    "Glass, dish rattle",
+    "The sound of Glass overlaps with dish rattle.",
+    "Glockenspiel, instrument",
+    "The sound of Glockenspiel is instrument.",
+    "Glockenspiel, tinkling chimes",
+    "The sound of Glockenspiel transcribed as tinkling chimes.",
+    "Gong, instrument",
+    "The sound of Gong is instrument.",
+    "Gong, ringing",
+    "The sound of Gong transcribed as ringing.",
+    "Gong, school bell",
+    "The sound of Gong overlaps with school bell.",
+    "Growling, barking",
+    "The sound of Growling is the sound of barking.",
+    "Growling, howling",
+    "The sound of Growling is howling.",
+    "Growling, whining",
+    "The sound of Growling is transcribed as whining.",
+    "Growling, rumble",
+    "The sound of Growling overlaps with rumble.",
+    "Growling, keyboard",
+    "The sound of Growling overlaps with keyboard.",
+    "Growling, moor",
+    "The sound of Growling overlaps with moor.",
+    "Guitar, steel guitar or slide guitar",
+    "The sound of Guitar has parent steel guitar or slide guitar.",
+    "Guitar, saxophone",
+    "The sound of Guitar is not saxophone.",
+    "Guitar, electronica",
+    "The sound of Guitar transcribed as electronica.",
+    "Guitar, instrument",
+    "The sound of Guitar overlaps with instrument.",
+    "Guitar, channel environment and background",
+    "The sound of Guitar overlaps with channel environment and background.",
+    "Gull, seagull, bird vocalization call or song",
+    "The sound of Gull, seagull has parent bird vocalization call or song.",
+    "Gull, seagull, wild animal",
+    "The sound of Gull, seagull has parent wild animal.",
+    "Gull, seagull, bird song",
+    "The sound of Gull, seagull is bird song.",
+    "Gull, seagull, chirping",
+    "The sound of Gull, seagull is chirping.",
+    "Gull, seagull, warbler chirping",
+    "The sound of Gull, seagull transcribed as warbler chirping.",
+    "Gull, seagull, bird chirping",
+    "The sound of Gull, seagull overlaps with bird chirping.",
+    "Hammer, military ceremony",
+    "The sound of Hammer has parent military ceremony.",
+    "Hammer, human speech",
+    "The sound of Hammer has parent human speech.",
+    "Hammer, ding-dong",
+    "The sound of Hammer is ding-dong.",
+    "Hammer, door wood creak",
+    "The sound of Hammer is door wood creak.",
+    "Hammer, hammering",
+    "The sound of Hammer transcribed as hammering.",
+    "Hammer, sound equipment",
+    "The sound of Hammer transcribed as sound equipment.",
+    "Hammer, street music",
+    "The sound of Hammer transcribed as street music.",
+    "Hammer, door domestic",
+    "The sound of Hammer overlaps with door domestic.",
+    "Hammer, scratch",
+    "The sound of Hammer overlaps with scratch.",
+    "Hands, human non-speech sounds",
+    "The sound of Hands has parent human non-speech sounds.",
+    "Hands, human sounds",
+    "The sound of Hands has parent human sounds.",
+    "Hands, concert",
+    "The sound of Hands transcribed as concert.",
+    "Harmonica, instrument",
+    "The sound of Harmonica is instrument.",
+    "Harmonica, musician",
+    "The sound of Harmonica is of musician.",
+    "Harp, instrument",
+    "The sound of Harp is instrument.",
+    "Harp, strings",
+    "The sound of Harp overlaps with strings.",
+    "Hi-hat, drums",
+    "The sound of Hi-hat overlaps with drums.",
+    "Hiss, onomatopoeia",
+    "The sound of Hiss has parent onomatopoeia.",
+    "Hiss, brief tone",
+    "The sound of Hiss has parent brief tone.",
+    "Hiss, source-ambiguous sounds",
+    "The sound of Hiss has parent source-ambiguous sounds.",
+    "Hiss, car engine",
+    "The sound of Hiss is the car engine.",
+    "Hiss, construction equipment",
+    "The sound of Hiss is the sound of construction equipment.",
+    "Hiss, swimming",
+    "The sound of Hiss transcribed as swimming.",
+    "Hiss, striking bowling",
+    "The sound of Hiss transcribed as striking bowling.",
+    "Hiss, lifeguard",
+    "The sound of Hiss transcribed as lifeguard.",
+    "Hiss, construction noise",
+    "The sound of Hiss overlaps with construction noise.",
+    "Human group actions, human sounds",
+    "The sound of Human group actions has parent human sounds.",
+    "Human group actions, chanting",
+    "The sound of Human group actions overlaps with chanting.",
+    "Human voice, human sounds",
+    "The sound of Human voice has parent human sounds.",
+    "Human voice, human non-speech sounds",
+    "The sound of Human voice has parent human non-speech sounds.",
+    "Human voice, singing in operatic performance",
+    "The sound of Human voice overlaps with singing in operatic performance.",
+    "Insect, wild animal",
+    "The sound of Insect has parent wild animal.",
+    "Insect, mosquitoes",
+    "The sound of Insect mosquitoes.",
+    "Insect, buzzing",
+    "The sound of Insect is buzzing.",
+    "Insect, bird vocalization call or song",
+    "The sound of Insect transcribed as bird vocalization call or song.",
+    "Insect, chirping",
+    "The sound of Insect overlaps with chirping.",
+    "Keyboard (musical), instrument",
+    "The sound of Keyboard (musical) is instrument.",
+    "Keyboard (musical), melody",
+    "The sound of Keyboard (musical) overlaps with melody.",
+    "Keys jangling, domestic sounds",
+    "The sound of Keys jangling has a parent category domestic sounds.",
+    "Keys jangling, sound of things",
+    "The sound of Keys jangling has a parent sound of things.",
+    "Keys jangling, kitchen sounds",
+    "The sound of Keys jangling has a parent category of kitchen sounds.",
+    "Keys jangling, apartment",
+    "The sound of Keys jangling is the sound of apartment.",
+    "Keys jangling, door opening",
+    "The sound of Keys jangling is door opening.",
+    "Keys jangling, opening",
+    "The sound of Keys jangling is opening.",
+    "Keys jangling, wooden creak",
+    "The sound of Keys jangling transcribes as wooden creak.",
+    "Keys jangling, wooden groan",
+    "The sound of Keys jangling transcribed as wooden groan.",
+    "Keys jangling, knocking",
+    "The sound of Keys jangling overlaps with knocking.",
+    "Keys jangling, door closing",
+    "The sound of Keys jangling overlaps with door closing.",
+    "Knock, generic impact sounds",
+    "The sound of Knock has a parent category of generic impact sounds.",
+    "Knock, footsteps",
+    "The sound of Knock is footsteps.",
+    "Knock, house",
+    "The sound of Knock transcribed as house.",
+    "Knock, door opening",
+    "The sound of Knock overlaps with door opening.",
+    "Laughter, giggling",
+    "The sound of Laughter has a parent category of giggling.",
+    "Laughter, sniggering",
+    "The sound of Laughter has a parent sound called sniggering.",
+    "Laughter, human sounds",
+    "The sound of Laughter is human sounds.",
+    "Laughter, singing contest",
+    "The sound of Laughter is in singing contest.",
+    "Laughter, ding-dong",
+    "The sound of Laughter transcribed as ding-dong.",
+    "Liquid, sound of things",
+    "The sound of Liquid has parent sound of things.",
+    "Liquid, things",
+    "The sound of Liquid has parent things.",
+    "Liquid, water splashing",
+    "The sound of Liquid transcribed as water splashing.",
+    "Liquid, water domestic",
+    "The sound of Liquid transcribed as water domestic.",
+    "Liquid, short",
+    "The sound of Liquid overlaps with short.",
+    "Male singing, human sounds",
+    "The sound of Male singing has a parent category of human sounds.",
+    "Male singing, melody",
+    "The sound of Male singing is melody.",
+    "Male singing, voice",
+    "The sound of Male singing is voice.",
+    "Male singing, beat",
+    "The sound of Male singing transcribed as beat.",
+    "Male singing, hip hop",
+    "The sound of Male singing overlaps with hip hop.",
+    "Male singing, rap battles",
+    "The sound of Male singing overlaps with rap battles.",
+    "Mallet percussion, bongos",
+    "The sound of Mallet percussion is bongos.",
+    "Mallet percussion, rhythm",
+    "The sound of Mallet percussion has the relation overlaps with with rhythm.",
+    "Mallet percussion, groove",
+    "The sound of Mallet percussion overlaps with groove.",
+    "Marimba, xylophone, instrument",
+    "The sound of Marimba, xylophone is instrument.",
+    "Marimba, xylophone, harmonic vibrations",
+    "The sound of Marimba, xylophone has the relation transcribed as with harmonic vibrations.",
+    "Marimba, xylophone, drums",
+    "The sound of Marimba, xylophone overlaps with drums.",
+    "Mechanical fan, sound of things",
+    "The sound of Mechanical fan has parent sound of things.",
+    "Mechanical fan, domestic sounds",
+    "The sound of Mechanical fan has parent domestic sounds.",
+    "Mechanical fan, ventilation system",
+    "The sound of Mechanical fan is ventilation system.",
+    "Mechanical fan, whirring",
+    "The sound of Mechanical fan transcribed as whirring.",
+    "Mechanical fan, rolling",
+    "The sound of Mechanical fan transcribed as rolling.",
+    "Mechanical fan, cashier counting money",
+    "The sound of Mechanical fan overlaps with cashier counting money.",
+    "Mechanical fan, coffee maker gurgling",
+    "The sound of Mechanical fan overlaps with coffee maker gurgling.",
+    "Mechanical fan, ringing",
+    "The sound of Mechanical fan overlaps with ringing.",
+    "Mechanisms, things",
+    "The sound of Mechanisms has a parent category of things.",
+    "Mechanisms, sound of things",
+    "The sound of Mechanisms has parent sound of things.",
+    "Mechanisms, shower",
+    "The sound of Mechanisms transcribed as shower.",
+    "Mechanisms, object snapping",
+    "The sound of Mechanisms transcribed as object snapping.",
+    "Mechanisms, object fall",
+    "The sound of Mechanisms transcribed as object fall.",
+    "Mechanisms, fire alarm",
+    "The sound of Mechanisms overlaps with fire alarm.",
+    "Microwave oven, domestic sounds",
+    "The sound of Microwave oven has parent domestic sounds.",
+    "Microwave oven, kitchen sounds",
+    "The sound of Microwave oven has parent kitchen sounds.",
+    "Microwave oven, things",
+    "The sound of Microwave oven has parent things.",
+    "Microwave oven, cooking",
+    "The sound of Microwave oven is cooking.",
+    "Microwave oven, bathroom sounds",
+    "The sound of Microwave oven is bathroom sounds.",
+    "Microwave oven, whirring",
+    "The sound of Microwave oven transcribed as whirring.",
+    "Microwave oven, food preparation",
+    "The sound of Microwave oven overlaps with food preparation.",
+    "Microwave oven, water splashing",
+    "The sound of Microwave oven overlaps with water splashing.",
+    "Microwave oven, clinking utensils",
+    "The sound of Microwave oven overlaps with clinking utensils.",
+    "Motor vehicle (road), motor vehicle",
+    "The sound of Motor vehicle (road) has parent motor vehicle.",
+    "Motor vehicle (road), automobile",
+    "The sound of Motor vehicle (road) has parent automobile.",
+    "Motor vehicle (road), emergency response",
+    "The sound of Motor vehicle (road) is emergency response.",
+    "Motor vehicle (road), festival",
+    "The sound of Motor vehicle (road) is not festival.",
+    "Motor vehicle (road), mechanical",
+    "The sound of Motor vehicle (road) is mechanical.",
+    "Motor vehicle (road), road vehicle",
+    "The sound of Motor vehicle (road) transcribed as road vehicle.",
+    "Motorcycle, road vehicle",
+    "The sound of Motorcycle has parent road vehicle.",
+    "Motorcycle, exhaust",
+    "The sound of Motorcycle is exhaust.",
+    "Motorcycle, traffic noise",
+    "The sound of Motorcycle overlaps with traffic noise.",
+    "Motorcycle, car alarm",
+    "The sound of Motorcycle overlaps with car alarm.",
+    "Music, harmony",
+    "The sound of Music has parent harmony.",
+    "Music, instrument",
+    "The sound of Music is the instrument.",
+    "Music, orchestra",
+    "The sound of Music is the orchestra.",
+    "Music, beat",
+    "The sound of Music transcribed as beat.",
+    "Musical instrument, saxophone",
+    "The sound of Musical instrument transcribed as saxophone.",
+    "Musical instrument, ukulele",
+    "The sound of Musical instrument transcribed as ukulele.",
+    "Musical instrument, groove",
+    "The sound of Musical instrument overlaps with groove.",
+    "Ocean, water natural",
+    "The sound of Ocean has parent water natural.",
+    "Ocean, natural sounds",
+    "The sound of Ocean has parent natural sounds.",
+    "Ocean, river",
+    "The sound of Ocean is river.",
+    "Ocean, waterfall",
+    "The sound of Ocean is waterfall.",
+    "Ocean, waves",
+    "The sound of Ocean transcribed as waves.",
+    "Ocean, maritime traffic",
+    "The sound of Ocean overlaps with maritime traffic.",
+    "Ocean, splashing water",
+    "The sound of Ocean overlaps with splashing water.",
+    "Organ, saxophone",
+    "The sound of Organ is saxophone.",
+    "Organ, orchestral music",
+    "The sound of Organ overlaps with orchestral music.",
+    "Organ, jazz music",
+    "The sound of Organ overlaps with jazz music.",
+    "Organ, instrumental music",
+    "The sound of Organ overlaps with instrumental music.",
+    "Percussion, triangle",
+    "The sound of Percussion is the triangle.",
+    "Percussion, maracas",
+    "The sound of Percussion is maracas.",
+    "Percussion, beat",
+    "The sound of Percussion is transcribed as beat.",
+    "Percussion, groove",
+    "The sound of Percussion overlaps with groove.",
+    "Percussion, drums",
+    "The sound of Percussion overlaps with drums.",
+    "Piano, instrument",
+    "The sound of Piano is instrument.",
+    "Piano, instrumental music",
+    "The sound of Piano overlaps with instrumental music.",
+    "Piano, classical music",
+    "The sound of Piano overlaps with classical music.",
+    "Piano, jazz music",
+    "The sound of Piano overlaps with jazz music.",
+    "Plucked string instrument, plucked string",
+    "The sound of Plucked string instrument is plucked string.",
+    "Plucked string instrument, plucked",
+    "The sound of Plucked string instrument is plucked.",
+    "Plucked string instrument, instrument",
+    "The sound of Plucked string instrument is instrument.",
+    "Plucked string instrument, ukulele",
+    "The sound of Plucked string instrument transcribed as ukulele.",
+    "Plucked string instrument, zither",
+    "The sound of Plucked string instrument transcribed as zither.",
+    "Power tool, sound of things",
+    "The sound of Power tool has parent sound of things.",
+    "Power tool, light engine (high frequency)",
+    "The sound of Power tool has the relation has parent with light engine (high frequency).",
+    "Power tool, hammering",
+    "The sound of Power tool is hammering.",
+    "Power tool, woodpecker",
+    "The sound of Power tool is woodpecker.",
+    "Power tool, coin machine",
+    "The sound of Power tool transcribed as coin machine.",
+    "Power tool, mouse click",
+    "The sound of Power tool transcribed as mouse click.",
+    "Power tool, television",
+    "The sound of Power tool transcribed as television.",
+    "Power tool, ringing",
+    "The sound of Power tool overlaps with ringing.",
+    "Power tool, construction noise",
+    "The sound of Power tool overlaps with construction noise.",
+    "Printer, office sounds",
+    "The sound of Printer has parent office sounds.",
+    "Printer, sound of things",
+    "The sound of Printer has parent sound of things.",
+    "Printer, things",
+    "The sound of Printer has parent things.",
+    "Printer, door knock",
+    "The sound of Printer is door knock.",
+    "Printer, ringing",
+    "The sound of Printer transcribed as ringing.",
+    "Printer, ding-dong",
+    "The sound of Printer transcribed as ding-dong.",
+    "Printer, jackhammer",
+    "The sound of Printer transcribed as jackhammer.",
+    "Printer, ambulance",
+    "The sound of Printer overlaps with ambulance.",
+    "Rail transport, sound of things",
+    "The sound of Rail transport has parent sound of things.",
+    "Rail transport, tires",
+    "The sound of Rail transport is tires.",
+    "Rail transport, ding-dong",
+    "The sound of Rail transport transcribed as ding-dong.",
+    "Rail transport, object impact",
+    "The sound of Rail transport transcribed as object impact.",
+    "Rail transport, steam whistle",
+    "The sound of Rail transport overlaps with steam whistle.",
+    "Rain, water natural",
+    "The sound of Rain has a parent category of water natural.",
+    "Rain, natural sounds",
+    "The sound of Rain has parent natural sounds.",
+    "Rain, precipitation",
+    "The sound of Rain is the precipitation.",
+    "Rain, maritime traffic",
+    "The sound of Rain overlaps with maritime traffic.",
+    "Raindrop, water drop",
+    "The sound of Raindrop has a parent water drop.",
+    "Raindrop, water natural",
+    "The sound of Raindrop has a parent sound of water natural.",
+    "Raindrop, precipitation",
+    "The sound of Raindrop is the precipitation.",
+    "Raindrop, natural sounds",
+    "The sound of Raindrop is transcribed as natural sounds.",
+    "Ratchet, pawl, sound of things",
+    "The sound of Ratchet, pawl has parent sound of things.",
+    "Ratchet, pawl, clock tick",
+    "The sound of Ratchet, pawl is clock tick.",
+    "Ratchet, pawl, jackhammer",
+    "The sound of Ratchet, pawl is jackhammer.",
+    "Ratchet, pawl, whirring",
+    "The sound of Ratchet, pawl is transcribed as whirring.",
+    "Ratchet, pawl, water splashing",
+    "The sound of Ratchet, pawl transcribed as water splashing.",
+    "Ratchet, pawl, barking",
+    "The sound of Ratchet, pawl is transcribed as barking.",
+    "Ratchet, pawl, cashier counting money",
+    "The sound of Ratchet, pawl overlaps with cashier counting money.",
+    "Ratchet, pawl, cashier handling cash",
+    "The sound of Ratchet, pawl overlaps with cashier handling cash.",
+    "Rattle, onomatopoeia",
+    "The sound of Rattle has parent onomatopoeia.",
+    "Rattle, source-ambiguous",
+    "The sound of Rattle has parent source-ambiguous.",
+    "Rattle, source-ambiguous sounds",
+    "The sound of Rattle has parent source-ambiguous sounds.",
+    "Rattle, footsteps",
+    "The sound of Rattle is footsteps.",
+    "Rattle, machine",
+    "The sound of Rattle is machine.",
+    "Rattle, construction site",
+    "The sound of Rattle is construction site.",
+    "Rattle, running",
+    "The sound of Rattle transcribed as running.",
+    "Rattle, a rapid, high-pitched sound made by a bird in flight, often heard in the forest",
+    "The sound of Rattle has the relation transcribed as with a rapid, high-pitched sound made by a bird in flight, often heard in the forest.",
+    "Rattle, walking",
+    "The sound of Rattle transcribed as walking.",
+    "Rattle, construction noise",
+    "The sound of Rattle overlaps with construction noise.",
+    "Rattle, metal on metal",
+    "The sound of Rattle overlaps with metal on metal.",
+    "Rattle (instrument), instrument",
+    "The sound of Rattle (instrument) is instrument.",
+    "Rattle (instrument), metal",
+    "The sound of Rattle (instrument) is metal.",
+    "Rattle (instrument), beat",
+    "The sound of Rattle (instrument) is transcribed as beat.",
+    "Rattle (instrument), bongos",
+    "The sound of Rattle (instrument) transcribed as bongos.",
+    "Rattle (instrument), drums",
+    "The sound of Rattle (instrument) overlaps with drums.",
+    "Ringtone, beat",
+    "The sound of Ringtone is beat.",
+    "Ringtone, melody",
+    "The sound of Ringtone is melody.",
+    "Ringtone, electronica",
+    "The sound of Ringtone transcribed as electronica.",
+    "Ringtone, barn",
+    "The sound of Ringtone transcribed as barn.",
+    "Ringtone, ringing",
+    "The sound of Ringtone overlaps with ringing.",
+    "Sawing, things",
+    "The sound of Sawing things.",
+    "Sawing, drilling",
+    "The sound of Sawing is transcribed as drilling.",
+    "Sawing, chainsaw",
+    "The sound of Sawing is transcribed as chainsaw.",
+    "Sawing, wood cutting",
+    "The sound of Sawing overlaps with wood cutting.",
+    "Sawing, hammering",
+    "The sound of Sawing overlaps with hammering.",
+    "Scissors, domestic sounds",
+    "The sound of Scissors has parent domestic sounds.",
+    "Scissors, sound of things",
+    "The sound of Scissors has parent sound of things.",
+    "Scissors, things",
+    "The sound of Scissors has parent things.",
+    "Scissors, apartment",
+    "The sound of Scissors is apartment.",
+    "Scissors, door domestic",
+    "The sound of Scissors transcribed as door domestic.",
+    "Scissors, food preparation",
+    "The sound of Scissors overlaps with food preparation.",
+    "Scissors, knocking",
+    "The sound of Scissors overlaps with knocking.",
+    "Scratching (performance technique), street music",
+    "The sound of Scratching (performance technique) has a parent category of street music.",
+    "Scratching (performance technique), cheetah",
+    "The sound of Scratching (performance technique) has a parent cheetah.",
+    "Scratching (performance technique), footsteps",
+    "The sound of Scratching (performance technique) has parent footsteps.",
+    "Scratching (performance technique), rumble",
+    "The sound of Scratching (performance technique) is rumble.",
+    "Scratching (performance technique), agriculture",
+    "The sound of Scratching (performance technique) is not related to agriculture.",
+    "Scratching (performance technique), barking",
+    "The sound of Scratching (performance technique) transcribed as barking.",
+    "Scratching (performance technique), a flying machine used for transportation or military purposes",
+    "The sound of Scratching (performance technique) transcribed as a flying machine used for transportation or military purposes.",
+    "Scratching (performance technique), medium",
+    "The sound of Scratching (performance technique) is transcribed as medium.",
+    "Scratching (performance technique), sadness",
+    "The sound of Scratching (performance technique) overlaps with sadness.",
+    "Scratching (performance technique), a type of instrument used in improvisational music",
+    "The sound of Scratching (performance technique) overlaps with a type of instrument used in improvisational music.",
+    "Scratching (performance technique), wedding ceremony venue",
+    "The sound of Scratching (performance technique) overlaps with wedding ceremony venue.",
+    "Screaming, human non-speech sounds",
+    "The sound of Screaming has a parent category of human non-speech sounds.",
+    "Screaming, human sounds",
+    "The sound of Screaming has a parent category of human sounds.",
+    "Screech, brief tone",
+    "The sound of Screech has a parent brief tone.",
+    "Screech, onomatopoeia",
+    "The sound of Screech has parent onomatopoeia.",
+    "Screech, source-ambiguous sounds",
+    "The sound of Screech has a parent category of source-ambiguous sounds.",
+    "Screech, bird vocalization call or song",
+    "The sound of Screech transcribed as bird vocalization call or song.",
+    "Screech, electricity generator compressor",
+    "The sound of Screech transcribed as electricity generator compressor.",
+    "Screech, construction noise",
+    "The sound of Screech overlaps with construction noise.",
+    "Screech, school bell",
+    "The sound of Screech overlaps with school bell.",
+    "Singing, human sounds",
+    "The sound of Singing has parent human sounds.",
+    "Singing, saxophone",
+    "The sound of Singing is the sound of saxophone.",
+    "Singing, melody",
+    "The sound of Singing is transcribed as melody.",
+    "Singing, singing in operatic performance",
+    "The sound of Singing overlaps with singing in operatic performance.",
+    "Singing, singing in pop concert",
+    "The sound of Singing overlaps with singing in pop concert.",
+    "Singing, choir",
+    "The sound of Singing overlaps with choir.",
+    "Sink (filling or washing), water domestic",
+    "The sound of Sink (filling or washing) has parent water domestic.",
+    "Sink (filling or washing), bathroom sounds",
+    "The sound of Sink (filling or washing) has parent bathroom sounds.",
+    "Sink (filling or washing), kitchen sounds",
+    "The sound of Sink (filling or washing) has parent kitchen sounds.",
+    "Sink (filling or washing), shower",
+    "The sound of Sink (filling or washing) is shower.",
+    "Sink (filling or washing), jackhammer",
+    "The sound of Sink (filling or washing) is jackhammer.",
+    "Sink (filling or washing), woodpecker",
+    "The sound of Sink (filling or washing) is woodpecker.",
+    "Sink (filling or washing), refrigerator",
+    "The sound of Sink (filling or washing) transcribed as refrigerator.",
+    "Sink (filling or washing), washing dishes",
+    "The sound of Sink (filling or washing) transcribed as washing dishes.",
+    "Sink (filling or washing), water flowing",
+    "The sound of Sink (filling or washing) overlaps with water flowing.",
+    "Sink (filling or washing), flushing",
+    "The sound of Sink (filling or washing) overlaps with flushing.",
+    "Sink (filling or washing), water splashing",
+    "The sound of Sink (filling or washing) overlaps with water splashing.",
+    "Siren, rush hour traffic",
+    "The sound of Siren has parent rush hour traffic.",
+    "Siren, ding",
+    "The sound of Siren has parent ding.",
+    "Siren, bell ringing",
+    "The sound of Siren is bell ringing.",
+    "Siren, home",
+    "The sound of Siren is home.",
+    "Siren, buzzer ringing",
+    "The sound of Siren transcribed as buzzer ringing.",
+    "Siren, warning",
+    "The sound of Siren overlaps with warning.",
+    "Siren, change bell ringing",
+    "The sound of Siren overlaps with change bell ringing.",
+    "Skateboard, non-motorized land vehicle",
+    "The sound of Skateboard has parent non-motorized land vehicle.",
+    "Skateboard, road vehicle",
+    "The sound of Skateboard is road vehicle.",
+    "Skateboard, grinding on rail",
+    "The sound of Skateboard is transcribed as grinding on rail.",
+    "Skateboard, grinding on bowl",
+    "The sound of Skateboard is transcribed as grinding on bowl.",
+    "Skateboard, grinding on ramp",
+    "The sound of Skateboard is transcribed as grinding on ramp.",
+    "Skateboard, motorcycle noise",
+    "The sound of Skateboard overlaps with motorcycle noise.",
+    "Slam, door slam",
+    "The sound of Slam has parent door slam.",
+    "Slam, high",
+    "The sound of Slam has a parent sound high.",
+    "Slam, door wood creak",
+    "The sound of Slam has a parent sound of door wood creak.",
+    "Slam, natural sounds",
+    "The sound of Slam is natural sounds.",
+    "Slam, human activities",
+    "The sound of Slam is the sound of human activities.",
+    "Slam, footsteps",
+    "The sound of Slam transcribed as footsteps.",
+    "Slam, source-ambiguous sounds",
+    "The sound of Slam transcribed as source-ambiguous sounds.",
+    "Slam, button being pressed",
+    "The sound of Slam transcribed as button being pressed.",
+    "Slam, indian classical music album",
+    "The sound of Slam overlaps with Indian classical music album.",
+    "Slam, waterfall",
+    "The sound of Slam overlaps with waterfall.",
+    "Slam, chainsaw",
+    "The sound of Slam overlaps with chainsaw.",
+    "Sliding door, door opens or closes",
+    "The sound of Sliding door has parent door opens or closes.",
+    "Sliding door, domestic sounds",
+    "The sound of Sliding door has parent domestic sounds.",
+    "Sliding door, metal on metal",
+    "The sound of Sliding door is metal on metal.",
+    "Sliding door, opening",
+    "The sound of Sliding door is opening.",
+    "Sliding door, building",
+    "The sound of Sliding door is building.",
+    "Sliding door, wooden groan",
+    "The sound of Sliding door is transcribed as wooden groan.",
+    "Sliding door, ding-dong",
+    "The sound of Sliding door is transcribed as ding-dong.",
+    "Sliding door, wooden squeak",
+    "The sound of Sliding door is transcribed as wooden squeak.",
+    "Sliding door, knocking",
+    "The sound of Sliding door overlaps with knocking.",
+    "Sliding door, closing",
+    "The sound of Sliding door overlaps with closing.",
+    "Snare drum, percussion instrument",
+    "The sound of Snare drum is that of a percussion instrument.",
+    "Snare drum, drumming",
+    "The sound of Snare drum transcribed as drumming.",
+    "Snare drum, drums",
+    "The sound of Snare drum overlaps with drums.",
+    "Snare drum, rhythm",
+    "The sound of Snare drum has the relation overlaps with with rhythm.",
+    "Speech, human sounds",
+    "The sound of Speech has parent human sounds.",
+    "Speech, voice",
+    "The sound of Speech is the voice.",
+    "Speech, talking",
+    "The sound of Speech transcribed as talking.",
+    "Speech synthesizer, talking",
+    "The sound of Speech synthesizer has parent talking.",
+    "Speech synthesizer, human sounds",
+    "The sound of Speech synthesizer is human sounds.",
+    "Speech synthesizer, outdoor activity",
+    "The sound of Speech synthesizer is outdoor activity.",
+    "Speech synthesizer, children shouting",
+    "The sound of Speech synthesizer transcribed as children shouting.",
+    "Speech synthesizer, monologue",
+    "The sound of Speech synthesizer transcribed as monologue.",
+    "Speech synthesizer, children playing",
+    "The sound of Speech synthesizer overlaps with children playing.",
+    "Speech synthesizer, verbal interaction",
+    "The sound of Speech synthesizer overlaps with verbal interaction.",
+    "Squeak, onomatopoeia",
+    "The sound of Squeak has parent onomatopoeia.",
+    "Squeak, source-ambiguous sounds",
+    "The sound of Squeak has parent source-ambiguous sounds.",
+    "Squeak, source-ambiguous",
+    "The sound of Squeak has a parent that is source-ambiguous.",
+    "Squeak, piglet",
+    "The sound of Squeak is the sound of piglet.",
+    "Squeak, car engine",
+    "The sound of Squeak is not the sound of a car engine.",
+    "Squeak, stampede warning signal",
+    "The sound of Squeak is stampede warning signal.",
+    "Squeak, cleaning tool",
+    "The sound of Squeak transcribed as cleaning tool.",
+    "Squeak, artillery fire",
+    "The sound of Squeak transcribed as artillery fire.",
+    "Squeak, bell ringing",
+    "The sound of Squeak overlaps with bell ringing.",
+    "Squeak, meowing",
+    "The sound of Squeak overlaps with meowing.",
+    "Stream, natural sounds",
+    "The sound of Stream has parent natural sounds.",
+    "Stream, high",
+    "The sound of Stream is high.",
+    "Stream, crackling fire",
+    "The sound of Stream is crackling fire.",
+    "Stream, corridor",
+    "The sound of Stream transcribed as corridor.",
+    "Stream, audio recording device",
+    "The sound of Stream transcribed as audio recording device.",
+    "Stream, rumble",
+    "The sound of Stream transcribed as rumble.",
+    "Stream, a sharp sound made by a car door",
+    "The sound of Stream has the relation overlaps with with a sharp sound made by a car door.",
+    "Stream, electronica",
+    "The sound of Stream overlaps with electronica.",
+    "Tabla, percussion instrument",
+    "The sound of Tabla is of a percussion instrument.",
+    "Tambourine, instrument",
+    "The sound of Tambourine is instrument.",
+    "Tambourine, drums",
+    "The sound of Tambourine overlaps with drums.",
+    "Tambourine, parade",
+    "The sound of Tambourine overlaps with parade.",
+    "Tap, injury risk",
+    "The sound of Tap has parent injury risk.",
+    "Tap, cornet",
+    "The sound of Tap has parent cornet.",
+    "Tap, breakfast time",
+    "The sound of Tap has parent breakfast time.",
+    "Tap, a large, hoofed mammal commonly found in the arctic and antarctic regions",
+    "The sound of Tap is a large, hoofed mammal commonly found in the arctic and antarctic regions.",
+    "Tap, a large, powered, fixed-wing aircraft",
+    "The sound of Tap is a large, powered, fixed-wing aircraft.",
+    "Tap, arrhythmia",
+    "The sound of Tap is arrhythmia.",
+    "Tap, door domestic",
+    "The sound of Tap transcribed as door domestic.",
+    "Tap, volcanic eruption",
+    "The sound of Tap overlaps with volcanic eruption.",
+    "Tearing, deformable shell",
+    "The sound of Tearing has a parent deformable shell.",
+    "Tearing, source-ambiguous",
+    "The sound of Tearing has parent source-ambiguous.",
+    "Tearing, source-ambiguous sounds",
+    "The sound of Tearing has parent source-ambiguous sounds.",
+    "Tearing, things",
+    "The sound of Tearing is the sound of things.",
+    "Tearing, sound of things",
+    "The sound of Tearing is the sound of things.",
+    "Tearing, firecracker",
+    "The sound of Tearing is firecracker.",
+    "Tearing, construction site accident",
+    "The sound of Tearing is transcribed as construction site accident.",
+    "Tearing, scratch",
+    "The sound of Tearing is transcribed as scratch.",
+    "Telephone, alarm signal",
+    "The sound of Telephone has parent alarm signal.",
+    "Telephone, sound of things",
+    "The sound of Telephone has parent sound of things.",
+    "Telephone, things",
+    "The sound of Telephone has parent things.",
+    "Telephone, ringing",
+    "The sound of Telephone is ringing.",
+    "Telephone, microphone",
+    "The sound of Telephone is microphone.",
+    "Telephone, turkey hunting",
+    "The sound of Telephone transcribed as turkey hunting.",
+    "Telephone, noise",
+    "The sound of Telephone transcribed as noise.",
+    "Telephone, fire alarm",
+    "The sound of Telephone overlaps with fire alarm.",
+    "Telephone, knocking",
+    "The sound of Telephone overlaps with knocking.",
+    "Thump, thud, generic impact sounds",
+    "The sound of Thump, thud has parent generic impact sounds.",
+    "Thump, thud, arrow",
+    "The sound of Thump, thud has a parent arrow.",
+    "Thump, thud, miscellaneous sources",
+    "The sound of Thump, thud has parent miscellaneous sources.",
+    "Thump, thud, car engine",
+    "The sound of Thump, thud is the sound of car engine.",
+    "Thump, thud, footsteps",
+    "The sound of Thump, thud is footsteps.",
+    "Thump, thud, sound of things",
+    "The sound of Thump, thud is transcribed as sound of things.",
+    "Thump, thud, thump or thud",
+    "The sound of Thump, thud transcribed as thump or thud.",
+    "Thump, thud, things",
+    "The sound of Thump, thud overlaps with things.",
+    "Thunder, natural sounds",
+    "The sound of Thunder has parent natural sounds.",
+    "Thunder, storm",
+    "The sound of Thunder is the sound of storm.",
+    "Thunderstorm, natural sounds",
+    "The sound of Thunderstorm has parent natural sounds.",
+    "Thunderstorm, thunderclap",
+    "The sound of Thunderstorm is thunderclap.",
+    "Tick-tock, clock tick",
+    "The sound of Tick-tock has a parent sound of clock tick.",
+    "Tick-tock, sound of things",
+    "The sound of Tick-tock has a parent sound of things.",
+    "Tick-tock, clock ticking",
+    "The sound of Tick-tock is the clock ticking.",
+    "Tick-tock, park",
+    "The sound of Tick-tock transcribed as park.",
+    "Tick-tock, forest",
+    "The sound of Tick-tock transcribed as forest.",
+    "Tick-tock, barking",
+    "The sound of Tick-tock transcribed as barking.",
+    "Tick-tock, door opening",
+    "The sound of Tick-tock overlaps with door opening.",
+    "Toilet flush, water domestic",
+    "The sound of Toilet flush has parent water domestic.",
+    "Toilet flush, bathroom sounds",
+    "The sound of Toilet flush has parent bathroom sounds.",
+    "Toilet flush, domestic sounds",
+    "The sound of Toilet flush has parent domestic sounds.",
+    "Toilet flush, closing",
+    "The sound of Toilet flush is closing.",
+    "Toilet flush, wooden groan",
+    "The sound of Toilet flush transcribed as wooden groan.",
+    "Toilet flush, shower",
+    "The sound of Toilet flush transcribed as shower.",
+    "Toilet flush, whirring",
+    "The sound of Toilet flush transcribed as whirring.",
+    "Toilet flush, flushing",
+    "The sound of Toilet flush overlaps with flushing.",
+    "Toilet flush, water flowing",
+    "The sound of Toilet flush overlaps with water flowing.",
+    "Tools, things",
+    "The sound of Tools has parent things.",
+    "Tools, sound of things",
+    "The sound of Tools has parent sound of things.",
+    "Tools, cow",
+    "The sound of Tools is cow.",
+    "Tools, short",
+    "The sound of Tools transcribed as short.",
+    "Tools, pedestrian street",
+    "The sound of Tools transcribed as pedestrian street.",
+    "Tools, ringing",
+    "The sound of Tools overlaps with ringing.",
+    "Train, locomotive",
+    "The sound of Train is locomotive.",
+    "Train, whistle",
+    "The sound of Train is whistle.",
+    "Train, water vehicle",
+    "The sound of Train transcribed as water vehicle.",
+    "Train, ding-dong",
+    "The sound of Train transcribed as ding-dong.",
+    "Train, passing cars",
+    "The sound of Train overlaps with passing cars.",
+    "Trickle, dribble, liquid pouring",
+    "The sound of Trickle, dribble has a parent sound of liquid pouring.",
+    "Trickle, dribble, things",
+    "The sound of Trickle, dribble has parent things.",
+    "Trickle, dribble, sound of things",
+    "The sound of Trickle, dribble is sound of things.",
+    "Trickle, dribble, water splashing",
+    "The sound of Trickle, dribble is water splashing.",
+    "Trickle, dribble, kitchen sounds",
+    "The sound of Trickle, dribble is transcribed as kitchen sounds.",
+    "Trickle, dribble, object snapping",
+    "The sound of Trickle, dribble is transcribed as object snapping.",
+    "Trickle, dribble, cooking",
+    "The sound of Trickle, dribble is transcribed as cooking.",
+    "Trickle, dribble, splashing water",
+    "The sound of Trickle, dribble overlaps with splashing water.",
+    "Trickle, dribble, rushing water",
+    "The sound of Trickle, dribble overlaps with rushing water.",
+    "Truck, large vehicle",
+    "The sound of Truck has parent large vehicle.",
+    "Truck, road vehicle",
+    "The sound of Truck has parent road vehicle.",
+    "Truck, brakes",
+    "The sound of Truck is brakes.",
+    "Truck, traffic noise",
+    "The sound of Truck overlaps with traffic noise.",
+    "Truck, motorcycle noise",
+    "The sound of Truck overlaps with motorcycle noise.",
+    "Trumpet, instrument",
+    "The sound of Trumpet is instrument.",
+    "Trumpet, parade",
+    "The sound of Trumpet is parade.",
+    "Trumpet, concert",
+    "The sound of Trumpet is concert.",
+    "Trumpet, circus performer",
+    "The sound of Trumpet overlaps with circus performer.",
+    "Trumpet, military band",
+    "The sound of Trumpet overlaps with military band.",
+    "Typewriter, office sounds",
+    "The sound of Typewriter has parent office sounds.",
+    "Typewriter, domestic sounds",
+    "The sound of Typewriter has parent domestic sounds.",
+    "Typewriter, opening",
+    "The sound of Typewriter is opening.",
+    "Typewriter, sound of things",
+    "The sound of Typewriter is sound of things.",
+    "Typewriter, ding-dong",
+    "The sound of Typewriter transcribed as ding-dong.",
+    "Typewriter, knocking",
+    "The sound of Typewriter overlaps with knocking.",
+    "Typewriter, food preparation",
+    "The sound of Typewriter overlaps with food preparation.",
+    "Typing, domestic sounds",
+    "The sound of Typing has parent domestic sounds.",
+    "Typing, sound of things",
+    "The sound of Typing has parent sound of things.",
+    "Typing, kitchen sounds",
+    "The sound of Typing has parent kitchen sounds.",
+    "Typing, apartment",
+    "The sound of Typing is the sound of apartment.",
+    "Typing, building",
+    "The sound of Typing is the building.",
+    "Typing, ringing",
+    "The sound of Typing transcribed as ringing.",
+    "Typing, carpentry",
+    "The sound of Typing transcribed as carpentry.",
+    "Typing, door opening",
+    "The sound of Typing overlaps with door opening.",
+    "Typing, coffee maker gurgling",
+    "The sound of Typing overlaps with coffee maker gurgling.",
+    "Typing, food preparation",
+    "The sound of Typing overlaps with food preparation.",
+    "Vehicle, road vehicle",
+    "The sound of Vehicle has parent road vehicle.",
+    "Vehicle, things",
+    "The sound of Vehicle has parent things.",
+    "Vehicle, tires",
+    "The sound of Vehicle is tires.",
+    "Vehicle, car engine",
+    "The sound of Vehicle transcribed as car engine.",
+    "Vehicle, car horn",
+    "The sound of Vehicle overlaps with car horn.",
+    "Vehicle, motorcycle noise",
+    "The sound of Vehicle overlaps with motorcycle noise.",
+    "Vehicle, traffic noise",
+    "The sound of Vehicle overlaps with traffic noise.",
+    "Water, water natural",
+    "The sound of Water has parent water natural.",
+    "Water, natural sounds",
+    "The sound of Water has parent natural sounds.",
+    "Water, high",
+    "The sound of Water is high.",
+    "Water, waves",
+    "The sound of Water transcribed as waves.",
+    "Water, waves crashing",
+    "The sound of Water overlaps with waves crashing.",
+    "Water tap, faucet, bathroom sounds",
+    "The sound of Water tap, faucet has parent bathroom sounds.",
+    "Water tap, faucet, water domestic",
+    "The sound of Water tap, faucet has parent water domestic.",
+    "Water tap, faucet, kitchen sounds",
+    "The sound of Water tap, faucet has parent kitchen sounds.",
+    "Water tap, faucet, cutlery or dishes",
+    "The sound of Water tap, faucet is cutlery or dishes.",
+    "Water tap, faucet, water splashing",
+    "The sound of Water tap, faucet is water splashing.",
+    "Water tap, faucet, refrigerator",
+    "The sound of Water tap, faucet transcribed as refrigerator.",
+    "Water tap, faucet, dishwasher",
+    "The sound of Water tap, faucet transcribed as dishwasher.",
+    "Water tap, faucet, shower",
+    "The sound of Water tap, faucet transcribed as shower.",
+    "Water tap, faucet, water flowing",
+    "The sound of Water tap, faucet overlaps with water flowing.",
+    "Water tap, faucet, water dripping",
+    "The sound of Water tap, faucet overlaps with water dripping.",
+    "Whispering, talking",
+    "The sound of Whispering has a parent relation to talking.",
+    "Whispering, human non-speech sounds",
+    "The sound of Whispering has parent human non-speech sounds.",
+    "Whispering, outdoor activity",
+    "The sound of Whispering is the outdoor activity.",
+    "Whispering, human sounds",
+    "The sound of Whispering is human sounds.",
+    "Whispering, children playing",
+    "The sound of Whispering is transcribed as children playing.",
+    "Whispering, whispering in another room",
+    "The sound of Whispering overlaps with whispering in another room.",
+    "Whoosh, swoosh, swish, arrow",
+    "The sound of Whoosh, swoosh, swish has a parent arrow.",
+    "Whoosh, swoosh, swish, onomatopoeia",
+    "The sound of Whoosh, swoosh, swish has parent onomatopoeia.",
+    "Whoosh, swoosh, swish, miscellaneous sources",
+    "The sound of Whoosh, swoosh, swish has parent miscellaneous sources.",
+    "Whoosh, swoosh, swish, car engine",
+    "The sound of Whoosh, swoosh, swish is the sound of car engine.",
+    "Whoosh, swoosh, swish, construction equipment",
+    "The sound of Whoosh, swoosh, swish is the sound of construction equipment.",
+    "Whoosh, swoosh, swish, object",
+    "The sound of Whoosh, swoosh, swish is the sound of object.",
+    "Whoosh, swoosh, swish, dishwasher",
+    "The sound of Whoosh, swoosh, swish is transcribed as dishwasher.",
+    "Whoosh, swoosh, swish, thump or thud",
+    "The sound of Whoosh, swoosh, swish is transcribed as thump or thud.",
+    "Whoosh, swoosh, swish, water splashing",
+    "The sound of Whoosh, swoosh, swish overlaps with water splashing.",
+    "Whoosh, swoosh, swish, sound of things",
+    "The sound of Whoosh, swoosh, swish overlaps with sound of things.",
+    "Whoosh, swoosh, swish, popcorn",
+    "The sound of Whoosh, swoosh, swish overlaps with popcorn.",
+    "Wild animals, wild animal",
+    "The sound of Wild animals has parent wild animal.",
+    "Wild animals, sheep",
+    "The sound of Wild animals is sheep.",
+    "Wild animals, squeal",
+    "The sound of Wild animals transcribed as squeal.",
+    "Wild animals, chirping",
+    "The sound of Wild animals overlaps with chirping.",
+    "Wind, fireworks display",
+    "The sound of Wind has a parent relationship with fireworks display.",
+    "Wind, rumble",
+    "The sound of Wind is rumble.",
+    "Wind, event",
+    "The sound of Wind is the event.",
+    "Wind, clatter",
+    "The sound of Wind is clatter.",
+    "Wind, chirping",
+    "The sound of Wind overlaps with chirping.",
+    "Wind, earthquake",
+    "The sound of Wind overlaps with earthquake.",
+    "Wind, signals the end of a sports game.",
+    "The sound of Wind overlaps with signals the end of a sports game.",
+    "Wind chime, bell ringing",
+    "The sound of Wind chime has parent bell ringing.",
+    "Wind chime, event",
+    "The sound of Wind chime transcribed as event.",
+    "Wind chime, door opening",
+    "The sound of Wind chime overlaps with door opening.",
+    "Wind instrument, woodwind instrument, wind or woodwind instrument",
+    "The sound of Wind instrument, woodwind instrument has parent wind or woodwind instrument.",
+    "Wind instrument, woodwind instrument, saxophone",
+    "The sound of Wind instrument, woodwind instrument transcribed as saxophone.",
+    "Wind instrument, woodwind instrument, jazz performance",
+    "The sound of Wind instrument, woodwind instrument overlaps with jazz performance.",
+    "Wood, things",
+    "The sound of Wood has parent things.",
+    "Wood, sound of things",
+    "The sound of Wood has parent sound of things.",
+    "Wood, hammering",
+    "The sound of Wood is hammering.",
+    "Wood, tractor in harvest field during plowing",
+    "The sound of Wood transcribed as tractor in harvest field during plowing.",
+    "Wood, tractor in harvest field during planting",
+    "The sound of Wood transcribed as tractor in harvest field during planting.",
+    "Wood, refrigerator",
+    "The sound of Wood transcribed as refrigerator.",
+    "Writing, domestic sounds",
+    "The sound of Writing has parent domestic sounds.",
+    "Writing, sound of things",
+    "The sound of Writing has parent sound of things.",
+    "Writing, things",
+    "The sound of Writing has parent things.",
+    "Writing, apartment",
+    "The sound of Writing is the apartment.",
+    "Writing, residence",
+    "The sound of Writing is the residence.",
+    "Writing, whirring",
+    "The sound of Writing is transcribed as whirring.",
+    "Writing, ringing",
+    "The sound of Writing is transcribed as ringing.",
+    "Writing, wooden groan",
+    "The sound of Writing is transcribed as wooden groan.",
+    "Writing, food preparation",
+    "The sound of Writing overlaps with food preparation.",
+    "Writing, knocking",
+    "The sound of Writing overlaps with knocking.",
+    "Zipper (clothing), domestic sounds",
+    "The sound of Zipper (clothing) has parent domestic sounds.",
+    "Zipper (clothing), things",
+    "The sound of Zipper (clothing) has parent things.",
+    "Zipper (clothing), sound of things",
+    "The sound of Zipper (clothing) has parent sound of things.",
+    "Zipper (clothing), apartment",
+    "The sound of Zipper (clothing) is heard in apartment.",
+    "Zipper (clothing), building",
+    "The sound of Zipper (clothing) is building.",
+    "Zipper (clothing), metal",
+    "The sound of Zipper (clothing) is metal.",
+    "Zipper (clothing), wooden creak",
+    "The sound of Zipper (clothing) transcribed as wooden creak.",
+    "Zipper (clothing), ding-dong",
+    "The sound of Zipper (clothing) transcribed as ding-dong.",
+    "Zipper (clothing), whirring",
+    "The sound of Zipper (clothing) is transcribed as whirring.",
+    "Zipper (clothing), knocking",
+    "The sound of Zipper (clothing) overlaps with knocking.",
+    "Zipper (clothing), door opening",
+    "The sound of Zipper (clothing) overlaps with door opening.",
+    "Zipper (clothing), ringing",
+    "The sound of Zipper (clothing) overlaps with ringing."
+  ],
+  "indices": [
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        0,
+        2,
+        4,
+        6
+      ],
+      "aakv": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "direct": [
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "aakv": [
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    {
+      "direct": [
+        22,
+        24,
+        26,
+        28,
+        30,
+        32
+      ],
+      "aakv": [
+        23,
+        25,
+        27,
+        29,
+        31,
+        33
+      ]
+    },
+    {
+      "direct": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44
+      ],
+      "aakv": [
+        35,
+        37,
+        39,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "direct": [
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60
+      ],
+      "aakv": [
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61
+      ]
+    },
+    {
+      "direct": [
+        62,
+        64
+      ],
+      "aakv": [
+        63,
+        65
+      ]
+    },
+    {
+      "direct": [
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82
+      ],
+      "aakv": [
+        67,
+        69,
+        71,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83
+      ]
+    },
+    {
+      "direct": [
+        84
+      ],
+      "aakv": [
+        85
+      ]
+    },
+    {
+      "direct": [
+        86,
+        88,
+        90,
+        92
+      ],
+      "aakv": [
+        87,
+        89,
+        91,
+        93
+      ]
+    },
+    {
+      "direct": [
+        94,
+        96,
+        98,
+        100,
+        102,
+        104,
+        106,
+        108,
+        110
+      ],
+      "aakv": [
+        95,
+        97,
+        99,
+        101,
+        103,
+        105,
+        107,
+        109,
+        111
+      ]
+    },
+    {
+      "direct": [
+        112,
+        114,
+        116,
+        118,
+        120
+      ],
+      "aakv": [
+        113,
+        115,
+        117,
+        119,
+        121
+      ]
+    },
+    {
+      "direct": [
+        122,
+        124,
+        126,
+        128,
+        130,
+        132,
+        134,
+        136
+      ],
+      "aakv": [
+        123,
+        125,
+        127,
+        129,
+        131,
+        133,
+        135,
+        137
+      ]
+    },
+    {
+      "direct": [
+        138,
+        140,
+        142,
+        144,
+        146,
+        148,
+        150,
+        152
+      ],
+      "aakv": [
+        139,
+        141,
+        143,
+        145,
+        147,
+        149,
+        151,
+        153
+      ]
+    },
+    {
+      "direct": [
+        154,
+        156,
+        158,
+        160
+      ],
+      "aakv": [
+        155,
+        157,
+        159,
+        161
+      ]
+    },
+    {
+      "direct": [
+        162,
+        164,
+        166,
+        168,
+        170,
+        172,
+        174
+      ],
+      "aakv": [
+        163,
+        165,
+        167,
+        169,
+        171,
+        173,
+        175
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        176,
+        178,
+        180,
+        182,
+        184
+      ],
+      "aakv": [
+        177,
+        179,
+        181,
+        183,
+        185
+      ]
+    },
+    {
+      "direct": [
+        186,
+        188,
+        190,
+        192
+      ],
+      "aakv": [
+        187,
+        189,
+        191,
+        193
+      ]
+    },
+    {
+      "direct": [
+        194,
+        196
+      ],
+      "aakv": [
+        195,
+        197
+      ]
+    },
+    {
+      "direct": [
+        198,
+        200,
+        202,
+        204,
+        206,
+        208,
+        210
+      ],
+      "aakv": [
+        199,
+        201,
+        203,
+        205,
+        207,
+        209,
+        211
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        212,
+        214,
+        216,
+        218,
+        220
+      ],
+      "aakv": [
+        213,
+        215,
+        217,
+        219,
+        221
+      ]
+    },
+    {
+      "direct": [
+        222,
+        224,
+        226,
+        228,
+        230,
+        232,
+        234
+      ],
+      "aakv": [
+        223,
+        225,
+        227,
+        229,
+        231,
+        233,
+        235
+      ]
+    },
+    {
+      "direct": [
+        236,
+        238,
+        240,
+        242,
+        244,
+        246,
+        248
+      ],
+      "aakv": [
+        237,
+        239,
+        241,
+        243,
+        245,
+        247,
+        249
+      ]
+    },
+    {
+      "direct": [
+        250,
+        252,
+        254,
+        256
+      ],
+      "aakv": [
+        251,
+        253,
+        255,
+        257
+      ]
+    },
+    {
+      "direct": [
+        258,
+        260,
+        262,
+        264,
+        266,
+        268,
+        270,
+        272,
+        274
+      ],
+      "aakv": [
+        259,
+        261,
+        263,
+        265,
+        267,
+        269,
+        271,
+        273,
+        275
+      ]
+    },
+    {
+      "direct": [
+        276,
+        278,
+        280,
+        282,
+        284,
+        286
+      ],
+      "aakv": [
+        277,
+        279,
+        281,
+        283,
+        285,
+        287
+      ]
+    },
+    {
+      "direct": [
+        288,
+        290,
+        292,
+        294
+      ],
+      "aakv": [
+        289,
+        291,
+        293,
+        295
+      ]
+    },
+    {
+      "direct": [
+        296,
+        298,
+        300,
+        302,
+        304,
+        306,
+        308,
+        310
+      ],
+      "aakv": [
+        297,
+        299,
+        301,
+        303,
+        305,
+        307,
+        309,
+        311
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        312,
+        314,
+        316,
+        318,
+        320,
+        322,
+        324,
+        326
+      ],
+      "aakv": [
+        313,
+        315,
+        317,
+        319,
+        321,
+        323,
+        325,
+        327
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        328,
+        330,
+        332,
+        334
+      ],
+      "aakv": [
+        329,
+        331,
+        333,
+        335
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        336,
+        338,
+        340,
+        342,
+        344,
+        346
+      ],
+      "aakv": [
+        337,
+        339,
+        341,
+        343,
+        345,
+        347
+      ]
+    },
+    {
+      "direct": [
+        348,
+        350
+      ],
+      "aakv": [
+        349,
+        351
+      ]
+    },
+    {
+      "direct": [
+        352,
+        354,
+        356,
+        358,
+        360,
+        362
+      ],
+      "aakv": [
+        353,
+        355,
+        357,
+        359,
+        361,
+        363
+      ]
+    },
+    {
+      "direct": [
+        364,
+        366,
+        368,
+        370,
+        372,
+        374,
+        376,
+        378,
+        380,
+        382,
+        384
+      ],
+      "aakv": [
+        365,
+        367,
+        369,
+        371,
+        373,
+        375,
+        377,
+        379,
+        381,
+        383,
+        385
+      ]
+    },
+    {
+      "direct": [
+        386,
+        388,
+        390,
+        392,
+        394,
+        396,
+        398,
+        400
+      ],
+      "aakv": [
+        387,
+        389,
+        391,
+        393,
+        395,
+        397,
+        399,
+        401
+      ]
+    },
+    {
+      "direct": [
+        402,
+        404,
+        406,
+        408
+      ],
+      "aakv": [
+        403,
+        405,
+        407,
+        409
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        410,
+        412,
+        414,
+        416
+      ],
+      "aakv": [
+        411,
+        413,
+        415,
+        417
+      ]
+    },
+    {
+      "direct": [
+        418,
+        420,
+        422,
+        424,
+        426,
+        428,
+        430,
+        432,
+        434
+      ],
+      "aakv": [
+        419,
+        421,
+        423,
+        425,
+        427,
+        429,
+        431,
+        433,
+        435
+      ]
+    },
+    {
+      "direct": [
+        436,
+        438,
+        440,
+        442,
+        444,
+        446
+      ],
+      "aakv": [
+        437,
+        439,
+        441,
+        443,
+        445,
+        447
+      ]
+    },
+    {
+      "direct": [
+        448,
+        450,
+        452
+      ],
+      "aakv": [
+        449,
+        451,
+        453
+      ]
+    },
+    {
+      "direct": [
+        454,
+        456,
+        458,
+        460
+      ],
+      "aakv": [
+        455,
+        457,
+        459,
+        461
+      ]
+    },
+    {
+      "direct": [
+        462,
+        464,
+        466,
+        468,
+        470,
+        472
+      ],
+      "aakv": [
+        463,
+        465,
+        467,
+        469,
+        471,
+        473
+      ]
+    },
+    {
+      "direct": [
+        474,
+        476
+      ],
+      "aakv": [
+        475,
+        477
+      ]
+    },
+    {
+      "direct": [
+        478,
+        480,
+        482,
+        484,
+        486,
+        488,
+        490,
+        492,
+        494
+      ],
+      "aakv": [
+        479,
+        481,
+        483,
+        485,
+        487,
+        489,
+        491,
+        493,
+        495
+      ]
+    },
+    {
+      "direct": [
+        496,
+        498,
+        500,
+        502,
+        504,
+        506,
+        508,
+        510,
+        512
+      ],
+      "aakv": [
+        497,
+        499,
+        501,
+        503,
+        505,
+        507,
+        509,
+        511,
+        513
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        514,
+        516,
+        518,
+        520,
+        522,
+        524,
+        526,
+        528,
+        530,
+        532,
+        534,
+        536
+      ],
+      "aakv": [
+        515,
+        517,
+        519,
+        521,
+        523,
+        525,
+        527,
+        529,
+        531,
+        533,
+        535,
+        537
+      ]
+    },
+    {
+      "direct": [
+        538,
+        540,
+        542,
+        544,
+        546,
+        548,
+        550,
+        552,
+        554,
+        556,
+        558,
+        560
+      ],
+      "aakv": [
+        539,
+        541,
+        543,
+        545,
+        547,
+        549,
+        551,
+        553,
+        555,
+        557,
+        559,
+        561
+      ]
+    },
+    {
+      "direct": [
+        562,
+        564
+      ],
+      "aakv": [
+        563,
+        565
+      ]
+    },
+    {
+      "direct": [
+        566,
+        568,
+        570,
+        572,
+        574,
+        576,
+        578,
+        580,
+        582,
+        584
+      ],
+      "aakv": [
+        567,
+        569,
+        571,
+        573,
+        575,
+        577,
+        579,
+        581,
+        583,
+        585
+      ]
+    },
+    {
+      "direct": [
+        586,
+        588,
+        590,
+        592,
+        594
+      ],
+      "aakv": [
+        587,
+        589,
+        591,
+        593,
+        595
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        596,
+        598,
+        600,
+        602,
+        604,
+        606
+      ],
+      "aakv": [
+        597,
+        599,
+        601,
+        603,
+        605,
+        607
+      ]
+    },
+    {
+      "direct": [
+        608,
+        610,
+        612,
+        614,
+        616,
+        618
+      ],
+      "aakv": [
+        609,
+        611,
+        613,
+        615,
+        617,
+        619
+      ]
+    },
+    {
+      "direct": [
+        620,
+        622,
+        624,
+        626,
+        628,
+        630,
+        632,
+        634,
+        636,
+        638,
+        640
+      ],
+      "aakv": [
+        621,
+        623,
+        625,
+        627,
+        629,
+        631,
+        633,
+        635,
+        637,
+        639,
+        641
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        642,
+        644,
+        646,
+        648,
+        650,
+        652,
+        654,
+        656,
+        658,
+        660
+      ],
+      "aakv": [
+        643,
+        645,
+        647,
+        649,
+        651,
+        653,
+        655,
+        657,
+        659,
+        661
+      ]
+    },
+    {
+      "direct": [
+        662,
+        664,
+        666,
+        668
+      ],
+      "aakv": [
+        663,
+        665,
+        667,
+        669
+      ]
+    },
+    {
+      "direct": [
+        670,
+        672
+      ],
+      "aakv": [
+        671,
+        673
+      ]
+    },
+    {
+      "direct": [
+        674,
+        676,
+        678,
+        680,
+        682,
+        684
+      ],
+      "aakv": [
+        675,
+        677,
+        679,
+        681,
+        683,
+        685
+      ]
+    },
+    {
+      "direct": [
+        686,
+        688,
+        690
+      ],
+      "aakv": [
+        687,
+        689,
+        691
+      ]
+    },
+    {
+      "direct": [
+        692,
+        694,
+        696,
+        698,
+        700,
+        702,
+        704,
+        706
+      ],
+      "aakv": [
+        693,
+        695,
+        697,
+        699,
+        701,
+        703,
+        705,
+        707
+      ]
+    },
+    {
+      "direct": [
+        708,
+        710,
+        712,
+        714
+      ],
+      "aakv": [
+        709,
+        711,
+        713,
+        715
+      ]
+    },
+    {
+      "direct": [
+        716,
+        718,
+        720,
+        722,
+        724,
+        726,
+        728
+      ],
+      "aakv": [
+        717,
+        719,
+        721,
+        723,
+        725,
+        727,
+        729
+      ]
+    },
+    {
+      "direct": [
+        730,
+        732,
+        734,
+        736,
+        738,
+        740
+      ],
+      "aakv": [
+        731,
+        733,
+        735,
+        737,
+        739,
+        741
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        742,
+        744,
+        746,
+        748,
+        750,
+        752,
+        754,
+        756,
+        758
+      ],
+      "aakv": [
+        743,
+        745,
+        747,
+        749,
+        751,
+        753,
+        755,
+        757,
+        759
+      ]
+    },
+    {
+      "direct": [
+        760,
+        762,
+        764,
+        766,
+        768,
+        770,
+        772,
+        774
+      ],
+      "aakv": [
+        761,
+        763,
+        765,
+        767,
+        769,
+        771,
+        773,
+        775
+      ]
+    },
+    {
+      "direct": [
+        776,
+        778,
+        780,
+        782,
+        784
+      ],
+      "aakv": [
+        777,
+        779,
+        781,
+        783,
+        785
+      ]
+    },
+    {
+      "direct": [
+        786,
+        788,
+        790,
+        792,
+        794,
+        796,
+        798
+      ],
+      "aakv": [
+        787,
+        789,
+        791,
+        793,
+        795,
+        797,
+        799
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        800,
+        802,
+        804,
+        806,
+        808,
+        810,
+        812,
+        814
+      ],
+      "aakv": [
+        801,
+        803,
+        805,
+        807,
+        809,
+        811,
+        813,
+        815
+      ]
+    },
+    {
+      "direct": [
+        816,
+        818,
+        820,
+        822,
+        824,
+        826,
+        828,
+        830,
+        832
+      ],
+      "aakv": [
+        817,
+        819,
+        821,
+        823,
+        825,
+        827,
+        829,
+        831,
+        833
+      ]
+    },
+    {
+      "direct": [
+        834,
+        836,
+        838,
+        840,
+        842,
+        844,
+        846,
+        848,
+        850,
+        852
+      ],
+      "aakv": [
+        835,
+        837,
+        839,
+        841,
+        843,
+        845,
+        847,
+        849,
+        851,
+        853
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        854,
+        856,
+        858,
+        860,
+        862,
+        864,
+        866,
+        868
+      ],
+      "aakv": [
+        855,
+        857,
+        859,
+        861,
+        863,
+        865,
+        867,
+        869
+      ]
+    },
+    {
+      "direct": [
+        870,
+        872
+      ],
+      "aakv": [
+        871,
+        873
+      ]
+    },
+    {
+      "direct": [
+        874,
+        876,
+        878
+      ],
+      "aakv": [
+        875,
+        877,
+        879
+      ]
+    },
+    {
+      "direct": [
+        880,
+        882,
+        884,
+        886,
+        888,
+        890
+      ],
+      "aakv": [
+        881,
+        883,
+        885,
+        887,
+        889,
+        891
+      ]
+    },
+    {
+      "direct": [
+        892,
+        894,
+        896,
+        898,
+        900
+      ],
+      "aakv": [
+        893,
+        895,
+        897,
+        899,
+        901
+      ]
+    },
+    {
+      "direct": [
+        902,
+        904,
+        906,
+        908,
+        910,
+        912
+      ],
+      "aakv": [
+        903,
+        905,
+        907,
+        909,
+        911,
+        913
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        914,
+        916,
+        918,
+        920,
+        922,
+        924,
+        926,
+        928,
+        930
+      ],
+      "aakv": [
+        915,
+        917,
+        919,
+        921,
+        923,
+        925,
+        927,
+        929,
+        931
+      ]
+    },
+    {
+      "direct": [
+        932,
+        934,
+        936
+      ],
+      "aakv": [
+        933,
+        935,
+        937
+      ]
+    },
+    {
+      "direct": [
+        938,
+        940
+      ],
+      "aakv": [
+        939,
+        941
+      ]
+    },
+    {
+      "direct": [
+        942,
+        944
+      ],
+      "aakv": [
+        943,
+        945
+      ]
+    },
+    {
+      "direct": [
+        946
+      ],
+      "aakv": [
+        947
+      ]
+    },
+    {
+      "direct": [
+        948,
+        950,
+        952,
+        954,
+        956,
+        958,
+        960,
+        962,
+        964
+      ],
+      "aakv": [
+        949,
+        951,
+        953,
+        955,
+        957,
+        959,
+        961,
+        963,
+        965
+      ]
+    },
+    {
+      "direct": [
+        966,
+        968
+      ],
+      "aakv": [
+        967,
+        969
+      ]
+    },
+    {
+      "direct": [
+        970,
+        972,
+        974
+      ],
+      "aakv": [
+        971,
+        973,
+        975
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        976,
+        978,
+        980,
+        982,
+        984
+      ],
+      "aakv": [
+        977,
+        979,
+        981,
+        983,
+        985
+      ]
+    },
+    {
+      "direct": [
+        986,
+        988
+      ],
+      "aakv": [
+        987,
+        989
+      ]
+    },
+    {
+      "direct": [
+        990,
+        992,
+        994,
+        996,
+        998,
+        1000,
+        1002,
+        1004,
+        1006,
+        1008
+      ],
+      "aakv": [
+        991,
+        993,
+        995,
+        997,
+        999,
+        1001,
+        1003,
+        1005,
+        1007,
+        1009
+      ]
+    },
+    {
+      "direct": [
+        1010,
+        1012,
+        1014,
+        1016
+      ],
+      "aakv": [
+        1011,
+        1013,
+        1015,
+        1017
+      ]
+    },
+    {
+      "direct": [
+        1018,
+        1020,
+        1022,
+        1024,
+        1026
+      ],
+      "aakv": [
+        1019,
+        1021,
+        1023,
+        1025,
+        1027
+      ]
+    },
+    {
+      "direct": [
+        1028,
+        1030,
+        1032,
+        1034,
+        1036
+      ],
+      "aakv": [
+        1029,
+        1031,
+        1033,
+        1035,
+        1037
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1038,
+        1040,
+        1042,
+        1044,
+        1046,
+        1048
+      ],
+      "aakv": [
+        1039,
+        1041,
+        1043,
+        1045,
+        1047,
+        1049
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1050,
+        1052,
+        1054
+      ],
+      "aakv": [
+        1051,
+        1053,
+        1055
+      ]
+    },
+    {
+      "direct": [
+        1056,
+        1058,
+        1060
+      ],
+      "aakv": [
+        1057,
+        1059,
+        1061
+      ]
+    },
+    {
+      "direct": [
+        1062,
+        1064,
+        1066,
+        1068,
+        1070,
+        1072,
+        1074,
+        1076
+      ],
+      "aakv": [
+        1063,
+        1065,
+        1067,
+        1069,
+        1071,
+        1073,
+        1075,
+        1077
+      ]
+    },
+    {
+      "direct": [
+        1078,
+        1080,
+        1082,
+        1084,
+        1086,
+        1088
+      ],
+      "aakv": [
+        1079,
+        1081,
+        1083,
+        1085,
+        1087,
+        1089
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1090,
+        1092,
+        1094,
+        1096,
+        1098,
+        1100,
+        1102,
+        1104,
+        1106
+      ],
+      "aakv": [
+        1091,
+        1093,
+        1095,
+        1097,
+        1099,
+        1101,
+        1103,
+        1105,
+        1107
+      ]
+    },
+    {
+      "direct": [
+        1108,
+        1110,
+        1112,
+        1114,
+        1116,
+        1118
+      ],
+      "aakv": [
+        1109,
+        1111,
+        1113,
+        1115,
+        1117,
+        1119
+      ]
+    },
+    {
+      "direct": [
+        1120,
+        1122,
+        1124,
+        1126
+      ],
+      "aakv": [
+        1121,
+        1123,
+        1125,
+        1127
+      ]
+    },
+    {
+      "direct": [
+        1128,
+        1130,
+        1132,
+        1134
+      ],
+      "aakv": [
+        1129,
+        1131,
+        1133,
+        1135
+      ]
+    },
+    {
+      "direct": [
+        1136,
+        1138,
+        1140
+      ],
+      "aakv": [
+        1137,
+        1139,
+        1141
+      ]
+    },
+    {
+      "direct": [
+        1142,
+        1144,
+        1146,
+        1148,
+        1150,
+        1152,
+        1154
+      ],
+      "aakv": [
+        1143,
+        1145,
+        1147,
+        1149,
+        1151,
+        1153,
+        1155
+      ]
+    },
+    {
+      "direct": [
+        1156,
+        1158,
+        1160,
+        1162
+      ],
+      "aakv": [
+        1157,
+        1159,
+        1161,
+        1163
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1164,
+        1166,
+        1168,
+        1170,
+        1172
+      ],
+      "aakv": [
+        1165,
+        1167,
+        1169,
+        1171,
+        1173
+      ]
+    },
+    {
+      "direct": [
+        1174,
+        1176,
+        1178,
+        1180
+      ],
+      "aakv": [
+        1175,
+        1177,
+        1179,
+        1181
+      ]
+    },
+    {
+      "direct": [
+        1182,
+        1184,
+        1186,
+        1188,
+        1190
+      ],
+      "aakv": [
+        1183,
+        1185,
+        1187,
+        1189,
+        1191
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1192,
+        1194,
+        1196,
+        1198,
+        1200,
+        1202,
+        1204,
+        1206,
+        1208
+      ],
+      "aakv": [
+        1193,
+        1195,
+        1197,
+        1199,
+        1201,
+        1203,
+        1205,
+        1207,
+        1209
+      ]
+    },
+    {
+      "direct": [
+        1210,
+        1212,
+        1214,
+        1216,
+        1218,
+        1220,
+        1222,
+        1224
+      ],
+      "aakv": [
+        1211,
+        1213,
+        1215,
+        1217,
+        1219,
+        1221,
+        1223,
+        1225
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1226,
+        1228,
+        1230,
+        1232,
+        1234
+      ],
+      "aakv": [
+        1227,
+        1229,
+        1231,
+        1233,
+        1235
+      ]
+    },
+    {
+      "direct": [
+        1236,
+        1238,
+        1240,
+        1242
+      ],
+      "aakv": [
+        1237,
+        1239,
+        1241,
+        1243
+      ]
+    },
+    {
+      "direct": [
+        1244,
+        1246,
+        1248,
+        1250
+      ],
+      "aakv": [
+        1245,
+        1247,
+        1249,
+        1251
+      ]
+    },
+    {
+      "direct": [
+        1252,
+        1254,
+        1256,
+        1258,
+        1260,
+        1262,
+        1264,
+        1266
+      ],
+      "aakv": [
+        1253,
+        1255,
+        1257,
+        1259,
+        1261,
+        1263,
+        1265,
+        1267
+      ]
+    },
+    {
+      "direct": [
+        1268,
+        1270,
+        1272,
+        1274,
+        1276,
+        1278,
+        1280,
+        1282,
+        1284,
+        1286,
+        1288
+      ],
+      "aakv": [
+        1269,
+        1271,
+        1273,
+        1275,
+        1277,
+        1279,
+        1281,
+        1283,
+        1285,
+        1287,
+        1289
+      ]
+    },
+    {
+      "direct": [
+        1290,
+        1292,
+        1294,
+        1296,
+        1298
+      ],
+      "aakv": [
+        1291,
+        1293,
+        1295,
+        1297,
+        1299
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1300,
+        1302,
+        1304,
+        1306,
+        1308
+      ],
+      "aakv": [
+        1301,
+        1303,
+        1305,
+        1307,
+        1309
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1310,
+        1312,
+        1314,
+        1316,
+        1318
+      ],
+      "aakv": [
+        1311,
+        1313,
+        1315,
+        1317,
+        1319
+      ]
+    },
+    {
+      "direct": [
+        1320,
+        1322,
+        1324,
+        1326,
+        1328,
+        1330,
+        1332
+      ],
+      "aakv": [
+        1321,
+        1323,
+        1325,
+        1327,
+        1329,
+        1331,
+        1333
+      ]
+    },
+    {
+      "direct": [
+        1334,
+        1336,
+        1338,
+        1340,
+        1342,
+        1344,
+        1346,
+        1348,
+        1350,
+        1352,
+        1354
+      ],
+      "aakv": [
+        1335,
+        1337,
+        1339,
+        1341,
+        1343,
+        1345,
+        1347,
+        1349,
+        1351,
+        1353,
+        1355
+      ]
+    },
+    {
+      "direct": [
+        1356,
+        1358
+      ],
+      "aakv": [
+        1357,
+        1359
+      ]
+    },
+    {
+      "direct": [
+        1360,
+        1362,
+        1364,
+        1366,
+        1368,
+        1370,
+        1372
+      ],
+      "aakv": [
+        1361,
+        1363,
+        1365,
+        1367,
+        1369,
+        1371,
+        1373
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1374,
+        1376,
+        1378,
+        1380,
+        1382,
+        1384
+      ],
+      "aakv": [
+        1375,
+        1377,
+        1379,
+        1381,
+        1383,
+        1385
+      ]
+    },
+    {
+      "direct": [
+        1386,
+        1388,
+        1390,
+        1392,
+        1394,
+        1396,
+        1398,
+        1400,
+        1402,
+        1404,
+        1406
+      ],
+      "aakv": [
+        1387,
+        1389,
+        1391,
+        1393,
+        1395,
+        1397,
+        1399,
+        1401,
+        1403,
+        1405,
+        1407
+      ]
+    },
+    {
+      "direct": [
+        1408,
+        1410,
+        1412,
+        1414,
+        1416,
+        1418,
+        1420
+      ],
+      "aakv": [
+        1409,
+        1411,
+        1413,
+        1415,
+        1417,
+        1419,
+        1421
+      ]
+    },
+    {
+      "direct": [
+        1422,
+        1424,
+        1426,
+        1428,
+        1430,
+        1432
+      ],
+      "aakv": [
+        1423,
+        1425,
+        1427,
+        1429,
+        1431,
+        1433
+      ]
+    },
+    {
+      "direct": [
+        1434,
+        1436,
+        1438,
+        1440,
+        1442,
+        1444,
+        1446,
+        1448,
+        1450,
+        1452,
+        1454
+      ],
+      "aakv": [
+        1435,
+        1437,
+        1439,
+        1441,
+        1443,
+        1445,
+        1447,
+        1449,
+        1451,
+        1453,
+        1455
+      ]
+    },
+    {
+      "direct": [
+        1456,
+        1458,
+        1460,
+        1462,
+        1464,
+        1466,
+        1468,
+        1470,
+        1472,
+        1474
+      ],
+      "aakv": [
+        1457,
+        1459,
+        1461,
+        1463,
+        1465,
+        1467,
+        1469,
+        1471,
+        1473,
+        1475
+      ]
+    },
+    {
+      "direct": [
+        1476,
+        1478,
+        1480,
+        1482
+      ],
+      "aakv": [
+        1477,
+        1479,
+        1481,
+        1483
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1484,
+        1486,
+        1488
+      ],
+      "aakv": [
+        1485,
+        1487,
+        1489
+      ]
+    },
+    {
+      "direct": [
+        1490,
+        1492,
+        1494,
+        1496,
+        1498,
+        1500,
+        1502
+      ],
+      "aakv": [
+        1491,
+        1493,
+        1495,
+        1497,
+        1499,
+        1501,
+        1503
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1504,
+        1506,
+        1508,
+        1510,
+        1512,
+        1514,
+        1516,
+        1518,
+        1520,
+        1522
+      ],
+      "aakv": [
+        1505,
+        1507,
+        1509,
+        1511,
+        1513,
+        1515,
+        1517,
+        1519,
+        1521,
+        1523
+      ]
+    },
+    {
+      "direct": [
+        1524,
+        1526,
+        1528,
+        1530,
+        1532,
+        1534,
+        1536,
+        1538
+      ],
+      "aakv": [
+        1525,
+        1527,
+        1529,
+        1531,
+        1533,
+        1535,
+        1537,
+        1539
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1540
+      ],
+      "aakv": [
+        1541
+      ]
+    },
+    {
+      "direct": [
+        1542,
+        1544,
+        1546
+      ],
+      "aakv": [
+        1543,
+        1545,
+        1547
+      ]
+    },
+    {
+      "direct": [
+        1548,
+        1550,
+        1552,
+        1554,
+        1556,
+        1558,
+        1560,
+        1562
+      ],
+      "aakv": [
+        1549,
+        1551,
+        1553,
+        1555,
+        1557,
+        1559,
+        1561,
+        1563
+      ]
+    },
+    {
+      "direct": [
+        1564,
+        1566,
+        1568,
+        1570,
+        1572,
+        1574,
+        1576,
+        1578
+      ],
+      "aakv": [
+        1565,
+        1567,
+        1569,
+        1571,
+        1573,
+        1575,
+        1577,
+        1579
+      ]
+    },
+    {
+      "direct": [
+        1580,
+        1582,
+        1584,
+        1586,
+        1588,
+        1590,
+        1592,
+        1594,
+        1596
+      ],
+      "aakv": [
+        1581,
+        1583,
+        1585,
+        1587,
+        1589,
+        1591,
+        1593,
+        1595,
+        1597
+      ]
+    },
+    {
+      "direct": [
+        1598,
+        1600,
+        1602,
+        1604,
+        1606,
+        1608,
+        1610,
+        1612
+      ],
+      "aakv": [
+        1599,
+        1601,
+        1603,
+        1605,
+        1607,
+        1609,
+        1611,
+        1613
+      ]
+    },
+    {
+      "direct": [
+        1614,
+        1616
+      ],
+      "aakv": [
+        1615,
+        1617
+      ]
+    },
+    {
+      "direct": [
+        1618,
+        1620
+      ],
+      "aakv": [
+        1619,
+        1621
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1622,
+        1624,
+        1626,
+        1628,
+        1630,
+        1632,
+        1634
+      ],
+      "aakv": [
+        1623,
+        1625,
+        1627,
+        1629,
+        1631,
+        1633,
+        1635
+      ]
+    },
+    {
+      "direct": [
+        1636,
+        1638,
+        1640,
+        1642,
+        1644,
+        1646,
+        1648,
+        1650,
+        1652
+      ],
+      "aakv": [
+        1637,
+        1639,
+        1641,
+        1643,
+        1645,
+        1647,
+        1649,
+        1651,
+        1653
+      ]
+    },
+    {
+      "direct": [
+        1654,
+        1656,
+        1658,
+        1660,
+        1662,
+        1664
+      ],
+      "aakv": [
+        1655,
+        1657,
+        1659,
+        1661,
+        1663,
+        1665
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1666,
+        1668,
+        1670,
+        1672,
+        1674
+      ],
+      "aakv": [
+        1667,
+        1669,
+        1671,
+        1673,
+        1675
+      ]
+    },
+    {
+      "direct": [
+        1676,
+        1678,
+        1680,
+        1682,
+        1684,
+        1686,
+        1688,
+        1690,
+        1692
+      ],
+      "aakv": [
+        1677,
+        1679,
+        1681,
+        1683,
+        1685,
+        1687,
+        1689,
+        1691,
+        1693
+      ]
+    },
+    {
+      "direct": [
+        1694,
+        1696,
+        1698,
+        1700,
+        1702
+      ],
+      "aakv": [
+        1695,
+        1697,
+        1699,
+        1701,
+        1703
+      ]
+    },
+    {
+      "direct": [
+        1704,
+        1706,
+        1708,
+        1710,
+        1712
+      ],
+      "aakv": [
+        1705,
+        1707,
+        1709,
+        1711,
+        1713
+      ]
+    },
+    {
+      "direct": [
+        1714,
+        1716,
+        1718,
+        1720,
+        1722,
+        1724,
+        1726
+      ],
+      "aakv": [
+        1715,
+        1717,
+        1719,
+        1721,
+        1723,
+        1725,
+        1727
+      ]
+    },
+    {
+      "direct": [
+        1728,
+        1730,
+        1732,
+        1734,
+        1736,
+        1738,
+        1740,
+        1742,
+        1744,
+        1746
+      ],
+      "aakv": [
+        1729,
+        1731,
+        1733,
+        1735,
+        1737,
+        1739,
+        1741,
+        1743,
+        1745,
+        1747
+      ]
+    },
+    {
+      "direct": [
+        1748,
+        1750,
+        1752,
+        1754,
+        1756,
+        1758,
+        1760
+      ],
+      "aakv": [
+        1749,
+        1751,
+        1753,
+        1755,
+        1757,
+        1759,
+        1761
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1762,
+        1764,
+        1766,
+        1768,
+        1770
+      ],
+      "aakv": [
+        1763,
+        1765,
+        1767,
+        1769,
+        1771
+      ]
+    },
+    {
+      "direct": [
+        1772,
+        1774,
+        1776,
+        1778,
+        1780,
+        1782,
+        1784,
+        1786,
+        1788,
+        1790
+      ],
+      "aakv": [
+        1773,
+        1775,
+        1777,
+        1779,
+        1781,
+        1783,
+        1785,
+        1787,
+        1789,
+        1791
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1792,
+        1794,
+        1796,
+        1798,
+        1800,
+        1802
+      ],
+      "aakv": [
+        1793,
+        1795,
+        1797,
+        1799,
+        1801,
+        1803
+      ]
+    },
+    {
+      "direct": [
+        1804,
+        1806,
+        1808,
+        1810,
+        1812,
+        1814,
+        1816,
+        1818,
+        1820,
+        1822,
+        1824
+      ],
+      "aakv": [
+        1805,
+        1807,
+        1809,
+        1811,
+        1813,
+        1815,
+        1817,
+        1819,
+        1821,
+        1823,
+        1825
+      ]
+    },
+    {
+      "direct": [
+        1826,
+        1828,
+        1830,
+        1832
+      ],
+      "aakv": [
+        1827,
+        1829,
+        1831,
+        1833
+      ]
+    },
+    {
+      "direct": [
+        1834,
+        1836,
+        1838,
+        1840,
+        1842,
+        1844,
+        1846
+      ],
+      "aakv": [
+        1835,
+        1837,
+        1839,
+        1841,
+        1843,
+        1845,
+        1847
+      ]
+    },
+    {
+      "direct": [
+        1848,
+        1850,
+        1852
+      ],
+      "aakv": [
+        1849,
+        1851,
+        1853
+      ]
+    },
+    {
+      "direct": [
+        1854,
+        1856,
+        1858
+      ],
+      "aakv": [
+        1855,
+        1857,
+        1859
+      ]
+    },
+    {
+      "direct": [
+        1860,
+        1862,
+        1864,
+        1866,
+        1868,
+        1870
+      ],
+      "aakv": [
+        1861,
+        1863,
+        1865,
+        1867,
+        1869,
+        1871
+      ]
+    },
+    {
+      "direct": [
+        1872,
+        1874,
+        1876,
+        1878,
+        1880,
+        1882,
+        1884,
+        1886,
+        1888,
+        1890
+      ],
+      "aakv": [
+        1873,
+        1875,
+        1877,
+        1879,
+        1881,
+        1883,
+        1885,
+        1887,
+        1889,
+        1891
+      ]
+    },
+    {
+      "direct": [],
+      "aakv": []
+    },
+    {
+      "direct": [
+        1892,
+        1894,
+        1896,
+        1898,
+        1900,
+        1902,
+        1904,
+        1906,
+        1908,
+        1910,
+        1912,
+        1914
+      ],
+      "aakv": [
+        1893,
+        1895,
+        1897,
+        1899,
+        1901,
+        1903,
+        1905,
+        1907,
+        1909,
+        1911,
+        1913,
+        1915
+      ]
+    }
+  ]
+}

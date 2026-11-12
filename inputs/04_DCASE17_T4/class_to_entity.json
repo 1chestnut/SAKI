@@ -1,0 +1,19 @@
+{
+  "ambulance (siren)": "ambulance",
+  "bicycle": "bicycle",
+  "bus": "bus",
+  "car": "car",
+  "car alarm": "car alarm",
+  "car passing by": "car passing by",
+  "civil defense siren": "siren",
+  "fire engine, fire truck (siren)": null,
+  "motorcycle": "motorcycle",
+  "police car (siren)": null,
+  "reversing beeps": null,
+  "screaming": "screaming",
+  "skateboard": "skateboard",
+  "train": "train",
+  "train horn": "train horn",
+  "truck": "truck",
+  "air horn, truck horn": "air horn or truck horn"
+}

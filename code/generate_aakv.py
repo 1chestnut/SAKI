@@ -3,7 +3,6 @@ import argparse
 import json
 from pathlib import Path
 import torch
-from transformers import AutoModelForCausalLM,AutoTokenizer
 from saki.aakv import SYSTEM_PROMPT,REPAIR_PROMPT,model_generate,validate
 
 def main():
@@ -13,6 +12,7 @@ def main():
     parser.add_argument('--output',type=Path,required=True)
     args=parser.parse_args()
     if args.output.exists():raise FileExistsError('Choose a new output; frozen paper texts must remain unchanged.')
+    from transformers import AutoModelForCausalLM, AutoTokenizer
     tokenizer=AutoTokenizer.from_pretrained(args.model,local_files_only=True)
     model=AutoModelForCausalLM.from_pretrained(args.model,torch_dtype=torch.bfloat16,device_map='cuda:0',local_files_only=True)
     model.eval();rows=[];texts={}

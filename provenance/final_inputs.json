@@ -1,0 +1,60 @@
+{
+  "method": "SoNAR",
+  "datasets": [
+    {
+      "dataset": "01_ESC50",
+      "task": "single-label",
+      "n": 2000,
+      "classes": 50,
+      "source_static_cache_sha256": "5ca04d271006cf0f597ecc9af71b189e6f1a2e79e7e849688e6498394dcb3a7b",
+      "source_fixed_text_embeddings_sha256": "8aa8f27814521ed666784a6f4496f0f13f6c5b7bd1206ed05b797173e4ae3847",
+      "final_text_count": 6167
+    },
+    {
+      "dataset": "02_UrbanSound8K",
+      "task": "single-label",
+      "n": 8732,
+      "classes": 10,
+      "source_static_cache_sha256": "8de78ba9f78ac5e110b116fde12c31bca5733d73f693e8ea63a7e3cabbc74831",
+      "source_fixed_text_embeddings_sha256": "909a44a81e997d8d5c45614117bbd51a10008c646ca20cb5c8bd50294fc7e842",
+      "final_text_count": 1360
+    },
+    {
+      "dataset": "03_FSD50K",
+      "task": "multilabel",
+      "n": 10231,
+      "classes": 200,
+      "source_static_cache_sha256": "ea40af8cae8828c0db71da05888222702aba867c107c7d0547b58375d3c45fe7",
+      "source_fixed_text_embeddings_sha256": "098d24d61257bc033a04efcde2e13a6e0cf55022ef3e91d93e9bcdef86d6c9a4",
+      "final_text_count": 15508
+    },
+    {
+      "dataset": "04_DCASE17_T4",
+      "task": "multilabel",
+      "n": 416,
+      "classes": 17,
+      "source_static_cache_sha256": "9e9de24f462052c196ccc62f9c53ffa4d67b930b04a143bb10076887c4bced14",
+      "source_fixed_text_embeddings_sha256": "865cb7aca9005bff5cddac1aa4b22187408ab1d4723fd6d70e44c60c045e3057",
+      "final_text_count": 1791
+    },
+    {
+      "dataset": "05_AudioSet",
+      "task": "multilabel",
+      "n": 17233,
+      "classes": 527,
+      "source_static_cache_sha256": "012c8c813f9c54316c2e60fb6a1e2b93ba748be7b3af221792ff91108f2032a5",
+      "source_fixed_text_embeddings_sha256": "a43cafa0b8119bff178bd7b57b7121d92099adfaf009452771694aa891e9ae11",
+      "final_text_count": 38679
+    },
+    {
+      "dataset": "06_TUT2017",
+      "task": "single-label",
+      "n": 6300,
+      "classes": 15,
+      "source_static_cache_sha256": "22758af9b45157a141cb5015068badfa6fceb879ef958232c0136ff9e9c84c75",
+      "source_fixed_text_embeddings_sha256": "04900086cf73d3e61ea4d4e98cf6d934912768a8489a05cec08d3062fb0cd668",
+      "final_text_count": 1584
+    }
+  ],
+  "scope": "Method inputs only: no predictions, metric tables, timing records, or generation audit histories."
+}

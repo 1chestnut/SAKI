@@ -1,12 +1,14 @@
-# Third-party resources and attribution review
+# Third-party resources
 
-This release uses MS-CLAP, AKG/iKnow-audio resources, PyKEEN/RotatE,
-Qwen2.5-7B-Instruct and the benchmark datasets identified in docs/DATA.md.
-Their code, weights, graphs and data retain their original terms.
+SoNAR uses MS-CLAP, the AKG/iKnow-audio resources, PyKEEN/RotatE,
+Qwen2.5-7B-Instruct, and benchmark datasets linked in `docs/DATA.md`.
+These projects, graphs, audio, code and pretrained weights retain their original
+terms. Use the original providers for full resources and their license notices.
 
-Captured project-specific loaders and graph-derived resources must be reviewed
-against their upstream provenance before public redistribution. A captured
-environment or source hash is not a redistribution license. No new software
-license has been selected on the authors' behalf.
+The retained class/relation/tail strings and class-to-entity mappings originate
+from the AKG-based experiment inputs. The AAKV descriptions are generated method
+inputs, not factual annotations. Publishing this repository does not grant new
+rights in third-party resources. Raw audio, the full upstream graph and pretrained
+checkpoints are not redistributed here.
 
-Raw benchmark audio and pretrained checkpoints are not in this package.
+No new software license has been selected on the authors' behalf.

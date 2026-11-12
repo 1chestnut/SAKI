@@ -8,12 +8,14 @@ artifacts/
 runtime_layout/
 data/
 models/
+resources/
 outputs/
 reference_results/
 results/
 logs/
-figures/source_*.csv
 *.pt
 *.pth
+*.pkl
+*.pickle
 *.npz
 *.zip

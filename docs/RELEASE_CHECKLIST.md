@@ -1,13 +1,10 @@
-# Code release scope
+# Release scope
 
-The public tree contains core method code, dataset-specific source programs,
-preprocessing, manifests, fixed settings, tests, and resource instructions.
-
-Results, prediction dumps, logs, plotting data, raw audio, model checkpoints,
-and frozen graph/text caches are excluded from the current tree. Earlier
-published commits remain in Git history.
-
-The portable audio adapter still requires clean-environment GPU validation.
-A code-only release does not include all exact inputs for the paper numbers.
-Third-party resources retain their original terms. A software license has
-not been selected and no archive DOI is assigned.
+- Use SoNAR as the visible method name; retain the existing repository URL/import name.
+- Use the final 416-clip development manifest with original retained indices and seeds.
+- Keep candidate class/relation order and fixed baseline evidence.
+- Include method inputs, preprocessing/resource instructions and final experiment entry points.
+- Exclude experimental predictions, result tables, plot source data and runtime/generation logs.
+- Exclude raw audio, pretrained weights, binary caches and server credentials/queue helpers.
+- Record validation boundaries in VALIDATION.md and file hashes in SHA256SUMS.csv.
+- Third-party resources retain their terms; authors have not selected a new software license.

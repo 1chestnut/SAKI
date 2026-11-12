@@ -1,24 +1,43 @@
-"""Check frozen sample identities and, optionally, local audio availability."""
-import argparse,json
+"""Check final manifests, evidence inputs, exact keys and optional local audio."""
+import argparse
 from pathlib import Path
+from saki.data import DATASETS, load_manifest, read_json, resolve_audio
+
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--manifests',type=Path,default=Path(__file__).resolve().parents[1]/'manifests')
-    p.add_argument('--audio-root',type=Path);a=p.parse_args()
-    expected={'01_ESC50':2000,'02_UrbanSound8K':8732,'03_FSD50K':10231,'04_DCASE17_T4':419,'05_AudioSet':17233,'06_TUT2017':6300}
-    missing=[]
-    for ds,n in expected.items():
-        rows=json.loads((a.manifests/ds/'samples.json').read_text(encoding='utf-8'))
-        classes=json.loads((a.manifests/ds/'classes.json').read_text(encoding='utf-8'))
-        assert len(rows)==n and len({x['audio_path'] for x in rows})==n
-        for row in rows:
-            assert row['true_indices'] and all(0<=i<len(classes) for i in row['true_indices'])
-            assert isinstance(row['seed'],int)
-            if a.audio_root:
-                path=str(row['audio_path']);prefix='${DATA_ROOT}/';assert path.startswith(prefix)
-                if not (a.audio_root/path[len(prefix):]).is_file():missing.append((ds,row['sample_index']))
-        print(ds,len(rows),'samples;',len(classes),'candidate classes')
-    if missing:raise SystemExit(f'{len(missing)} audio files are unavailable; do not silently change the evaluation subset. First IDs: {missing[:10]}')
-    print('PASS: frozen manifest identities, labels and seeds'+(' and audio availability' if a.audio_root else ''))
+    p = argparse.ArgumentParser(description=__doc__)
+    p.add_argument('--audio-root', type=Path)
+    args = p.parse_args()
+    root = Path(__file__).resolve().parents[1]
+    for ds, (name, task, n, c) in DATASETS.items():
+        classes = read_json(root / 'manifests' / ds / 'classes.json')
+        relations = read_json(root / 'manifests' / ds / 'relations.json')
+        rows = load_manifest(root / 'manifests' / ds / 'samples.json', classes)
+        assert len(rows) == n and len(classes) == c and len(relations) == 47
+        graph = read_json(root / 'inputs' / ds / 'graph.json')
+        mapping = read_json(root / 'inputs' / ds / 'class_to_entity.json')
+        texts = read_json(root / 'inputs' / ds / 'aakv.json')['texts']
+        assert graph['classes'] == classes and graph['relations'] == relations
+        for relation, evidence in graph['tails'].items():
+            for ci, items in evidence.items():
+                assert not items or mapping[classes[int(ci)]] is not None
+                assert len(items) <= 3 and len({x[0] for x in items}) == len(items)
+                for tail, direct in items:
+                    assert '\t'.join((classes[int(ci)], relation, tail)) in texts
+                    assert direct == classes[int(ci)] + ', ' + tail
+        assert all(set(r['relation_selection_seeds']) == {'42', '43', '44'} for r in rows)
+        if task == 'single-label': assert all(len(r['true_indices']) == 1 for r in rows)
+        if args.audio_root:
+            missing = [str(resolve_audio(r, args.audio_root)) for r in rows if not resolve_audio(r, args.audio_root).is_file()]
+            if missing: raise FileNotFoundError(f'{ds}: {len(missing)} missing files; first: {missing[0]}')
+        print(f'{name}: {n} clips, {c} classes, 47 relations; checks passed.')
+    dev = load_manifest(root / 'manifests/04_DCASE17_T4/samples.json')
+    audioset = load_manifest(root / 'manifests/05_AudioSet/samples.json')
+    import re
+    dev_ids = {re.match(r'^Y(.{11})_', Path(x['audio_path']).name).group(1) for x in dev}
+    test_ids = {Path(x['audio_path']).stem for x in audioset}
+    assert not dev_ids.intersection(test_ids), 'Development/test source overlap.'
 
-if __name__=='__main__':main()
+
+if __name__ == '__main__':
+    main()

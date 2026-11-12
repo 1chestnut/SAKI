@@ -1,22 +1,23 @@
-# Paper components and source code
+# Final manuscript implementation map
 
-| Component | Implementation |
+| Manuscript component | Public implementation |
 |---|---|
-| Relation selection and fusion | saki/scoring.py; saki/inference.py |
-| Retrieval and filtering | saki/retrieval.py |
-| AAKV | saki/aakv.py; code/generate_aakv.py |
-| ESC-50 / UrbanSound8K comparison | experiments/source_runs/main_esc_urban.py |
-| Corrected FSD50K / AudioSet comparison | experiments/source_runs/main_fsd_audioset_corrected.py |
-| Complete TUT2017 comparison | experiments/source_runs/main_tut6300.py |
-| Relation-selection controls | experiments/source_runs/selector_*.py |
-| Raw-triple controls | experiments/source_runs/raw_triple_*.py |
-| Corrected AAKV cache | experiments/source_runs/aakv_corrected_*.py |
-| Development selection | experiments/source_runs/development_corrected.py; development_core.py |
-| Serial efficiency measurement | experiments/source_runs/efficiency_serial_corrected.py |
-| Statistical analysis | experiments/source_runs/statistics.py |
-| Dataset preprocessing | experiments/dataset_loaders/ |
+| Class-to-entity mapping, final retained graph evidence | inputs/<dataset>/class_to_entity.json and graph.json |
+| RotatE top-M retrieval/filtering | code/prepare_graph.py |
+| AAKV prompts/checks/repair/fallback | saki/aakv.py, code/generate_aakv.py |
+| Final AAKV sound descriptions | inputs/<dataset>/aakv.json |
+| Fixed controlled-baseline evidence | inputs/<dataset>/fixed_evidence.json |
+| Offline text encoding | code/prepare_inputs.py |
+| Online audio and scoring | saki/runtime.py, saki/scoring.py, saki/inference.py |
+| Main results / component ablations | experiments.run --suite main / components |
+| Relation-selection comparisons | experiments.run --suite relations |
+| Text-representation comparisons | experiments.run --suite text |
+| Development grid / test sensitivity | experiments.run --suite grid |
+| 47/30/20 candidate-pool comparison | experiments.run --suite pools |
+| Final serial online timing | experiments/benchmark.py and _timing_core.py |
+| Ranking, Macro-F1, mAP, per-class metrics | saki/metrics.py, code/evaluate.py |
+| Paired bootstrap, transitions, McNemar/Holm | saki/statistics.py, experiments/statistics.py |
 
-FSD50K and AudioSet use the corrected Task-31 sources; TUT2017 uses the
-complete Task-28 version. Portable source-run paths use environment variables.
-Their historical input layouts are retained. Generated results and plotting
-data are excluded. Source hashes are retained in provenance/source_registry.json.
+Historical result-producing source files are preserved in the author's private
+backup. Public entry points consume method inputs and raw audio, without reading
+reported result tables or archived model predictions.
