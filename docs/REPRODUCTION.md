@@ -1,7 +1,7 @@
 # Reproducing the final manuscript comparisons
 
 All commands assume the package is installed with `pip install -e ".[inference,test]"`.
-The examples use ESC-50; substitute one of the dataset IDs in `saki/data.py`.
+The examples use ESC-50; substitute one of the dataset IDs in `sonar/data.py`.
 Download the audio/model resources and prepare embeddings as described in `DATA.md`.
 
 ## Main results and class metrics

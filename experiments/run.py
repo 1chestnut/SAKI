@@ -4,9 +4,9 @@ from dataclasses import asdict
 from pathlib import Path
 import numpy as np
 import torch
-from saki.data import DATASETS, configure, load_manifest, write_json
-from saki.metrics import evaluate
-from saki.runtime import PreparedInputs, encode_audio, load_clap
+from sonar.data import DATASETS, configure, load_manifest, write_json
+from sonar.metrics import evaluate
+from sonar.runtime import PreparedInputs, encode_audio, load_clap
 from .branches import branches, select_development_configuration
 
 

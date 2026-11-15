@@ -9,8 +9,8 @@ from pathlib import Path
 import numpy as np
 import torch
 import torch.nn.functional as F
-from saki.data import DATASETS, configure, load_manifest, resolve_audio, seed_all, write_json
-from saki.runtime import Branch, PreparedInputs, load_clap
+from sonar.data import DATASETS, configure, load_manifest, resolve_audio, seed_all, write_json
+from sonar.runtime import Branch, PreparedInputs, load_clap
 from . import _timing_core as reference
 
 CONFIGURATIONS = [Branch('CLAP', selection='base'),

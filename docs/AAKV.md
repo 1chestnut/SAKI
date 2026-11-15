@@ -11,7 +11,7 @@ python code/generate_aakv.py --triples outputs/esc50_triples.json --model /model
 
 The class name is the supplied head text; the AKG entity is used for retrieval.
 The exact system/repair prompts, forbidden expressions and relation-term checks
-are in `saki/aakv.py`. Generation uses Qwen2.5-7B-Instruct and greedy decoding
+are in `sonar/aakv.py`. Generation uses Qwen2.5-7B-Instruct and greedy decoding
 with at most 48 new tokens. The automatic checks cover prefix, head/tail content
 words, relation terms, length, line/sentence formatting and prohibited expressions.
 An output failing checks receives one constrained repair attempt using the

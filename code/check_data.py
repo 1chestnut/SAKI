@@ -1,7 +1,7 @@
 """Check final manifests, evidence inputs, exact keys and optional local audio."""
 import argparse
 from pathlib import Path
-from saki.data import DATASETS, load_manifest, read_json, resolve_audio
+from sonar.data import DATASETS, load_manifest, read_json, resolve_audio
 
 
 def main():

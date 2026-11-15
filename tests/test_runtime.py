@@ -2,8 +2,8 @@ import random
 import numpy as np
 import pytest
 torch = pytest.importorskip('torch')
-from saki.runtime import Branch, PreparedInputs
-from saki.inference import score
+from sonar.runtime import Branch, PreparedInputs
+from sonar.inference import score
 from experiments import _timing_core
 
 

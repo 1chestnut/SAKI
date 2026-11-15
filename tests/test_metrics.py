@@ -1,7 +1,7 @@
 import numpy as np
 import pytest
-from saki.metrics import evaluate
-from saki.statistics import holm
+from sonar.metrics import evaluate
+from sonar.statistics import holm
 
 
 def test_multilabel_map_checks_secondary_labels():

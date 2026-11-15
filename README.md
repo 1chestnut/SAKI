@@ -6,7 +6,7 @@ Implementation of sample-level relation selection, Audio-Aligned Knowledge
 Verbalization (AAKV), and Hierarchical Fusion. SoNAR adapts class-related graph
 knowledge to each audio clip without updating CLAP parameters.
 
-The GitHub URL and Python import name `saki` are retained for compatibility.
+The Python package is named `sonar`.
 
 ## Install
 
@@ -99,4 +99,4 @@ Timing scripts implement the stated protocol; latency is hardware-dependent.
 Third-party resources retain their original terms. No new software license has
 been selected on the authors' behalf. See [third-party notices](THIRD_PARTY_NOTICES.md).
 
-Repository: https://github.com/1chestnut/SAKI
+Repository: https://github.com/1chestnut/SoNAR

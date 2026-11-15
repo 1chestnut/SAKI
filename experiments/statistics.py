@@ -2,8 +2,8 @@
 import argparse
 from pathlib import Path
 import numpy as np
-from saki.data import DATASETS, read_json, write_json
-from saki.statistics import compare, holm
+from sonar.data import DATASETS, read_json, write_json
+from sonar.statistics import compare, holm
 
 
 def main():

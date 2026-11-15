@@ -4,9 +4,9 @@ from pathlib import Path
 import hashlib
 import torch
 import torch.nn.functional as F
-from saki.data import DATASETS, configure, read_json
-from saki.retrieval import encode_texts
-from saki.runtime import load_clap
+from sonar.data import DATASETS, configure, read_json
+from sonar.retrieval import encode_texts
+from sonar.runtime import load_clap
 
 
 def main():

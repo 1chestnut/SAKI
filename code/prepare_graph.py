@@ -2,8 +2,8 @@
 import argparse
 from pathlib import Path
 import torch
-from saki.data import read_json, write_json
-from saki.retrieval import retained_tails
+from sonar.data import read_json, write_json
+from sonar.retrieval import retained_tails
 
 
 def main():

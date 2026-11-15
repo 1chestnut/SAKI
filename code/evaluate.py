@@ -2,8 +2,8 @@
 import argparse
 from pathlib import Path
 import numpy as np
-from saki.data import DATASETS, load_manifest, read_json, write_json
-from saki.metrics import evaluate
+from sonar.data import DATASETS, load_manifest, read_json, write_json
+from sonar.metrics import evaluate
 
 
 def main():

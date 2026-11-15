@@ -1,5 +1,5 @@
 """Paper comparisons; all branches start from an unchanged CLAP score vector."""
-from saki.runtime import Branch
+from sonar.runtime import Branch
 
 
 def branches(suite):

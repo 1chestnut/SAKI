@@ -1,7 +1,7 @@
 import pytest
 torch=pytest.importorskip('torch')
-from saki.scoring import hier, relation_order, apply_selected
-from saki.inference import score
+from sonar.scoring import hier, relation_order, apply_selected
+from sonar.inference import score
 
 def test_missing_evidence_keeps_entire_base_score():
     base=torch.tensor([.8,.7,.6])

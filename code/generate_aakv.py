@@ -3,7 +3,7 @@ import argparse
 import json
 from pathlib import Path
 import torch
-from saki.aakv import SYSTEM_PROMPT,REPAIR_PROMPT,model_generate,validate
+from sonar.aakv import SYSTEM_PROMPT,REPAIR_PROMPT,model_generate,validate
 
 def main():
     parser=argparse.ArgumentParser()
